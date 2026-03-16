@@ -1,0 +1,42 @@
+[
+  {
+    "section_id": "S1",
+    "title": "项目理解与总体响应",
+    "objective": "概述需求理解、实施边界与总体承诺",
+    "related_requirements": [
+      "REQ-001"
+    ]
+  },
+  {
+    "section_id": "S2",
+    "title": "技术方案",
+    "objective": "针对技术和功能类要求给出实施方案",
+    "related_requirements": [
+      "REQ-002",
+      "REQ-003",
+      "REQ-005"
+    ]
+  },
+  {
+    "section_id": "S3",
+    "title": "商务与实施计划",
+    "objective": "说明工期、交付、服务与商务响应",
+    "related_requirements": [
+      "REQ-004"
+    ]
+  },
+  {
+    "section_id": "S4",
+    "title": "评分点应答",
+    "objective": "按评分项强化表达并突出可证明优势",
+    "related_requirements": []
+  },
+  {
+    "section_id": "S5",
+    "title": "格式与附件说明",
+    "objective": "补齐目录、签章、附件、矩阵等要求",
+    "related_requirements": [
+      "REQ-006"
+    ]
+  }
+]

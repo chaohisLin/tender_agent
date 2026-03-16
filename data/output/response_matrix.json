@@ -1,0 +1,68 @@
+[
+  {
+    "req_id": "REQ-001",
+    "requirement_summary": "项目名称：某单位业务管理平台建设项目",
+    "response_section": "项目理解与总体响应",
+    "response_text": "已在《项目理解与总体响应》章节中进行响应。",
+    "evidence_ids": [
+      "EV-001",
+      "EV-002",
+      "EV-003"
+    ]
+  },
+  {
+    "req_id": "REQ-002",
+    "requirement_summary": "技术要求：系统需支持用户登录、权限管理、数据查询、报表导出等核心功能，响应时间应控制在2秒以内。",
+    "response_section": "技术方案",
+    "response_text": "已在《技术方案》章节中进行响应。",
+    "evidence_ids": [
+      "EV-002",
+      "EV-001",
+      "EV-003"
+    ]
+  },
+  {
+    "req_id": "REQ-003",
+    "requirement_summary": "技术要求：投标人应提供完整实施方案，包括需求调研、系统部署、联调测试、培训和验收支持。",
+    "response_section": "技术方案",
+    "response_text": "已在《技术方案》章节中进行响应。",
+    "evidence_ids": [
+      "EV-002",
+      "EV-001",
+      "EV-003"
+    ]
+  },
+  {
+    "req_id": "REQ-004",
+    "requirement_summary": "商务要求：项目实施周期不得超过30天，需提供至少1年的运维服务。",
+    "response_section": "商务与实施计划",
+    "response_text": "已在《商务与实施计划》章节中进行响应。",
+    "evidence_ids": [
+      "EV-001",
+      "EV-002",
+      "EV-003"
+    ]
+  },
+  {
+    "req_id": "REQ-005",
+    "requirement_summary": "评分办法：类似项目经验、项目团队配置、实施方案完整性作为主要评分项。",
+    "response_section": "技术方案",
+    "response_text": "已在《技术方案》章节中进行响应。",
+    "evidence_ids": [
+      "EV-002",
+      "EV-001",
+      "EV-003"
+    ]
+  },
+  {
+    "req_id": "REQ-006",
+    "requirement_summary": "格式要求：投标文件必须包含目录、响应矩阵、实施计划、服务承诺和附件清单。",
+    "response_section": "格式与附件说明",
+    "response_text": "已在《格式与附件说明》章节中进行响应。",
+    "evidence_ids": [
+      "EV-001",
+      "EV-002",
+      "EV-003"
+    ]
+  }
+]

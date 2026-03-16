@@ -1,0 +1,74 @@
+[
+  {
+    "req_id": "REQ-001",
+    "title": "项目名称：某单位业务管理平台建设项目",
+    "content": "项目名称：某单位业务管理平台建设项目",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P1",
+      "quote": "项目名称：某单位业务管理平台建设项目"
+    }
+  },
+  {
+    "req_id": "REQ-002",
+    "title": "技术要求：系统需支持用户登录、权限管理、数据查询、报表导",
+    "content": "技术要求：系统需支持用户登录、权限管理、数据查询、报表导出等核心功能，响应时间应控制在2秒以内。",
+    "requirement_type": "technical",
+    "priority": 95,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P2",
+      "quote": "技术要求：系统需支持用户登录、权限管理、数据查询、报表导出等核心功能，响应时间应控制在2秒以内。"
+    }
+  },
+  {
+    "req_id": "REQ-003",
+    "title": "技术要求：投标人应提供完整实施方案，包括需求调研、系统部",
+    "content": "技术要求：投标人应提供完整实施方案，包括需求调研、系统部署、联调测试、培训和验收支持。",
+    "requirement_type": "technical",
+    "priority": 95,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P3",
+      "quote": "技术要求：投标人应提供完整实施方案，包括需求调研、系统部署、联调测试、培训和验收支持。"
+    }
+  },
+  {
+    "req_id": "REQ-004",
+    "title": "商务要求：项目实施周期不得超过30天，需提供至少1年的运",
+    "content": "商务要求：项目实施周期不得超过30天，需提供至少1年的运维服务。",
+    "requirement_type": "business",
+    "priority": 95,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P4",
+      "quote": "商务要求：项目实施周期不得超过30天，需提供至少1年的运维服务。"
+    }
+  },
+  {
+    "req_id": "REQ-005",
+    "title": "评分办法：类似项目经验、项目团队配置、实施方案完整性作为",
+    "content": "评分办法：类似项目经验、项目团队配置、实施方案完整性作为主要评分项。",
+    "requirement_type": "technical",
+    "priority": 70,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P5",
+      "quote": "评分办法：类似项目经验、项目团队配置、实施方案完整性作为主要评分项。"
+    }
+  },
+  {
+    "req_id": "REQ-006",
+    "title": "格式要求：投标文件必须包含目录、响应矩阵、实施计划、服务",
+    "content": "格式要求：投标文件必须包含目录、响应矩阵、实施计划、服务承诺和附件清单。",
+    "requirement_type": "format",
+    "priority": 95,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P6",
+      "quote": "格式要求：投标文件必须包含目录、响应矩阵、实施计划、服务承诺和附件清单。"
+    }
+  }
+]

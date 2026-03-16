@@ -1,0 +1,8 @@
+{
+  "description": "给导师演示用的本地知识库清单",
+  "sources": [
+    "company_profile.md",
+    "implementation_plan.md",
+    "service_commitment.md"
+  ]
+}
