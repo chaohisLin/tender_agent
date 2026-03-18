@@ -1,74 +1,6590 @@
 [
   {
     "req_id": "REQ-001",
-    "title": "项目名称：某单位业务管理平台建设项目",
-    "content": "项目名称：某单位业务管理平台建设项目",
+    "title": "极端条件下的高电热应力可靠性测试采购文件",
+    "content": "极端条件下的高电热应力可靠性测试采购文件",
     "requirement_type": "other",
-    "priority": 50,
-    "mandatory": false,
+    "priority": 85,
+    "mandatory": true,
     "source": {
       "paragraph_id": "P1",
-      "quote": "项目名称：某单位业务管理平台建设项目"
+      "quote": "极端条件下的高电热应力可靠性测试采购文件"
     }
   },
   {
     "req_id": "REQ-002",
-    "title": "技术要求：系统需支持用户登录、权限管理、数据查询、报表导",
-    "content": "技术要求：系统需支持用户登录、权限管理、数据查询、报表导出等核心功能，响应时间应控制在2秒以内。",
-    "requirement_type": "technical",
-    "priority": 95,
-    "mandatory": true,
+    "title": "项目名称：北京智慧能源研究院2025年第二批服务采购项目",
+    "content": "项目名称：北京智慧能源研究院2025年第二批服务采购项目",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
     "source": {
       "paragraph_id": "P2",
-      "quote": "技术要求：系统需支持用户登录、权限管理、数据查询、报表导出等核心功能，响应时间应控制在2秒以内。"
+      "quote": "项目名称：北京智慧能源研究院2025年第二批服务采购项目"
     }
   },
   {
     "req_id": "REQ-003",
-    "title": "技术要求：投标人应提供完整实施方案，包括需求调研、系统部",
-    "content": "技术要求：投标人应提供完整实施方案，包括需求调研、系统部署、联调测试、培训和验收支持。",
-    "requirement_type": "technical",
-    "priority": 95,
-    "mandatory": true,
+    "title": "项目编号/包号：THTC-ZH25010/01",
+    "content": "项目编号/包号：THTC-ZH25010/01",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
     "source": {
       "paragraph_id": "P3",
-      "quote": "技术要求：投标人应提供完整实施方案，包括需求调研、系统部署、联调测试、培训和验收支持。"
+      "quote": "项目编号/包号：THTC-ZH25010/01"
     }
   },
   {
     "req_id": "REQ-004",
-    "title": "商务要求：项目实施周期不得超过30天，需提供至少1年的运",
-    "content": "商务要求：项目实施周期不得超过30天，需提供至少1年的运维服务。",
-    "requirement_type": "business",
-    "priority": 95,
-    "mandatory": true,
+    "title": "采 购 人：北京智慧能源研究院",
+    "content": "采 购 人：北京智慧能源研究院",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
     "source": {
       "paragraph_id": "P4",
-      "quote": "商务要求：项目实施周期不得超过30天，需提供至少1年的运维服务。"
+      "quote": "采 购 人：北京智慧能源研究院"
     }
   },
   {
     "req_id": "REQ-005",
-    "title": "评分办法：类似项目经验、项目团队配置、实施方案完整性作为",
-    "content": "评分办法：类似项目经验、项目团队配置、实施方案完整性作为主要评分项。",
-    "requirement_type": "technical",
-    "priority": 70,
+    "title": "采购代理机构：天恒招标有限公司",
+    "content": "采购代理机构：天恒招标有限公司",
+    "requirement_type": "other",
+    "priority": 50,
     "mandatory": false,
     "source": {
       "paragraph_id": "P5",
-      "quote": "评分办法：类似项目经验、项目团队配置、实施方案完整性作为主要评分项。"
+      "quote": "采购代理机构：天恒招标有限公司"
     }
   },
   {
     "req_id": "REQ-006",
-    "title": "格式要求：投标文件必须包含目录、响应矩阵、实施计划、服务",
-    "content": "格式要求：投标文件必须包含目录、响应矩阵、实施计划、服务承诺和附件清单。",
+    "title": "目      录",
+    "content": "目      录",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P6",
+      "quote": "目      录"
+    }
+  },
+  {
+    "req_id": "REQ-007",
+    "title": "第一章   采购邀请",
+    "content": "第一章   采购邀请",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P7",
+      "quote": "第一章   采购邀请"
+    }
+  },
+  {
+    "req_id": "REQ-008",
+    "title": "第二章   供应商须知",
+    "content": "第二章   供应商须知",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P8",
+      "quote": "第二章   供应商须知"
+    }
+  },
+  {
+    "req_id": "REQ-009",
+    "title": "第三章   评审程序和评定成交的标准",
+    "content": "第三章   评审程序和评定成交的标准",
+    "requirement_type": "scoring",
+    "priority": 70,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P9",
+      "quote": "第三章   评审程序和评定成交的标准"
+    }
+  },
+  {
+    "req_id": "REQ-010",
+    "title": "第四章   采购需求",
+    "content": "第四章   采购需求",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P10",
+      "quote": "第四章   采购需求"
+    }
+  },
+  {
+    "req_id": "REQ-011",
+    "title": "第五章   合同草案条款",
+    "content": "第五章   合同草案条款",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P11",
+      "quote": "第五章   合同草案条款"
+    }
+  },
+  {
+    "req_id": "REQ-012",
+    "title": "第六章   响应文件格式",
+    "content": "第六章   响应文件格式",
     "requirement_type": "format",
     "priority": 95,
     "mandatory": true,
     "source": {
-      "paragraph_id": "P6",
-      "quote": "格式要求：投标文件必须包含目录、响应矩阵、实施计划、服务承诺和附件清单。"
+      "paragraph_id": "P12",
+      "quote": "第六章   响应文件格式"
+    }
+  },
+  {
+    "req_id": "REQ-013",
+    "title": "第一章   采购邀请",
+    "content": "第一章   采购邀请",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P13",
+      "quote": "第一章   采购邀请"
+    }
+  },
+  {
+    "req_id": "REQ-014",
+    "title": "一、项目基本情况",
+    "content": "一、项目基本情况",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P14",
+      "quote": "一、项目基本情况"
+    }
+  },
+  {
+    "req_id": "REQ-015",
+    "title": "1.项目编号/包号 ： THTC-ZH25010/01",
+    "content": "1.项目编号/包号 ： THTC-ZH25010/01",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P15",
+      "quote": "1.项目编号/包号 ： THTC-ZH25010/01"
+    }
+  },
+  {
+    "req_id": "REQ-016",
+    "title": "2.项目名称： 北京智慧能源研究院2025年第二批服务采",
+    "content": "2.项目名称： 北京智慧能源研究院2025年第二批服务采购项目",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P16",
+      "quote": "2.项目名称： 北京智慧能源研究院2025年第二批服务采购项目"
+    }
+  },
+  {
+    "req_id": "REQ-017",
+    "title": "3.采购方式：便捷询价",
+    "content": "3.采购方式：便捷询价",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P17",
+      "quote": "3.采购方式：便捷询价"
+    }
+  },
+  {
+    "req_id": "REQ-018",
+    "title": "4.项目预算金额：88.00万元（人民币）。",
+    "content": "4.项目预算金额：88.00万元（人民币）。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P18",
+      "quote": "4.项目预算金额：88.00万元（人民币）。"
+    }
+  },
+  {
+    "req_id": "REQ-019",
+    "title": "5.项目最高限价（如有）：   / 万元（人民币）。",
+    "content": "5.项目最高限价（如有）：   / 万元（人民币）。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P19",
+      "quote": "5.项目最高限价（如有）：   / 万元（人民币）。"
+    }
+  },
+  {
+    "req_id": "REQ-020",
+    "title": "6.采购需求：",
+    "content": "6.采购需求：",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P20",
+      "quote": "6.采购需求："
+    }
+  },
+  {
+    "req_id": "REQ-021",
+    "title": "7.合同履行期限：",
+    "content": "7.合同履行期限：",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P21",
+      "quote": "7.合同履行期限："
+    }
+  },
+  {
+    "req_id": "REQ-022",
+    "title": "01包：自合同生效日至本次服务完成为止。",
+    "content": "01包：自合同生效日至本次服务完成为止。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P22",
+      "quote": "01包：自合同生效日至本次服务完成为止。"
+    }
+  },
+  {
+    "req_id": "REQ-023",
+    "title": "02包：合同签订后至本次服务完成为止",
+    "content": "02包：合同签订后至本次服务完成为止",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P23",
+      "quote": "02包：合同签订后至本次服务完成为止"
+    }
+  },
+  {
+    "req_id": "REQ-024",
+    "title": "03包：合同签订后至所有测试板卡全部加工完为止",
+    "content": "03包：合同签订后至所有测试板卡全部加工完为止",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P24",
+      "quote": "03包：合同签订后至所有测试板卡全部加工完为止"
+    }
+  },
+  {
+    "req_id": "REQ-025",
+    "title": "8.本项目不接受联合体投标。",
+    "content": "8.本项目不接受联合体投标。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P25",
+      "quote": "8.本项目不接受联合体投标。"
+    }
+  },
+  {
+    "req_id": "REQ-026",
+    "title": "二、申请人的资格要求",
+    "content": "二、申请人的资格要求",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P26",
+      "quote": "二、申请人的资格要求"
+    }
+  },
+  {
+    "req_id": "REQ-027",
+    "title": "1.满足《中华人民共和国政府采购法》第二十二条规定；",
+    "content": "1.满足《中华人民共和国政府采购法》第二十二条规定；",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P27",
+      "quote": "1.满足《中华人民共和国政府采购法》第二十二条规定；"
+    }
+  },
+  {
+    "req_id": "REQ-028",
+    "title": "2.本项目的特定资格要求：（1）通过“信用中国”网站（w",
+    "content": "2.本项目的特定资格要求：（1）通过“信用中国”网站（www.creditchina.gov.cn）和中国政府采购网（www.ccgp.gov.cn）查询信用记录（截止时点为投标截止时间），对近三年内列入失信被执行人、重大税收违法案件当事人、政府采购严重违法失信行为记录名单的供应商，没有资格参加本项目的采购活动；",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P28",
+      "quote": "2.本项目的特定资格要求：（1）通过“信用中国”网站（www.creditchina.gov.cn）和中国政府采购网（www.ccgp.gov.cn）查询信用记录（截止时点为投标截止时间），对近三年内列入失信被执行人、重大税收违法案件当事人、政府采购严重违法失信行为记录名单的供应商，没有资格参加本项目的采购活动；"
+    }
+  },
+  {
+    "req_id": "REQ-029",
+    "title": "（2）单位负责人为同一人或者存在直接控股、管理关系的不同",
+    "content": "（2）单位负责人为同一人或者存在直接控股、管理关系的不同供应商，不得参加同一合同项下的政府采购活动；",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P29",
+      "quote": "（2）单位负责人为同一人或者存在直接控股、管理关系的不同供应商，不得参加同一合同项下的政府采购活动；"
+    }
+  },
+  {
+    "req_id": "REQ-030",
+    "title": "三、获取采购文件",
+    "content": "三、获取采购文件",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P30",
+      "quote": "三、获取采购文件"
+    }
+  },
+  {
+    "req_id": "REQ-031",
+    "title": "1.时间：2025年 5 月 20 日至 2025 年 ",
+    "content": "1.时间：2025年 5 月 20 日至 2025 年 5 月 23 日，每天上午 9:00 至 12:00 ，下午 13:00 至 17:00 （北京时间，法定节假日除外）。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P31",
+      "quote": "1.时间：2025年 5 月 20 日至 2025 年 5 月 23 日，每天上午 9:00 至 12:00 ，下午 13:00 至 17:00 （北京时间，法定节假日除外）。"
+    }
+  },
+  {
+    "req_id": "REQ-032",
+    "title": "2.地点：天恒招标有限公司业务部 (北京市东城区东四十条",
+    "content": "2.地点：天恒招标有限公司业务部 (北京市东城区东四十条甲22号南新仓商务大厦B座922)。",
+    "requirement_type": "business",
+    "priority": 70,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P32",
+      "quote": "2.地点：天恒招标有限公司业务部 (北京市东城区东四十条甲22号南新仓商务大厦B座922)。"
+    }
+  },
+  {
+    "req_id": "REQ-033",
+    "title": "3.方式：本项目报名采取电子邮件方式报名。有意向的供应商",
+    "content": "3.方式：本项目报名采取电子邮件方式报名。有意向的供应商携带下列有效文件购买便捷询价文件：如为法定代表人报名请提供法定代表人身份证明文件原件及身份证复印件并加盖公章；如为被授权人报名须提供法定代表人授权委托书原件、被授权人身份证复印件并加盖公章。请将上述文件扫描件、标书费汇款底单、采购文件获取登记表（可编辑版）发送至ywb06@thtc.com.cn。便捷询价文件售后不退。",
+    "requirement_type": "business",
+    "priority": 95,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P33",
+      "quote": "3.方式：本项目报名采取电子邮件方式报名。有意向的供应商携带下列有效文件购买便捷询价文件：如为法定代表人报名请提供法定代表人身份证明文件原件及身份证复印件并加盖公章；如为被授权人报名须提供法定代表人授权委托书原件、被授权人身份证复印件并加盖公章。请将上述文件扫描件、标书费汇款底单、采购文件获取登记表（可编辑版）发送至y"
+    }
+  },
+  {
+    "req_id": "REQ-034",
+    "title": "4.售价：500元/包。",
+    "content": "4.售价：500元/包。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P34",
+      "quote": "4.售价：500元/包。"
+    }
+  },
+  {
+    "req_id": "REQ-035",
+    "title": "四、响应文件提交",
+    "content": "四、响应文件提交",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P35",
+      "quote": "四、响应文件提交"
+    }
+  },
+  {
+    "req_id": "REQ-036",
+    "title": "截止时间： 2025 年 6 月 4 日 09  时 3",
+    "content": "截止时间： 2025 年 6 月 4 日 09  时 30 分（北京时间）。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P36",
+      "quote": "截止时间： 2025 年 6 月 4 日 09  时 30 分（北京时间）。"
+    }
+  },
+  {
+    "req_id": "REQ-037",
+    "title": "地    点：北京市东城区东四十条甲22号南新仓商务大厦",
+    "content": "地    点：北京市东城区东四十条甲22号南新仓商务大厦B座922。",
+    "requirement_type": "business",
+    "priority": 70,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P37",
+      "quote": "地    点：北京市东城区东四十条甲22号南新仓商务大厦B座922。"
+    }
+  },
+  {
+    "req_id": "REQ-038",
+    "title": "截止时间： 2025 年 6 月 4 日 09 时 30",
+    "content": "截止时间： 2025 年 6 月 4 日 09 时 30 分（北京时间）。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P38",
+      "quote": "截止时间： 2025 年 6 月 4 日 09 时 30 分（北京时间）。"
+    }
+  },
+  {
+    "req_id": "REQ-039",
+    "title": "地    点：北京市东城区东四十条甲22号南新仓商务大厦",
+    "content": "地    点：北京市东城区东四十条甲22号南新仓商务大厦B座922。",
+    "requirement_type": "business",
+    "priority": 70,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P39",
+      "quote": "地    点：北京市东城区东四十条甲22号南新仓商务大厦B座922。"
+    }
+  },
+  {
+    "req_id": "REQ-040",
+    "title": "六、公告期限",
+    "content": "六、公告期限",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P40",
+      "quote": "六、公告期限"
+    }
+  },
+  {
+    "req_id": "REQ-041",
+    "title": "自本公告发布之日起3个工作日。",
+    "content": "自本公告发布之日起3个工作日。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P41",
+      "quote": "自本公告发布之日起3个工作日。"
+    }
+  },
+  {
+    "req_id": "REQ-042",
+    "title": "七、其他补充事宜",
+    "content": "七、其他补充事宜",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P42",
+      "quote": "七、其他补充事宜"
+    }
+  },
+  {
+    "req_id": "REQ-043",
+    "title": "1.发布公告的媒介：中国招投标公共服务平台。",
+    "content": "1.发布公告的媒介：中国招投标公共服务平台。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P43",
+      "quote": "1.发布公告的媒介：中国招投标公共服务平台。"
+    }
+  },
+  {
+    "req_id": "REQ-044",
+    "title": "2.询价保证金、标书款收受人信息",
+    "content": "2.询价保证金、标书款收受人信息",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P44",
+      "quote": "2.询价保证金、标书款收受人信息"
+    }
+  },
+  {
+    "req_id": "REQ-045",
+    "title": "户名：天恒招标有限公司",
+    "content": "户名：天恒招标有限公司",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P45",
+      "quote": "户名：天恒招标有限公司"
+    }
+  },
+  {
+    "req_id": "REQ-046",
+    "title": "开户行：兴业银行北京西城支行",
+    "content": "开户行：兴业银行北京西城支行",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P46",
+      "quote": "开户行：兴业银行北京西城支行"
+    }
+  },
+  {
+    "req_id": "REQ-047",
+    "title": "标书款、保证金付款账号：3216801001000501",
+    "content": "标书款、保证金付款账号：321680100100050176",
+    "requirement_type": "business",
+    "priority": 70,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P47",
+      "quote": "标书款、保证金付款账号：321680100100050176"
+    }
+  },
+  {
+    "req_id": "REQ-048",
+    "title": "3.响应文件的递交",
+    "content": "3.响应文件的递交",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P48",
+      "quote": "3.响应文件的递交"
+    }
+  },
+  {
+    "req_id": "REQ-049",
+    "title": "3.1本次采购不接受现场递交响应文件，仅通过邮寄、快递等",
+    "content": "3.1本次采购不接受现场递交响应文件，仅通过邮寄、快递等非现场递交方式接收响应文件。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P49",
+      "quote": "3.1本次采购不接受现场递交响应文件，仅通过邮寄、快递等非现场递交方式接收响应文件。"
+    }
+  },
+  {
+    "req_id": "REQ-050",
+    "title": "3.2采用非现场方式递交的供应商应在询价文件规定的密封包",
+    "content": "3.2采用非现场方式递交的供应商应在询价文件规定的密封包装外增加较坚固的纸箱外包装，以保证邮寄、快递过程中密封的完整；供应商应做好充分的准备工作及物流状态跟踪，确保响应文件在首次应答截止时间前被代理机构接收，同时承担在邮寄过程中因丢件、派送超时、寄件地址错误等情况导致响应文件未在规定时间内被代理机构接收的风险。代理机构将拒收在首次应答截止时间后送达的响应文件。快递、邮寄费用由供应商自行承担。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P50",
+      "quote": "3.2采用非现场方式递交的供应商应在询价文件规定的密封包装外增加较坚固的纸箱外包装，以保证邮寄、快递过程中密封的完整；供应商应做好充分的准备工作及物流状态跟踪，确保响应文件在首次应答截止时间前被代理机构接收，同时承担在邮寄过程中因丢件、派送超时、寄件地址错误等情况导致响应文件未在规定时间内被代理机构接收的风险。代理机构"
+    }
+  },
+  {
+    "req_id": "REQ-051",
+    "title": "3.3快递（响应文件）接收时间为：2025年 5 月 2",
+    "content": "3.3快递（响应文件）接收时间为：2025年 5 月 24 日09：00—2025年 6 月 4 日09：30（北京时间）。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P51",
+      "quote": "3.3快递（响应文件）接收时间为：2025年 5 月 24 日09：00—2025年 6 月 4 日09：30（北京时间）。"
+    }
+  },
+  {
+    "req_id": "REQ-052",
+    "title": "3.4快递（响应文件）接收截止时间为：2025年 6 月",
+    "content": "3.4快递（响应文件）接收截止时间为：2025年 6 月 4 日09：30（北京时间）。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P52",
+      "quote": "3.4快递（响应文件）接收截止时间为：2025年 6 月 4 日09：30（北京时间）。"
+    }
+  },
+  {
+    "req_id": "REQ-053",
+    "title": "3.5快递（响应文件）接收指定地点：北京市东城区东四十条",
+    "content": "3.5快递（响应文件）接收指定地点：北京市东城区东四十条甲22号南新仓商务大厦B座922。",
+    "requirement_type": "business",
+    "priority": 95,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P53",
+      "quote": "3.5快递（响应文件）接收指定地点：北京市东城区东四十条甲22号南新仓商务大厦B座922。"
+    }
+  },
+  {
+    "req_id": "REQ-054",
+    "title": "3.6快递（响应文件）接收人及联系方式：同项目联系人。",
+    "content": "3.6快递（响应文件）接收人及联系方式：同项目联系人。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P54",
+      "quote": "3.6快递（响应文件）接收人及联系方式：同项目联系人。"
+    }
+  },
+  {
+    "req_id": "REQ-055",
+    "title": "3.7首次应答截止时间：2025年 6 月 4 日09：",
+    "content": "3.7首次应答截止时间：2025年 6 月 4 日09：30。首次响应文件递交（提交）的截止时间同首次应答截止时间。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P55",
+      "quote": "3.7首次应答截止时间：2025年 6 月 4 日09：30。首次响应文件递交（提交）的截止时间同首次应答截止时间。"
+    }
+  },
+  {
+    "req_id": "REQ-056",
+    "title": "3.8未按询价公告规定的时间和方式获取询价文件的应答，采",
+    "content": "3.8未按询价公告规定的时间和方式获取询价文件的应答，采购人将不予受理。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P56",
+      "quote": "3.8未按询价公告规定的时间和方式获取询价文件的应答，采购人将不予受理。"
+    }
+  },
+  {
+    "req_id": "REQ-057",
+    "title": "4.询价会议",
+    "content": "4.询价会议",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P57",
+      "quote": "4.询价会议"
+    }
+  },
+  {
+    "req_id": "REQ-058",
+    "title": "4.1本次询价会议通过企业微信线上平台开展，供应商无需到",
+    "content": "4.1本次询价会议通过企业微信线上平台开展，供应商无需到场。请供应商提前下载软件并了解使用方法，确保线上参会影音设备稳定、连贯、有效（包括但不限于摄像头、语音功能正常的手机、电脑、平板等电子设备，为保证观看效果，建议使用电脑客户端）。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P58",
+      "quote": "4.1本次询价会议通过企业微信线上平台开展，供应商无需到场。请供应商提前下载软件并了解使用方法，确保线上参会影音设备稳定、连贯、有效（包括但不限于摄像头、语音功能正常的手机、电脑、平板等电子设备，为保证观看效果，建议使用电脑客户端）。"
+    }
+  },
+  {
+    "req_id": "REQ-059",
+    "title": "4.2每个供应商仅允许1名供应商代表参加询价会议，请各供",
+    "content": "4.2每个供应商仅允许1名供应商代表参加询价会议，请各供应商代表于首次递交截止时间前添加我公司工作人员企业微信号（名片后附）（注：此企业微信号对关于询价程序之外的其他问题不予回答）。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P59",
+      "quote": "4.2每个供应商仅允许1名供应商代表参加询价会议，请各供应商代表于首次递交截止时间前添加我公司工作人员企业微信号（名片后附）（注：此企业微信号对关于询价程序之外的其他问题不予回答）。"
+    }
+  },
+  {
+    "req_id": "REQ-060",
+    "title": "八、对本次采购提出询问，请按以下方式联系。",
+    "content": "八、对本次采购提出询问，请按以下方式联系。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P60",
+      "quote": "八、对本次采购提出询问，请按以下方式联系。"
+    }
+  },
+  {
+    "req_id": "REQ-061",
+    "title": "1.采购人信息",
+    "content": "1.采购人信息",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P61",
+      "quote": "1.采购人信息"
+    }
+  },
+  {
+    "req_id": "REQ-062",
+    "title": "名    称：北京智慧能源研究院",
+    "content": "名    称：北京智慧能源研究院",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P62",
+      "quote": "名    称：北京智慧能源研究院"
+    }
+  },
+  {
+    "req_id": "REQ-063",
+    "title": "地    址：北京市昌平区未来科技城滨河大道18号",
+    "content": "地    址：北京市昌平区未来科技城滨河大道18号",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P63",
+      "quote": "地    址：北京市昌平区未来科技城滨河大道18号"
+    }
+  },
+  {
+    "req_id": "REQ-064",
+    "title": "联系方式：张堃，010-57567518",
+    "content": "联系方式：张堃，010-57567518",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P64",
+      "quote": "联系方式：张堃，010-57567518"
+    }
+  },
+  {
+    "req_id": "REQ-065",
+    "title": "2.采购代理机构信息",
+    "content": "2.采购代理机构信息",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P65",
+      "quote": "2.采购代理机构信息"
+    }
+  },
+  {
+    "req_id": "REQ-066",
+    "title": "名    称：天恒招标有限公司",
+    "content": "名    称：天恒招标有限公司",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P66",
+      "quote": "名    称：天恒招标有限公司"
+    }
+  },
+  {
+    "req_id": "REQ-067",
+    "title": "地    址：北京市东城区东四十条甲22号南新仓商务大厦",
+    "content": "地    址：北京市东城区东四十条甲22号南新仓商务大厦B座922",
+    "requirement_type": "business",
+    "priority": 70,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P67",
+      "quote": "地    址：北京市东城区东四十条甲22号南新仓商务大厦B座922"
+    }
+  },
+  {
+    "req_id": "REQ-068",
+    "title": "联系方式：李雅奇、李亚娜、陈洁、刘戈010-533991",
+    "content": "联系方式：李雅奇、李亚娜、陈洁、刘戈010-53399157、17710393539",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P68",
+      "quote": "联系方式：李雅奇、李亚娜、陈洁、刘戈010-53399157、17710393539"
+    }
+  },
+  {
+    "req_id": "REQ-069",
+    "title": "3.项目联系方式",
+    "content": "3.项目联系方式",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P69",
+      "quote": "3.项目联系方式"
+    }
+  },
+  {
+    "req_id": "REQ-070",
+    "title": "项目联系人：李雅奇、李亚娜、陈洁、刘戈",
+    "content": "项目联系人：李雅奇、李亚娜、陈洁、刘戈",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P70",
+      "quote": "项目联系人：李雅奇、李亚娜、陈洁、刘戈"
+    }
+  },
+  {
+    "req_id": "REQ-071",
+    "title": "电      话：010-53399157、177103",
+    "content": "电      话：010-53399157、17710393539",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P71",
+      "quote": "电      话：010-53399157、17710393539"
+    }
+  },
+  {
+    "req_id": "REQ-072",
+    "title": "邮      箱：ywb06@thtc.com.cn",
+    "content": "邮      箱：ywb06@thtc.com.cn",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P72",
+      "quote": "邮      箱：ywb06@thtc.com.cn"
+    }
+  },
+  {
+    "req_id": "REQ-073",
+    "title": "第二章   供应商须知",
+    "content": "第二章   供应商须知",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P73",
+      "quote": "第二章   供应商须知"
+    }
+  },
+  {
+    "req_id": "REQ-074",
+    "title": "供应商须知资料表",
+    "content": "供应商须知资料表",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P74",
+      "quote": "供应商须知资料表"
+    }
+  },
+  {
+    "req_id": "REQ-075",
+    "title": "本表是对供应商须知的具体补充和修改，如有矛盾，均以本资料",
+    "content": "本表是对供应商须知的具体补充和修改，如有矛盾，均以本资料表为准。标记“”的选项意为适用于本项目，标记“□”的选项意为不适用于本项目。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P75",
+      "quote": "本表是对供应商须知的具体补充和修改，如有矛盾，均以本资料表为准。标记“”的选项意为适用于本项目，标记“□”的选项意为不适用于本项目。"
+    }
+  },
+  {
+    "req_id": "REQ-076",
+    "title": "一   说  明",
+    "content": "一   说  明",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P76",
+      "quote": "一   说  明"
+    }
+  },
+  {
+    "req_id": "REQ-077",
+    "title": "采购人、采购代理机构、供应商、联合体",
+    "content": "采购人、采购代理机构、供应商、联合体",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P77",
+      "quote": "采购人、采购代理机构、供应商、联合体"
+    }
+  },
+  {
+    "req_id": "REQ-078",
+    "title": "采购人、采购代理机构：指依法进行政府采购的国家机关、事业",
+    "content": "采购人、采购代理机构：指依法进行政府采购的国家机关、事业单位、团体组织，及其委托的采购代理机构。本项目采购人、采购代理机构见第一章《采购邀请》。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P78",
+      "quote": "采购人、采购代理机构：指依法进行政府采购的国家机关、事业单位、团体组织，及其委托的采购代理机构。本项目采购人、采购代理机构见第一章《采购邀请》。"
+    }
+  },
+  {
+    "req_id": "REQ-079",
+    "title": "供应商（也称“申请人”）：指向采购人提供货物、工程或者服",
+    "content": "供应商（也称“申请人”）：指向采购人提供货物、工程或者服务的法人、其他组织或者自然人。供应商资格要求见第一章《采购邀请》。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P79",
+      "quote": "供应商（也称“申请人”）：指向采购人提供货物、工程或者服务的法人、其他组织或者自然人。供应商资格要求见第一章《采购邀请》。"
+    }
+  },
+  {
+    "req_id": "REQ-080",
+    "title": "联合体：指两个以上的自然人、法人或者其他组织组成一个联合",
+    "content": "联合体：指两个以上的自然人、法人或者其他组织组成一个联合体，以一个供应商的身份共同参加政府采购。本项目是否接受联合体见《供应商须知资料表》。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P80",
+      "quote": "联合体：指两个以上的自然人、法人或者其他组织组成一个联合体，以一个供应商的身份共同参加政府采购。本项目是否接受联合体见《供应商须知资料表》。"
+    }
+  },
+  {
+    "req_id": "REQ-081",
+    "title": "资金来源、项目属性、科研仪器设备采购、项目预算及最高限价",
+    "content": "资金来源、项目属性、科研仪器设备采购、项目预算及最高限价",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P81",
+      "quote": "资金来源、项目属性、科研仪器设备采购、项目预算及最高限价"
+    }
+  },
+  {
+    "req_id": "REQ-082",
+    "title": "资金来源为财政性资金和/或本项目采购中无法与财政性资金分",
+    "content": "资金来源为财政性资金和/或本项目采购中无法与财政性资金分割的非财政性资金。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P82",
+      "quote": "资金来源为财政性资金和/或本项目采购中无法与财政性资金分割的非财政性资金。"
+    }
+  },
+  {
+    "req_id": "REQ-083",
+    "title": "项目属性见《供应商须知资料表》。",
+    "content": "项目属性见《供应商须知资料表》。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P83",
+      "quote": "项目属性见《供应商须知资料表》。"
+    }
+  },
+  {
+    "req_id": "REQ-084",
+    "title": "是否属于科研仪器设备采购见《供应商须知资料表》。",
+    "content": "是否属于科研仪器设备采购见《供应商须知资料表》。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P84",
+      "quote": "是否属于科研仪器设备采购见《供应商须知资料表》。"
+    }
+  },
+  {
+    "req_id": "REQ-085",
+    "title": "项目预算金额和最高限价见《供应商须知资料表》。",
+    "content": "项目预算金额和最高限价见《供应商须知资料表》。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P85",
+      "quote": "项目预算金额和最高限价见《供应商须知资料表》。"
+    }
+  },
+  {
+    "req_id": "REQ-086",
+    "title": "政府采购政策（包括但不限于下列具体政策要求）",
+    "content": "政府采购政策（包括但不限于下列具体政策要求）",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P86",
+      "quote": "政府采购政策（包括但不限于下列具体政策要求）"
+    }
+  },
+  {
+    "req_id": "REQ-087",
+    "title": "指通过中国海关报关验放进入中国境内且产自关境外的产品，包",
+    "content": "指通过中国海关报关验放进入中国境内且产自关境外的产品，包括已经进入中国境内的进口产品。关于进口产品的相关规定依据《政府采购进口产品管理办法》（财库〔2007〕119号文）、《关于政府采购进口产品管理有关问题的通知》（财办库〔2008〕248号文）。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P87",
+      "quote": "指通过中国海关报关验放进入中国境内且产自关境外的产品，包括已经进入中国境内的进口产品。关于进口产品的相关规定依据《政府采购进口产品管理办法》（财库〔2007〕119号文）、《关于政府采购进口产品管理有关问题的通知》（财办库〔2008〕248号文）。"
+    }
+  },
+  {
+    "req_id": "REQ-088",
+    "title": "本项目是否接受进口产品见《供应商须知资料表》。",
+    "content": "本项目是否接受进口产品见《供应商须知资料表》。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P88",
+      "quote": "本项目是否接受进口产品见《供应商须知资料表》。"
+    }
+  },
+  {
+    "req_id": "REQ-089",
+    "title": "供应商应自行承担所有与准备和参加便捷询价响应有关的费用，",
+    "content": "供应商应自行承担所有与准备和参加便捷询价响应有关的费用，无论响应的结果如何，采购人或采购代理机构在任何情况下均无承担这些费用的义务和责任。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P89",
+      "quote": "供应商应自行承担所有与准备和参加便捷询价响应有关的费用，无论响应的结果如何，采购人或采购代理机构在任何情况下均无承担这些费用的义务和责任。"
+    }
+  },
+  {
+    "req_id": "REQ-090",
+    "title": "二   采购文件",
+    "content": "二   采购文件",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P90",
+      "quote": "二   采购文件"
+    }
+  },
+  {
+    "req_id": "REQ-091",
+    "title": "采购文件构成",
+    "content": "采购文件构成",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P91",
+      "quote": "采购文件构成"
+    }
+  },
+  {
+    "req_id": "REQ-092",
+    "title": "采购文件包括以下部分：",
+    "content": "采购文件包括以下部分：",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P92",
+      "quote": "采购文件包括以下部分："
+    }
+  },
+  {
+    "req_id": "REQ-093",
+    "title": "评审程序和评定成绩的标准",
+    "content": "评审程序和评定成绩的标准",
+    "requirement_type": "scoring",
+    "priority": 70,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P93",
+      "quote": "评审程序和评定成绩的标准"
+    }
+  },
+  {
+    "req_id": "REQ-094",
+    "title": "合同草案条款",
+    "content": "合同草案条款",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P94",
+      "quote": "合同草案条款"
+    }
+  },
+  {
+    "req_id": "REQ-095",
+    "title": "响应文件格式",
+    "content": "响应文件格式",
+    "requirement_type": "format",
+    "priority": 95,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P95",
+      "quote": "响应文件格式"
+    }
+  },
+  {
+    "req_id": "REQ-096",
+    "title": "供应商应认真阅读采购文件的全部内容。供应商应按照采购文件",
+    "content": "供应商应认真阅读采购文件的全部内容。供应商应按照采购文件要求提交响应文件并保证所提供的全部资料的真实性，并对采购文件作出实质性响应，否则响应无效。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P96",
+      "quote": "供应商应认真阅读采购文件的全部内容。供应商应按照采购文件要求提交响应文件并保证所提供的全部资料的真实性，并对采购文件作出实质性响应，否则响应无效。"
+    }
+  },
+  {
+    "req_id": "REQ-097",
+    "title": "对采购文件的澄清或修改",
+    "content": "对采购文件的澄清或修改",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P97",
+      "quote": "对采购文件的澄清或修改"
+    }
+  },
+  {
+    "req_id": "REQ-098",
+    "title": "采购人或采购代理机构对已发出的采购文件进行必要澄清或者修",
+    "content": "采购人或采购代理机构对已发出的采购文件进行必要澄清或者修改的，将以书面形式通知所有获取采购文件的潜在供应商。采用公告方式邀请供应商参与的，还将在原公告发布媒体上发布更正公告。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P98",
+      "quote": "采购人或采购代理机构对已发出的采购文件进行必要澄清或者修改的，将以书面形式通知所有获取采购文件的潜在供应商。采用公告方式邀请供应商参与的，还将在原公告发布媒体上发布更正公告。"
+    }
+  },
+  {
+    "req_id": "REQ-099",
+    "title": "按照潜在供应商提供的联系方式发出上述书面通知，因提供的信",
+    "content": "按照潜在供应商提供的联系方式发出上述书面通知，因提供的信息有误导致通知延迟或无法通知的，采购人或采购代理机构不承担责任。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P99",
+      "quote": "按照潜在供应商提供的联系方式发出上述书面通知，因提供的信息有误导致通知延迟或无法通知的，采购人或采购代理机构不承担责任。"
+    }
+  },
+  {
+    "req_id": "REQ-100",
+    "title": "澄清或修改的内容为采购文件的组成部分，并对所有获取采购文",
+    "content": "澄清或修改的内容为采购文件的组成部分，并对所有获取采购文件的潜在供应商具有约束力。澄清或者修改的内容可能影响响应文件编制的，将在提交首次响应文件截止之日3个工作日前，以书面形式通知所有获取采购文件的潜在供应商；不足3个工作日的，将顺延提交首次响应文件截止之日。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P100",
+      "quote": "澄清或修改的内容为采购文件的组成部分，并对所有获取采购文件的潜在供应商具有约束力。澄清或者修改的内容可能影响响应文件编制的，将在提交首次响应文件截止之日3个工作日前，以书面形式通知所有获取采购文件的潜在供应商；不足3个工作日的，将顺延提交首次响应文件截止之日。"
+    }
+  },
+  {
+    "req_id": "REQ-101",
+    "title": "三   响应文件的编制",
+    "content": "三   响应文件的编制",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P101",
+      "quote": "三   响应文件的编制"
+    }
+  },
+  {
+    "req_id": "REQ-102",
+    "title": "响应范围、响应文件中计量单位的使用及响应语言",
+    "content": "响应范围、响应文件中计量单位的使用及响应语言",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P102",
+      "quote": "响应范围、响应文件中计量单位的使用及响应语言"
+    }
+  },
+  {
+    "req_id": "REQ-103",
+    "title": "本项目如划分采购包，供应商可以对本项目的其中一个采购包进",
+    "content": "本项目如划分采购包，供应商可以对本项目的其中一个采购包进行响应，也可同时对多个采购包进行响应。供应商应当对所投采购包对应第四章《采购需求》所列的全部内容进行响应，不得将一个采购包中的内容拆开响应，否则其对该采购包的响应将被认定为无效响应。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P103",
+      "quote": "本项目如划分采购包，供应商可以对本项目的其中一个采购包进行响应，也可同时对多个采购包进行响应。供应商应当对所投采购包对应第四章《采购需求》所列的全部内容进行响应，不得将一个采购包中的内容拆开响应，否则其对该采购包的响应将被认定为无效响应。"
+    }
+  },
+  {
+    "req_id": "REQ-104",
+    "title": "除采购文件有特殊要求外，本项目响应所使用的计量单位，应采",
+    "content": "除采购文件有特殊要求外，本项目响应所使用的计量单位，应采用中华人民共和国法定计量单位。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P104",
+      "quote": "除采购文件有特殊要求外，本项目响应所使用的计量单位，应采用中华人民共和国法定计量单位。"
+    }
+  },
+  {
+    "req_id": "REQ-105",
+    "title": "除专用术语外，响应文件及来往函电均应使用中文书写。必要时",
+    "content": "除专用术语外，响应文件及来往函电均应使用中文书写。必要时专用术语应附有中文解释。供应商提交的支持资料和已印制的文献可以用外文，但相应内容应附有中文翻译本，在解释响应文件时以中文翻译本为准。未附中文翻译本或翻译本中文内容明显与外文内容不一致的，后果由供应商自行承担。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P105",
+      "quote": "除专用术语外，响应文件及来往函电均应使用中文书写。必要时专用术语应附有中文解释。供应商提交的支持资料和已印制的文献可以用外文，但相应内容应附有中文翻译本，在解释响应文件时以中文翻译本为准。未附中文翻译本或翻译本中文内容明显与外文内容不一致的，后果由供应商自行承担。"
+    }
+  },
+  {
+    "req_id": "REQ-106",
+    "title": "响应文件构成",
+    "content": "响应文件构成",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P106",
+      "quote": "响应文件构成"
+    }
+  },
+  {
+    "req_id": "REQ-107",
+    "title": "供应商应当按照采购文件的要求编制响应文件。响应文件的部分",
+    "content": "供应商应当按照采购文件的要求编制响应文件。响应文件的部分格式要求，见第六章《响应文件格式》。",
+    "requirement_type": "format",
+    "priority": 95,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P107",
+      "quote": "供应商应当按照采购文件的要求编制响应文件。响应文件的部分格式要求，见第六章《响应文件格式》。"
+    }
+  },
+  {
+    "req_id": "REQ-108",
+    "title": "第三章《评审程序和评定成交的标准》中涉及的证明文件。",
+    "content": "第三章《评审程序和评定成交的标准》中涉及的证明文件。",
+    "requirement_type": "scoring",
+    "priority": 70,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P108",
+      "quote": "第三章《评审程序和评定成交的标准》中涉及的证明文件。"
+    }
+  },
+  {
+    "req_id": "REQ-109",
+    "title": "对照第四章《采购需求》，说明所提供货物和服务已对第四章《",
+    "content": "对照第四章《采购需求》，说明所提供货物和服务已对第四章《采购需求》做出了响应，或申明与第四章《采购需求》的偏差和例外。如第四章《采购需求》中要求提供证明文件的，供应商应当按具体要求提供证明文件。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P109",
+      "quote": "对照第四章《采购需求》，说明所提供货物和服务已对第四章《采购需求》做出了响应，或申明与第四章《采购需求》的偏差和例外。如第四章《采购需求》中要求提供证明文件的，供应商应当按具体要求提供证明文件。"
+    }
+  },
+  {
+    "req_id": "REQ-110",
+    "title": "供应商认为应附的其他材料。",
+    "content": "供应商认为应附的其他材料。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P110",
+      "quote": "供应商认为应附的其他材料。"
+    }
+  },
+  {
+    "req_id": "REQ-111",
+    "title": "所有响应均以人民币报价。",
+    "content": "所有响应均以人民币报价。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P111",
+      "quote": "所有响应均以人民币报价。"
+    }
+  },
+  {
+    "req_id": "REQ-112",
+    "title": "供应商的报价应包括为完成本项目所发生的一切费用和税费，采",
+    "content": "供应商的报价应包括为完成本项目所发生的一切费用和税费，采购人将不再支付报价以外的任何费用。供应商的报价应包括但不限于下列内容。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P112",
+      "quote": "供应商的报价应包括为完成本项目所发生的一切费用和税费，采购人将不再支付报价以外的任何费用。供应商的报价应包括但不限于下列内容。"
+    }
+  },
+  {
+    "req_id": "REQ-113",
+    "title": "响应货物及标准附件、备品备件、专用工具等的出厂价（包括已",
+    "content": "响应货物及标准附件、备品备件、专用工具等的出厂价（包括已在中国国内的进口货物完税后的仓库交货价、展室交货价或货架交货价）和运至最终目的地的运输费和保险费，安装调试、检验、技术服务、培训、质量保证、售后服务、税费等；",
+    "requirement_type": "business",
+    "priority": 95,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P113",
+      "quote": "响应货物及标准附件、备品备件、专用工具等的出厂价（包括已在中国国内的进口货物完税后的仓库交货价、展室交货价或货架交货价）和运至最终目的地的运输费和保险费，安装调试、检验、技术服务、培训、质量保证、售后服务、税费等；"
+    }
+  },
+  {
+    "req_id": "REQ-114",
+    "title": "按照采购文件要求完成本项目的全部相关工程或服务费用。",
+    "content": "按照采购文件要求完成本项目的全部相关工程或服务费用。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P114",
+      "quote": "按照采购文件要求完成本项目的全部相关工程或服务费用。"
+    }
+  },
+  {
+    "req_id": "REQ-115",
+    "title": "采购人不得向供应商索要或者接受其给予的赠品、回扣或者与采",
+    "content": "采购人不得向供应商索要或者接受其给予的赠品、回扣或者与采购无关的其他商品、服务。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P115",
+      "quote": "采购人不得向供应商索要或者接受其给予的赠品、回扣或者与采购无关的其他商品、服务。"
+    }
+  },
+  {
+    "req_id": "REQ-116",
+    "title": "供应商不能提供任何有选择性或可调整的最后报价（采购文件另",
+    "content": "供应商不能提供任何有选择性或可调整的最后报价（采购文件另有规定的除外），否则其响应无效。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P116",
+      "quote": "供应商不能提供任何有选择性或可调整的最后报价（采购文件另有规定的除外），否则其响应无效。"
+    }
+  },
+  {
+    "req_id": "REQ-117",
+    "title": "供应商应按《供应商须知资料表》中规定的金额及要求交纳保证",
+    "content": "供应商应按《供应商须知资料表》中规定的金额及要求交纳保证金，并作为其响应的一部分。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P117",
+      "quote": "供应商应按《供应商须知资料表》中规定的金额及要求交纳保证金，并作为其响应的一部分。"
+    }
+  },
+  {
+    "req_id": "REQ-118",
+    "title": "交纳响应保证金可采用的形式：政府采购法律法规接受的支票、",
+    "content": "交纳响应保证金可采用的形式：政府采购法律法规接受的支票、汇票、本票、网上银行支付或者金融机构、担保机构出具的保函等非现金形式。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P118",
+      "quote": "交纳响应保证金可采用的形式：政府采购法律法规接受的支票、汇票、本票、网上银行支付或者金融机构、担保机构出具的保函等非现金形式。"
+    }
+  },
+  {
+    "req_id": "REQ-119",
+    "title": "响应保证金到账截止时间同提交响应文件截止时间。以支票、汇",
+    "content": "响应保证金到账截止时间同提交响应文件截止时间。以支票、汇票、本票、网上银行支付等形式提交保证金的，应在提交响应文件截止时间前到账；以金融机构、担保机构出具的保函等形式提交响应保证金的，应在提交响应文件截止时间前将原件提交至采购代理机构；由于到账时间晚于提交响应文件截止时间的，或者票据错误、印鉴不清等原因导致不能到账的，其响应无效。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P119",
+      "quote": "响应保证金到账截止时间同提交响应文件截止时间。以支票、汇票、本票、网上银行支付等形式提交保证金的，应在提交响应文件截止时间前到账；以金融机构、担保机构出具的保函等形式提交响应保证金的，应在提交响应文件截止时间前将原件提交至采购代理机构；由于到账时间晚于提交响应文件截止时间的，或者票据错误、印鉴不清等原因导致不能到账的，"
+    }
+  },
+  {
+    "req_id": "REQ-120",
+    "title": "保证金（保函）有效期同响应有效期。",
+    "content": "保证金（保函）有效期同响应有效期。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P120",
+      "quote": "保证金（保函）有效期同响应有效期。"
+    }
+  },
+  {
+    "req_id": "REQ-121",
+    "title": "采购人、采购代理机构将及时退还供应商的保证金，采用银行保",
+    "content": "采购人、采购代理机构将及时退还供应商的保证金，采用银行保函、担保机构担保函等形式递交的保证金，经供应商同意后采购人、采购代理机构可以不再退还，但因供应商自身原因导致无法及时退还的除外：",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P121",
+      "quote": "采购人、采购代理机构将及时退还供应商的保证金，采用银行保函、担保机构担保函等形式递交的保证金，经供应商同意后采购人、采购代理机构可以不再退还，但因供应商自身原因导致无法及时退还的除外："
+    }
+  },
+  {
+    "req_id": "REQ-122",
+    "title": "已提交响应文件的供应商，在提交最后报价之前退出询价的，采",
+    "content": "已提交响应文件的供应商，在提交最后报价之前退出询价的，采购人、采购代理机构将退还退出询价的供应商的保证金；",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P122",
+      "quote": "已提交响应文件的供应商，在提交最后报价之前退出询价的，采购人、采购代理机构将退还退出询价的供应商的保证金；"
+    }
+  },
+  {
+    "req_id": "REQ-123",
+    "title": "成交供应商的保证金，自采购合同签订之日起5个工作日内退还",
+    "content": "成交供应商的保证金，自采购合同签订之日起5个工作日内退还成交供应商；",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P123",
+      "quote": "成交供应商的保证金，自采购合同签订之日起5个工作日内退还成交供应商；"
+    }
+  },
+  {
+    "req_id": "REQ-124",
+    "title": "未成交供应商的保证金，自成交通知书发出之日起5个工作日内",
+    "content": "未成交供应商的保证金，自成交通知书发出之日起5个工作日内退还未成交供应商。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P124",
+      "quote": "未成交供应商的保证金，自成交通知书发出之日起5个工作日内退还未成交供应商。"
+    }
+  },
+  {
+    "req_id": "REQ-125",
+    "title": "有下列情形之一的，采购人或采购代理机构不予退还保证金：",
+    "content": "有下列情形之一的，采购人或采购代理机构不予退还保证金：",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P125",
+      "quote": "有下列情形之一的，采购人或采购代理机构不予退还保证金："
+    }
+  },
+  {
+    "req_id": "REQ-126",
+    "title": "供应商在提交响应文件截止时间后撤回响应文件的；",
+    "content": "供应商在提交响应文件截止时间后撤回响应文件的；",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P126",
+      "quote": "供应商在提交响应文件截止时间后撤回响应文件的；"
+    }
+  },
+  {
+    "req_id": "REQ-127",
+    "title": "供应商在响应文件中提供虚假材料的；",
+    "content": "供应商在响应文件中提供虚假材料的；",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P127",
+      "quote": "供应商在响应文件中提供虚假材料的；"
+    }
+  },
+  {
+    "req_id": "REQ-128",
+    "title": "除因不可抗力或采购文件认可的情形以外，成交供应商不与采购",
+    "content": "除因不可抗力或采购文件认可的情形以外，成交供应商不与采购人签订合同的；",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P128",
+      "quote": "除因不可抗力或采购文件认可的情形以外，成交供应商不与采购人签订合同的；"
+    }
+  },
+  {
+    "req_id": "REQ-129",
+    "title": "供应商与采购人、其他供应商或者采购代理机构恶意串通的；",
+    "content": "供应商与采购人、其他供应商或者采购代理机构恶意串通的；",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P129",
+      "quote": "供应商与采购人、其他供应商或者采购代理机构恶意串通的；"
+    }
+  },
+  {
+    "req_id": "REQ-130",
+    "title": "采购文件中规定的其他情形。",
+    "content": "采购文件中规定的其他情形。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P130",
+      "quote": "采购文件中规定的其他情形。"
+    }
+  },
+  {
+    "req_id": "REQ-131",
+    "title": "响应文件应在本采购文件《供应商须知资料表》中规定的响应有",
+    "content": "响应文件应在本采购文件《供应商须知资料表》中规定的响应有效期内保持有效，响应有效期少于采购文件规定期限的，其响应无效。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P131",
+      "quote": "响应文件应在本采购文件《供应商须知资料表》中规定的响应有效期内保持有效，响应有效期少于采购文件规定期限的，其响应无效。"
+    }
+  },
+  {
+    "req_id": "REQ-132",
+    "title": "响应文件的签署、盖章、装订",
+    "content": "响应文件的签署、盖章、装订",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P132",
+      "quote": "响应文件的签署、盖章、装订"
+    }
+  },
+  {
+    "req_id": "REQ-133",
+    "title": "供应商应准备《供应商须知资料表》中规定数量的响应文件正本",
+    "content": "供应商应准备《供应商须知资料表》中规定数量的响应文件正本、副本及电子文档。每份响应文件须清楚地标明“正本”、“副本”和“电子文档”的字样。若正本和副本不符，以正本为准；电子版与纸质文件不符，以纸质文件为准。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P133",
+      "quote": "供应商应准备《供应商须知资料表》中规定数量的响应文件正本、副本及电子文档。每份响应文件须清楚地标明“正本”、“副本”和“电子文档”的字样。若正本和副本不符，以正本为准；电子版与纸质文件不符，以纸质文件为准。"
+    }
+  },
+  {
+    "req_id": "REQ-134",
+    "title": "响应文件的正本需打印或用不褪色墨水书写，并由供应商的法定",
+    "content": "响应文件的正本需打印或用不褪色墨水书写，并由供应商的法定代表人或经其正式授权的代表在响应文件上签字并加盖公章。响应文件的副本可采用正本的复印件。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P134",
+      "quote": "响应文件的正本需打印或用不褪色墨水书写，并由供应商的法定代表人或经其正式授权的代表在响应文件上签字并加盖公章。响应文件的副本可采用正本的复印件。"
+    }
+  },
+  {
+    "req_id": "REQ-135",
+    "title": "任何行间插字、涂改和增删，应由供应商的法定代表人或其授权",
+    "content": "任何行间插字、涂改和增删，应由供应商的法定代表人或其授权代表签字或加盖公章后才有效。响应文件因字迹潦草或表达不清所引起的后果由供应商负责。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P135",
+      "quote": "任何行间插字、涂改和增删，应由供应商的法定代表人或其授权代表签字或加盖公章后才有效。响应文件因字迹潦草或表达不清所引起的后果由供应商负责。"
+    }
+  },
+  {
+    "req_id": "REQ-136",
+    "title": "供应商需按照采购文件的要求将响应文件顺序编排、编制目录、",
+    "content": "供应商需按照采购文件的要求将响应文件顺序编排、编制目录、逐页标注连续页码后双面打印、胶装密封成册。",
+    "requirement_type": "format",
+    "priority": 95,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P136",
+      "quote": "供应商需按照采购文件的要求将响应文件顺序编排、编制目录、逐页标注连续页码后双面打印、胶装密封成册。"
+    }
+  },
+  {
+    "req_id": "REQ-137",
+    "title": "如使用投标专用章的，须提供特别说明函，明确该投标专用章与",
+    "content": "如使用投标专用章的，须提供特别说明函，明确该投标专用章与公章具有同等的效力（该特别说明函须同时加盖公章和投标专用章），否则其响应无效。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P137",
+      "quote": "如使用投标专用章的，须提供特别说明函，明确该投标专用章与公章具有同等的效力（该特别说明函须同时加盖公章和投标专用章），否则其响应无效。"
+    }
+  },
+  {
+    "req_id": "REQ-138",
+    "title": "四   响应文件的提交",
+    "content": "四   响应文件的提交",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P138",
+      "quote": "四   响应文件的提交"
+    }
+  },
+  {
+    "req_id": "REQ-139",
+    "title": "响应文件的包装、标记、提交",
+    "content": "响应文件的包装、标记、提交",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P139",
+      "quote": "响应文件的包装、标记、提交"
+    }
+  },
+  {
+    "req_id": "REQ-140",
+    "title": "供应商需将响应文件分以下几部分进行包装、标记及提交：",
+    "content": "供应商需将响应文件分以下几部分进行包装、标记及提交：",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P140",
+      "quote": "供应商需将响应文件分以下几部分进行包装、标记及提交："
+    }
+  },
+  {
+    "req_id": "REQ-141",
+    "title": "响应文件：将正本、所有的副本包装在标记为“响应文件《正本",
+    "content": "响应文件：将正本、所有的副本包装在标记为“响应文件《正本、副本》”的包装袋/箱中进行提交，并尽量减少包装袋/箱的使用数量；",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P141",
+      "quote": "响应文件：将正本、所有的副本包装在标记为“响应文件《正本、副本》”的包装袋/箱中进行提交，并尽量减少包装袋/箱的使用数量；"
+    }
+  },
+  {
+    "req_id": "REQ-142",
+    "title": "电子文档：将响应文件电子文档单独包装在标记为“响应文件电",
+    "content": "电子文档：将响应文件电子文档单独包装在标记为“响应文件电子文档”的包装袋中；若采购文件要求提交其他电子介质文档（如演示视频电子文档等），则该文档与响应文件电子文档一并封装在同一包装袋中）；",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P142",
+      "quote": "电子文档：将响应文件电子文档单独包装在标记为“响应文件电子文档”的包装袋中；若采购文件要求提交其他电子介质文档（如演示视频电子文档等），则该文档与响应文件电子文档一并封装在同一包装袋中）；"
+    }
+  },
+  {
+    "req_id": "REQ-143",
+    "title": "所有包装袋/箱上均需：",
+    "content": "所有包装袋/箱上均需：",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P143",
+      "quote": "所有包装袋/箱上均需："
+    }
+  },
+  {
+    "req_id": "REQ-144",
+    "title": "清楚标明递交至采购邀请中指明的地址；",
+    "content": "清楚标明递交至采购邀请中指明的地址；",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P144",
+      "quote": "清楚标明递交至采购邀请中指明的地址；"
+    }
+  },
+  {
+    "req_id": "REQ-145",
+    "title": "注明采购邀请中指明的项目名称、项目编号 和“在 （提交响",
+    "content": "注明采购邀请中指明的项目名称、项目编号 和“在 （提交响应文件截止时间）之前不得启封”的字样；",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P145",
+      "quote": "注明采购邀请中指明的项目名称、项目编号 和“在 （提交响应文件截止时间）之前不得启封”的字样；"
+    }
+  },
+  {
+    "req_id": "REQ-146",
+    "title": "写明供应商名称和地址。",
+    "content": "写明供应商名称和地址。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P146",
+      "quote": "写明供应商名称和地址。"
+    }
+  },
+  {
+    "req_id": "REQ-147",
+    "title": "未按上述要求包装及加写标记，采购人或采购代理机构对响应文",
+    "content": "未按上述要求包装及加写标记，采购人或采购代理机构对响应文件的误投或过早启封概不负责。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P147",
+      "quote": "未按上述要求包装及加写标记，采购人或采购代理机构对响应文件的误投或过早启封概不负责。"
+    }
+  },
+  {
+    "req_id": "REQ-148",
+    "title": "未密封的响应文件，采购人、采购代理机构予以拒收。",
+    "content": "未密封的响应文件，采购人、采购代理机构予以拒收。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P148",
+      "quote": "未密封的响应文件，采购人、采购代理机构予以拒收。"
+    }
+  },
+  {
+    "req_id": "REQ-149",
+    "title": "采购人拒绝接受以电报、电话、传真、电子邮件形式递交的响应",
+    "content": "采购人拒绝接受以电报、电话、传真、电子邮件形式递交的响应文件。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P149",
+      "quote": "采购人拒绝接受以电报、电话、传真、电子邮件形式递交的响应文件。"
+    }
+  },
+  {
+    "req_id": "REQ-150",
+    "title": "提交响应截止时间",
+    "content": "提交响应截止时间",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P150",
+      "quote": "提交响应截止时间"
+    }
+  },
+  {
+    "req_id": "REQ-151",
+    "title": "供应商应在采购文件要求提交响应文件的截止时间前，将响应文",
+    "content": "供应商应在采购文件要求提交响应文件的截止时间前，将响应文件密封送达第一章《采购邀请》中规定的地址。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P151",
+      "quote": "供应商应在采购文件要求提交响应文件的截止时间前，将响应文件密封送达第一章《采购邀请》中规定的地址。"
+    }
+  },
+  {
+    "req_id": "REQ-152",
+    "title": "逾期送达的响应文件，采购人、采购代理机构将拒绝接收。",
+    "content": "逾期送达的响应文件，采购人、采购代理机构将拒绝接收。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P152",
+      "quote": "逾期送达的响应文件，采购人、采购代理机构将拒绝接收。"
+    }
+  },
+  {
+    "req_id": "REQ-153",
+    "title": "响应文件的修改与撤回",
+    "content": "响应文件的修改与撤回",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P153",
+      "quote": "响应文件的修改与撤回"
+    }
+  },
+  {
+    "req_id": "REQ-154",
+    "title": "提交响应文件截止时间前，供应商可以对所提交的响应文件进行",
+    "content": "提交响应文件截止时间前，供应商可以对所提交的响应文件进行补充、修改或者撤回，并书面通知采购人或采购代理机构。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P154",
+      "quote": "提交响应文件截止时间前，供应商可以对所提交的响应文件进行补充、修改或者撤回，并书面通知采购人或采购代理机构。"
+    }
+  },
+  {
+    "req_id": "REQ-155",
+    "title": "供应商对响应文件的补充、修改的内容应当按照采购文件要求签",
+    "content": "供应商对响应文件的补充、修改的内容应当按照采购文件要求签署、盖章、密封后，作为响应文件的组成部分。补充、修改的内容与响应文件不一致的，以补充、修改的内容为准。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P155",
+      "quote": "供应商对响应文件的补充、修改的内容应当按照采购文件要求签署、盖章、密封后，作为响应文件的组成部分。补充、修改的内容与响应文件不一致的，以补充、修改的内容为准。"
+    }
+  },
+  {
+    "req_id": "REQ-156",
+    "title": "五   评审",
+    "content": "五   评审",
+    "requirement_type": "scoring",
+    "priority": 70,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P156",
+      "quote": "五   评审"
+    }
+  },
+  {
+    "req_id": "REQ-157",
+    "title": "响应文件的开启",
+    "content": "响应文件的开启",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P157",
+      "quote": "响应文件的开启"
+    }
+  },
+  {
+    "req_id": "REQ-158",
+    "title": "采购人或采购代理机构将按采购文件的规定，在响应文件提交截",
+    "content": "采购人或采购代理机构将按采购文件的规定，在响应文件提交截止时间的同一时间和采购文件预先确定的地点开启响应文件。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P158",
+      "quote": "采购人或采购代理机构将按采购文件的规定，在响应文件提交截止时间的同一时间和采购文件预先确定的地点开启响应文件。"
+    }
+  },
+  {
+    "req_id": "REQ-159",
+    "title": "供应商认为采购人员及相关人员与其他供应商有利害关系的，可",
+    "content": "供应商认为采购人员及相关人员与其他供应商有利害关系的，可以向采购人或采购代理机构书面提出回避申请，并说明理由。采购人或采购代理机构将及时询问被申请回避人员，有利害关系的被申请回避人员将回避。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P159",
+      "quote": "供应商认为采购人员及相关人员与其他供应商有利害关系的，可以向采购人或采购代理机构书面提出回避申请，并说明理由。采购人或采购代理机构将及时询问被申请回避人员，有利害关系的被申请回避人员将回避。"
+    }
+  },
+  {
+    "req_id": "REQ-160",
+    "title": "预算金额100万元以下首次采购的项目，供应商不足3家的不",
+    "content": "预算金额100万元以下首次采购的项目，供应商不足3家的不予开启。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P160",
+      "quote": "预算金额100万元以下首次采购的项目，供应商不足3家的不予开启。"
+    }
+  },
+  {
+    "req_id": "REQ-161",
+    "title": "本项目不公开报价。",
+    "content": "本项目不公开报价。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P161",
+      "quote": "本项目不公开报价。"
+    }
+  },
+  {
+    "req_id": "REQ-162",
+    "title": "询价小组根据本次便捷询价采购项目的特点进行组建，并负责具",
+    "content": "询价小组根据本次便捷询价采购项目的特点进行组建，并负责具体评审与询价事务，独立履行职责。",
+    "requirement_type": "scoring",
+    "priority": 70,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P162",
+      "quote": "询价小组根据本次便捷询价采购项目的特点进行组建，并负责具体评审与询价事务，独立履行职责。"
+    }
+  },
+  {
+    "req_id": "REQ-163",
+    "title": "评审程序和评定成交的标准",
+    "content": "评审程序和评定成交的标准",
+    "requirement_type": "scoring",
+    "priority": 70,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P163",
+      "quote": "评审程序和评定成交的标准"
+    }
+  },
+  {
+    "req_id": "REQ-164",
+    "title": "见第三章《评审程序和评定成交的标准》。",
+    "content": "见第三章《评审程序和评定成交的标准》。",
+    "requirement_type": "scoring",
+    "priority": 70,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P164",
+      "quote": "见第三章《评审程序和评定成交的标准》。"
+    }
+  },
+  {
+    "req_id": "REQ-165",
+    "title": "六   确定成交",
+    "content": "六   确定成交",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P165",
+      "quote": "六   确定成交"
+    }
+  },
+  {
+    "req_id": "REQ-166",
+    "title": "确定成交供应商",
+    "content": "确定成交供应商",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P166",
+      "quote": "确定成交供应商"
+    }
+  },
+  {
+    "req_id": "REQ-167",
+    "title": "采购人不委托询价小组直接确定成交供应商。采购人将从评审报",
+    "content": "采购人不委托询价小组直接确定成交供应商。采购人将从评审报告提出的成交候选人中，根据质量和服务均能满足采购文件实质性响应要求且最后报价最低的原则确定成交供应商。成交候选人并列的，由采购人相关部门（小组）会议、会签等形式确定。",
+    "requirement_type": "scoring",
+    "priority": 95,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P167",
+      "quote": "采购人不委托询价小组直接确定成交供应商。采购人将从评审报告提出的成交候选人中，根据质量和服务均能满足采购文件实质性响应要求且最后报价最低的原则确定成交供应商。成交候选人并列的，由采购人相关部门（小组）会议、会签等形式确定。"
+    }
+  },
+  {
+    "req_id": "REQ-168",
+    "title": "成交公告与成交通知书",
+    "content": "成交公告与成交通知书",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P168",
+      "quote": "成交公告与成交通知书"
+    }
+  },
+  {
+    "req_id": "REQ-169",
+    "title": "采购人或采购代理机构将在成交供应商确定后2个工作日内，在",
+    "content": "采购人或采购代理机构将在成交供应商确定后2个工作日内，在中国政府采购网公告成交结果，同时向成交供应商发出成交通知书，成交公告期限为1个工作日（适用于采用公告方式邀请供应商参与的，如供应商为书面推荐方式的，无需公告成交结果）。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P169",
+      "quote": "采购人或采购代理机构将在成交供应商确定后2个工作日内，在中国政府采购网公告成交结果，同时向成交供应商发出成交通知书，成交公告期限为1个工作日（适用于采用公告方式邀请供应商参与的，如供应商为书面推荐方式的，无需公告成交结果）。"
+    }
+  },
+  {
+    "req_id": "REQ-170",
+    "title": "成交通知书对采购人和成交供应商具有同等法律效力。成交通知",
+    "content": "成交通知书对采购人和成交供应商具有同等法律效力。成交通知书发出后，采购人改变成交结果的，或者成交供应商放弃成交项目的，应当依法承担法律责任。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P170",
+      "quote": "成交通知书对采购人和成交供应商具有同等法律效力。成交通知书发出后，采购人改变成交结果的，或者成交供应商放弃成交项目的，应当依法承担法律责任。"
+    }
+  },
+  {
+    "req_id": "REQ-171",
+    "title": "出现下列情形之一的，采购人或采购代理机构应当终止便捷询价",
+    "content": "出现下列情形之一的，采购人或采购代理机构应当终止便捷询价采购活动，采用公告方式的，发布项目终止公告（采用书面推荐供应商参与的，应通知相关供应商，无需发布公告）并说明原因，重新开展采购活动：",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P171",
+      "quote": "出现下列情形之一的，采购人或采购代理机构应当终止便捷询价采购活动，采用公告方式的，发布项目终止公告（采用书面推荐供应商参与的，应通知相关供应商，无需发布公告）并说明原因，重新开展采购活动："
+    }
+  },
+  {
+    "req_id": "REQ-172",
+    "title": "因情况变化，不再符合规定的便捷询价采购方式适用情形的；",
+    "content": "因情况变化，不再符合规定的便捷询价采购方式适用情形的；",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P172",
+      "quote": "因情况变化，不再符合规定的便捷询价采购方式适用情形的；"
+    }
+  },
+  {
+    "req_id": "REQ-173",
+    "title": "出现影响采购公正的违法、违规行为的；",
+    "content": "出现影响采购公正的违法、违规行为的；",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P173",
+      "quote": "出现影响采购公正的违法、违规行为的；"
+    }
+  },
+  {
+    "req_id": "REQ-174",
+    "title": "在采购过程中符合竞争要求的供应商或者报价未超过采购预算的",
+    "content": "在采购过程中符合竞争要求的供应商或者报价未超过采购预算的供应商不足3家的，以及预算金额100万元以下且非首次组织采购的项目，可以与两家供应商进行便捷询价采购的情形除外。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P174",
+      "quote": "在采购过程中符合竞争要求的供应商或者报价未超过采购预算的供应商不足3家的，以及预算金额100万元以下且非首次组织采购的项目，可以与两家供应商进行便捷询价采购的情形除外。"
+    }
+  },
+  {
+    "req_id": "REQ-175",
+    "title": "采购人与成交供应商将在成交通知书发出之日起30日内，按照",
+    "content": "采购人与成交供应商将在成交通知书发出之日起30日内，按照采购文件确定的合同文本以及采购标的、规格型号、采购金额、采购数量、技术和服务要求等事项签订政府采购合同。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P175",
+      "quote": "采购人与成交供应商将在成交通知书发出之日起30日内，按照采购文件确定的合同文本以及采购标的、规格型号、采购金额、采购数量、技术和服务要求等事项签订政府采购合同。"
+    }
+  },
+  {
+    "req_id": "REQ-176",
+    "title": "成交供应商拒绝签订政府采购合同的，采购人可以按照评审报告",
+    "content": "成交供应商拒绝签订政府采购合同的，采购人可以按照评审报告推荐的成交候选人名单排序，确定下一候选人为成交供应商，也可以重新开展采购活动。拒绝签订合同的成交供应商不得参加对该项目重新开展的采购活动。",
+    "requirement_type": "scoring",
+    "priority": 95,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P176",
+      "quote": "成交供应商拒绝签订政府采购合同的，采购人可以按照评审报告推荐的成交候选人名单排序，确定下一候选人为成交供应商，也可以重新开展采购活动。拒绝签订合同的成交供应商不得参加对该项目重新开展的采购活动。"
+    }
+  },
+  {
+    "req_id": "REQ-177",
+    "title": "政府采购合同不能转包。",
+    "content": "政府采购合同不能转包。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P177",
+      "quote": "政府采购合同不能转包。"
+    }
+  },
+  {
+    "req_id": "REQ-178",
+    "title": "供应商对政府采购活动事项有疑问的，可依法提出询问，以书面",
+    "content": "供应商对政府采购活动事项有疑问的，可依法提出询问，以书面形式送达采购人或采购代理机构。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P178",
+      "quote": "供应商对政府采购活动事项有疑问的，可依法提出询问，以书面形式送达采购人或采购代理机构。"
+    }
+  },
+  {
+    "req_id": "REQ-179",
+    "title": "采购人或采购代理机构对供应商依法提出的询问，在3个工作日",
+    "content": "采购人或采购代理机构对供应商依法提出的询问，在3个工作日内作出答复，但答复的内容不得涉及商业秘密。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P179",
+      "quote": "采购人或采购代理机构对供应商依法提出的询问，在3个工作日内作出答复，但答复的内容不得涉及商业秘密。"
+    }
+  },
+  {
+    "req_id": "REQ-180",
+    "title": "供应商认为采购文件、采购过程、成交结果使自己的权益受到损",
+    "content": "供应商认为采购文件、采购过程、成交结果使自己的权益受到损害的，可以在知道或者应知其权益受到损害之日起7个工作日内，由供应商派授权代表以书面形式向采购人、采购代理机构提出质疑。采购人、采购代理机构在收到质疑函后7个工作日内作出答复。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P180",
+      "quote": "供应商认为采购文件、采购过程、成交结果使自己的权益受到损害的，可以在知道或者应知其权益受到损害之日起7个工作日内，由供应商派授权代表以书面形式向采购人、采购代理机构提出质疑。采购人、采购代理机构在收到质疑函后7个工作日内作出答复。"
+    }
+  },
+  {
+    "req_id": "REQ-181",
+    "title": "质疑函须使用财政部制定的范本文件。",
+    "content": "质疑函须使用财政部制定的范本文件。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P181",
+      "quote": "质疑函须使用财政部制定的范本文件。"
+    }
+  },
+  {
+    "req_id": "REQ-182",
+    "title": "供应商为自然人的，应当由本人签字；供应商为法人或者其他组",
+    "content": "供应商为自然人的，应当由本人签字；供应商为法人或者其他组织的，应当由法定代表人、主要负责人，或者其授权代表签字或者盖章，并加盖公章。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P182",
+      "quote": "供应商为自然人的，应当由本人签字；供应商为法人或者其他组织的，应当由法定代表人、主要负责人，或者其授权代表签字或者盖章，并加盖公章。"
+    }
+  },
+  {
+    "req_id": "REQ-183",
+    "title": "供应商应在法定质疑期内一次性提出针对同一采购程序环节的质",
+    "content": "供应商应在法定质疑期内一次性提出针对同一采购程序环节的质疑，法定质疑期内针对同一采购程序环节再次提出的质疑，采购人、采购代理机构有权不予答复。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P183",
+      "quote": "供应商应在法定质疑期内一次性提出针对同一采购程序环节的质疑，法定质疑期内针对同一采购程序环节再次提出的质疑，采购人、采购代理机构有权不予答复。"
+    }
+  },
+  {
+    "req_id": "REQ-184",
+    "title": "接收询问和质疑的联系部门、联系电话和通讯地址见《供应商须",
+    "content": "接收询问和质疑的联系部门、联系电话和通讯地址见《供应商须知资料表》。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P184",
+      "quote": "接收询问和质疑的联系部门、联系电话和通讯地址见《供应商须知资料表》。"
+    }
+  },
+  {
+    "req_id": "REQ-185",
+    "title": "收取招标代理服务费，收费对象、收费标准、缴纳时间见《供应",
+    "content": "收取招标代理服务费，收费对象、收费标准、缴纳时间见《供应商须知资料表》。招标代理服务费应计入报价中，但无须单独开列。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P185",
+      "quote": "收取招标代理服务费，收费对象、收费标准、缴纳时间见《供应商须知资料表》。招标代理服务费应计入报价中，但无须单独开列。"
+    }
+  },
+  {
+    "req_id": "REQ-186",
+    "title": "第三章   评审程序和评定成交的标准",
+    "content": "第三章   评审程序和评定成交的标准",
+    "requirement_type": "scoring",
+    "priority": 70,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P186",
+      "quote": "第三章   评审程序和评定成交的标准"
+    }
+  },
+  {
+    "req_id": "REQ-187",
+    "title": "响应文件的资格审查和符合性审查",
+    "content": "响应文件的资格审查和符合性审查",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P187",
+      "quote": "响应文件的资格审查和符合性审查"
+    }
+  },
+  {
+    "req_id": "REQ-188",
+    "title": "询价小组将根据《资格审查要求》和《符合性审查要求》中规定",
+    "content": "询价小组将根据《资格审查要求》和《符合性审查要求》中规定的内容，对供应商进行审查，并形成审查结果。供应商《响应文件》有任何一项不符合《资格审查要求》的，视为未实质性响应采购文件。未实质性响应采购文件的响应文件按无效处理，询价小组应当告知有关供应商。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P188",
+      "quote": "询价小组将根据《资格审查要求》和《符合性审查要求》中规定的内容，对供应商进行审查，并形成审查结果。供应商《响应文件》有任何一项不符合《资格审查要求》的，视为未实质性响应采购文件。未实质性响应采购文件的响应文件按无效处理，询价小组应当告知有关供应商。"
+    }
+  },
+  {
+    "req_id": "REQ-189",
+    "title": "《资格审查要求》见下表：",
+    "content": "《资格审查要求》见下表：",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P189",
+      "quote": "《资格审查要求》见下表："
+    }
+  },
+  {
+    "req_id": "REQ-190",
+    "title": "资格审查要求",
+    "content": "资格审查要求",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P190",
+      "quote": "资格审查要求"
+    }
+  },
+  {
+    "req_id": "REQ-191",
+    "title": "《符合性审查要求》见下表：",
+    "content": "《符合性审查要求》见下表：",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P191",
+      "quote": "《符合性审查要求》见下表："
+    }
+  },
+  {
+    "req_id": "REQ-192",
+    "title": "符合性审查要求",
+    "content": "符合性审查要求",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P192",
+      "quote": "符合性审查要求"
+    }
+  },
+  {
+    "req_id": "REQ-193",
+    "title": "询价、响应文件有关事项的澄清、说明或者更正和最后报价",
+    "content": "询价、响应文件有关事项的澄清、说明或者更正和最后报价",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P193",
+      "quote": "询价、响应文件有关事项的澄清、说明或者更正和最后报价"
+    }
+  },
+  {
+    "req_id": "REQ-194",
+    "title": "询价小组所有成员将集中与单一供应商分别进行询价，并给予所",
+    "content": "询价小组所有成员将集中与单一供应商分别进行询价，并给予所有参加询价的供应商平等的询价机会。在询价中，询价的任何一方不得透露与询价有关的其他供应商的技术资料、价格和其他信息。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P194",
+      "quote": "询价小组所有成员将集中与单一供应商分别进行询价，并给予所有参加询价的供应商平等的询价机会。在询价中，询价的任何一方不得透露与询价有关的其他供应商的技术资料、价格和其他信息。"
+    }
+  },
+  {
+    "req_id": "REQ-195",
+    "title": "在询价过程中，询价小组可以根据采购文件和询价情况实质性变",
+    "content": "在询价过程中，询价小组可以根据采购文件和询价情况实质性变动采购需求中的技术、服务要求以及合同草案条款，但不得变动采购文件中的其他内容。实质性变动的内容，须经采购人代表确认。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P195",
+      "quote": "在询价过程中，询价小组可以根据采购文件和询价情况实质性变动采购需求中的技术、服务要求以及合同草案条款，但不得变动采购文件中的其他内容。实质性变动的内容，须经采购人代表确认。"
+    }
+  },
+  {
+    "req_id": "REQ-196",
+    "title": "对采购文件作出的实质性变动是采购文件的有效组成部分，询价",
+    "content": "对采购文件作出的实质性变动是采购文件的有效组成部分，询价小组将及时以书面形式同时通知所有参加询价的供应商。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P196",
+      "quote": "对采购文件作出的实质性变动是采购文件的有效组成部分，询价小组将及时以书面形式同时通知所有参加询价的供应商。"
+    }
+  },
+  {
+    "req_id": "REQ-197",
+    "title": "供应商应当按照采购文件的变动情况和询价小组的要求重新提交",
+    "content": "供应商应当按照采购文件的变动情况和询价小组的要求重新提交响应文件，并由其法定代表人或授权代表签字或者加盖公章。由授权代表签字的，应当附授权委托书。供应商为自然人的，应当由本人签字并附身份证明。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P197",
+      "quote": "供应商应当按照采购文件的变动情况和询价小组的要求重新提交响应文件，并由其法定代表人或授权代表签字或者加盖公章。由授权代表签字的，应当附授权委托书。供应商为自然人的，应当由本人签字并附身份证明。"
+    }
+  },
+  {
+    "req_id": "REQ-198",
+    "title": "响应文件的澄清、说明或者更正：",
+    "content": "响应文件的澄清、说明或者更正：",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P198",
+      "quote": "响应文件的澄清、说明或者更正："
+    }
+  },
+  {
+    "req_id": "REQ-199",
+    "title": "询价小组在对响应文件的有效性、完整性和响应程度进行审查时",
+    "content": "询价小组在对响应文件的有效性、完整性和响应程度进行审查时，可以要求供应商对响应文件中含义不明确、同类问题表述不一致或者有明显文字和计算错误的内容等作出必要的澄清、说明或者更正。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P199",
+      "quote": "询价小组在对响应文件的有效性、完整性和响应程度进行审查时，可以要求供应商对响应文件中含义不明确、同类问题表述不一致或者有明显文字和计算错误的内容等作出必要的澄清、说明或者更正。"
+    }
+  },
+  {
+    "req_id": "REQ-200",
+    "title": "询价小组对响应文件进行审查，如发现供应商提交的响应文件存",
+    "content": "询价小组对响应文件进行审查，如发现供应商提交的响应文件存在不满足《符合性审查要求》的内容，则供应商响应文件按无效处理。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P200",
+      "quote": "询价小组对响应文件进行审查，如发现供应商提交的响应文件存在不满足《符合性审查要求》的内容，则供应商响应文件按无效处理。"
+    }
+  },
+  {
+    "req_id": "REQ-201",
+    "title": "供应商的澄清、说明或者更正不得超出响应文件的范围或者改变",
+    "content": "供应商的澄清、说明或者更正不得超出响应文件的范围或者改变响应文件的实质性内容。询价小组要求供应商澄清、说明或者更正响应文件应当以书面形式作出。供应商的澄清、说明或者更正应当由法定代表人或其授权代表签字或者加盖公章。由授权代表签字的，应当附授权委托书。供应商为自然人的，应当由本人签字并附身份证明。澄清、说明或者更正文件将作为响应文件内容的一部分。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P201",
+      "quote": "供应商的澄清、说明或者更正不得超出响应文件的范围或者改变响应文件的实质性内容。询价小组要求供应商澄清、说明或者更正响应文件应当以书面形式作出。供应商的澄清、说明或者更正应当由法定代表人或其授权代表签字或者加盖公章。由授权代表签字的，应当附授权委托书。供应商为自然人的，应当由本人签字并附身份证明。澄清、说明或者更正文件将"
+    }
+  },
+  {
+    "req_id": "REQ-202",
+    "title": "询价结束后，询价小组将要求所有实质性响应的供应商在规定时",
+    "content": "询价结束后，询价小组将要求所有实质性响应的供应商在规定时间内提交最后报价。最后报价时间为询价小组指定的时间，具体时间根据询价进度另行通知。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P202",
+      "quote": "询价结束后，询价小组将要求所有实质性响应的供应商在规定时间内提交最后报价。最后报价时间为询价小组指定的时间，具体时间根据询价进度另行通知。"
+    }
+  },
+  {
+    "req_id": "REQ-203",
+    "title": "采购文件能够详细列明采购标的的技术、服务要求的，询价结束",
+    "content": "采购文件能够详细列明采购标的的技术、服务要求的，询价结束后，询价小组将要求所有继续参加询价的供应商在规定时间内提交最后报价，提交最后报价的供应商不得少于3家。采购文件不能详细列明采购标的的技术、服务要求，需经询价由供应商提供最终设计方案或解决方案的，询价结束后，询价小组将按照少数服从多数的原则投票推荐3家以上供应商的设计方案或者解决方案，并要求其在规定时间内提交最后报价。预算金额100万元以下且非首次采购的项目，提交最后报价的供应商、推荐数量可以为2家。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P203",
+      "quote": "采购文件能够详细列明采购标的的技术、服务要求的，询价结束后，询价小组将要求所有继续参加询价的供应商在规定时间内提交最后报价，提交最后报价的供应商不得少于3家。采购文件不能详细列明采购标的的技术、服务要求，需经询价由供应商提供最终设计方案或解决方案的，询价结束后，询价小组将按照少数服从多数的原则投票推荐3家以上供应商的设"
+    }
+  },
+  {
+    "req_id": "REQ-204",
+    "title": "最后报价是供应商响应文件的有效组成部分。",
+    "content": "最后报价是供应商响应文件的有效组成部分。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P204",
+      "quote": "最后报价是供应商响应文件的有效组成部分。"
+    }
+  },
+  {
+    "req_id": "REQ-205",
+    "title": "已提交响应文件的供应商，在提交最后报价之前，可以根据情况",
+    "content": "已提交响应文件的供应商，在提交最后报价之前，可以根据情况退出询价。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P205",
+      "quote": "已提交响应文件的供应商，在提交最后报价之前，可以根据情况退出询价。"
+    }
+  },
+  {
+    "req_id": "REQ-206",
+    "title": "最后报价的算术修正及政策调整",
+    "content": "最后报价的算术修正及政策调整",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P206",
+      "quote": "最后报价的算术修正及政策调整"
+    }
+  },
+  {
+    "req_id": "REQ-207",
+    "title": "最后报价须包含采购文件全部内容，如最后分项报价表有缺漏视",
+    "content": "最后报价须包含采购文件全部内容，如最后分项报价表有缺漏视为已含在其他各项报价中，将不对最后报价进行调整。询价小组有权要求供应商在评审现场合理的时间内对此进行书面确认，供应商不确认的，视为将一个采购包中的内容拆开响应，其响应无效。",
+    "requirement_type": "scoring",
+    "priority": 95,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P207",
+      "quote": "最后报价须包含采购文件全部内容，如最后分项报价表有缺漏视为已含在其他各项报价中，将不对最后报价进行调整。询价小组有权要求供应商在评审现场合理的时间内对此进行书面确认，供应商不确认的，视为将一个采购包中的内容拆开响应，其响应无效。"
+    }
+  },
+  {
+    "req_id": "REQ-208",
+    "title": "最后报价出现前后不一致的，按照下列规定修正：",
+    "content": "最后报价出现前后不一致的，按照下列规定修正：",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P208",
+      "quote": "最后报价出现前后不一致的，按照下列规定修正："
+    }
+  },
+  {
+    "req_id": "REQ-209",
+    "title": "大写金额和小写金额不一致的，以大写金额为准；",
+    "content": "大写金额和小写金额不一致的，以大写金额为准；",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P209",
+      "quote": "大写金额和小写金额不一致的，以大写金额为准；"
+    }
+  },
+  {
+    "req_id": "REQ-210",
+    "title": "单价金额小数点或者百分比有明显错位的，以总价为准，并修改",
+    "content": "单价金额小数点或者百分比有明显错位的，以总价为准，并修改单价；",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P210",
+      "quote": "单价金额小数点或者百分比有明显错位的，以总价为准，并修改单价；"
+    }
+  },
+  {
+    "req_id": "REQ-211",
+    "title": "总价金额与按单价汇总金额不一致的，以单价金额计算结果为准",
+    "content": "总价金额与按单价汇总金额不一致的，以单价金额计算结果为准。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P211",
+      "quote": "总价金额与按单价汇总金额不一致的，以单价金额计算结果为准。"
+    }
+  },
+  {
+    "req_id": "REQ-212",
+    "title": "同时出现两种以上不一致的，按照前款规定顺序修正。修正后的",
+    "content": "同时出现两种以上不一致的，按照前款规定顺序修正。修正后的报价经供应商书面确认后产生约束力，供应商不确认的，其响应无效。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P212",
+      "quote": "同时出现两种以上不一致的，按照前款规定顺序修正。修正后的报价经供应商书面确认后产生约束力，供应商不确认的，其响应无效。"
+    }
+  },
+  {
+    "req_id": "REQ-213",
+    "title": "询价环节及提交最后报价后如出现以下情况的，供应商的响应文",
+    "content": "询价环节及提交最后报价后如出现以下情况的，供应商的响应文件无效：",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P213",
+      "quote": "询价环节及提交最后报价后如出现以下情况的，供应商的响应文件无效："
+    }
+  },
+  {
+    "req_id": "REQ-214",
+    "title": "供应商对实质性变动不予确认的；",
+    "content": "供应商对实质性变动不予确认的；",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P214",
+      "quote": "供应商对实质性变动不予确认的；"
+    }
+  },
+  {
+    "req_id": "REQ-215",
+    "title": "不满足采购文件★号条款或响应文件技术指标超出采购文件《采",
+    "content": "不满足采购文件★号条款或响应文件技术指标超出采购文件《采购需求》中主要技术参数允许偏差的最大范围的（如有）；",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P215",
+      "quote": "不满足采购文件★号条款或响应文件技术指标超出采购文件《采购需求》中主要技术参数允许偏差的最大范围的（如有）；"
+    }
+  },
+  {
+    "req_id": "REQ-216",
+    "title": "未按照询价小组规定的时间、逾期提交最后报价的；",
+    "content": "未按照询价小组规定的时间、逾期提交最后报价的；",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P216",
+      "quote": "未按照询价小组规定的时间、逾期提交最后报价的；"
+    }
+  },
+  {
+    "req_id": "REQ-217",
+    "title": "如供应商的最后报价超过采购文件中规定的项目/采购包预算金",
+    "content": "如供应商的最后报价超过采购文件中规定的项目/采购包预算金额或者项目/采购包最高限价的；",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P217",
+      "quote": "如供应商的最后报价超过采购文件中规定的项目/采购包预算金额或者项目/采购包最高限价的；"
+    }
+  },
+  {
+    "req_id": "REQ-218",
+    "title": "响应文件中出现可选择性或可调整的报价的（采购文件另有规定",
+    "content": "响应文件中出现可选择性或可调整的报价的（采购文件另有规定的除外）；",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P218",
+      "quote": "响应文件中出现可选择性或可调整的报价的（采购文件另有规定的除外）；"
+    }
+  },
+  {
+    "req_id": "REQ-219",
+    "title": "最后报价出现前后不一致，供应商对修正后的报价不予确认的；",
+    "content": "最后报价出现前后不一致，供应商对修正后的报价不予确认的；",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P219",
+      "quote": "最后报价出现前后不一致，供应商对修正后的报价不予确认的；"
+    }
+  },
+  {
+    "req_id": "REQ-220",
+    "title": "评定成交的标准与确定成交候选人名单",
+    "content": "评定成交的标准与确定成交候选人名单",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P220",
+      "quote": "评定成交的标准与确定成交候选人名单"
+    }
+  },
+  {
+    "req_id": "REQ-221",
+    "title": "询价小组将从质量和服务均能满足采购文件实质性响应要求的供",
+    "content": "询价小组将从质量和服务均能满足采购文件实质性响应要求的供应商中，按照最后报价（如有按本章节进行算术修正或政策调整的，以修正或调整后的最后报价计算）由低到高的顺序提出3名成交候选人（若在采购文件允许的情形下提交最后报价的供应商为2家，则依次推荐2名供应商为成交候选供应商），并编写评审报告。",
+    "requirement_type": "scoring",
+    "priority": 95,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P221",
+      "quote": "询价小组将从质量和服务均能满足采购文件实质性响应要求的供应商中，按照最后报价（如有按本章节进行算术修正或政策调整的，以修正或调整后的最后报价计算）由低到高的顺序提出3名成交候选人（若在采购文件允许的情形下提交最后报价的供应商为2家，则依次推荐2名供应商为成交候选供应商），并编写评审报告。"
+    }
+  },
+  {
+    "req_id": "REQ-222",
+    "title": "询价小组要对评审结果进行复核，特别是对排名第一的、响应文",
+    "content": "询价小组要对评审结果进行复核，特别是对排名第一的、响应文件被认定为无效的情形进行重点复核。",
+    "requirement_type": "scoring",
+    "priority": 95,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P222",
+      "quote": "询价小组要对评审结果进行复核，特别是对排名第一的、响应文件被认定为无效的情形进行重点复核。"
+    }
+  },
+  {
+    "req_id": "REQ-223",
+    "title": "报告违法行为",
+    "content": "报告违法行为",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P223",
+      "quote": "报告违法行为"
+    }
+  },
+  {
+    "req_id": "REQ-224",
+    "title": "询价小组在评审过程中发现供应商有行贿、提供虚假材料或者串",
+    "content": "询价小组在评审过程中发现供应商有行贿、提供虚假材料或者串通等违法行为时，有向采购人、采购代理机构或者有关部门报告的职责。",
+    "requirement_type": "scoring",
+    "priority": 95,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P224",
+      "quote": "询价小组在评审过程中发现供应商有行贿、提供虚假材料或者串通等违法行为时，有向采购人、采购代理机构或者有关部门报告的职责。"
+    }
+  },
+  {
+    "req_id": "REQ-225",
+    "title": "服务需求一览表",
+    "content": "服务需求一览表",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P225",
+      "quote": "服务需求一览表"
+    }
+  },
+  {
+    "req_id": "REQ-226",
+    "title": "本技术规范未对一切技术细节做出规定，也未充分引述有关标准",
+    "content": "本技术规范未对一切技术细节做出规定，也未充分引述有关标准和规范的条文，乙方所提供的服务应符合行业标准和本技术规范中所提要求。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P226",
+      "quote": "本技术规范未对一切技术细节做出规定，也未充分引述有关标准和规范的条文，乙方所提供的服务应符合行业标准和本技术规范中所提要求。"
+    }
+  },
+  {
+    "req_id": "REQ-227",
+    "title": "服务内容及要求",
+    "content": "服务内容及要求",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P227",
+      "quote": "服务内容及要求"
+    }
+  },
+  {
+    "req_id": "REQ-228",
+    "title": "按照IEC 60747-8:2010+A1:2021 《",
+    "content": "按照IEC 60747-8:2010+A1:2021 《半导体器件 分立器件 第8部分：场效应晶体管》或其他国家标准、行业标准开展测试，出具符合2.2要求的测试报告。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P228",
+      "quote": "按照IEC 60747-8:2010+A1:2021 《半导体器件 分立器件 第8部分：场效应晶体管》或其他国家标准、行业标准开展测试，出具符合2.2要求的测试报告。"
+    }
+  },
+  {
+    "req_id": "REQ-229",
+    "title": "完成甲方提供的碳化硅MOSFET等产品的测试工作，并出具",
+    "content": "完成甲方提供的碳化硅MOSFET等产品的测试工作，并出具符合要求的测试报告。技术要求如下：",
+    "requirement_type": "technical",
+    "priority": 70,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P229",
+      "quote": "完成甲方提供的碳化硅MOSFET等产品的测试工作，并出具符合要求的测试报告。技术要求如下："
+    }
+  },
+  {
+    "req_id": "REQ-230",
+    "title": "乙方根据甲方提供的测试需求，开展测试服务，提供该测试相关",
+    "content": "乙方根据甲方提供的测试需求，开展测试服务，提供该测试相关的数据与结果，并按照甲方的要求，给出测试报告。乙方需同时满足碳化硅功率器件测试技术条件：晶圆级老化-高温反向偏置测试；晶圆级老化-高温栅极偏置测试；盐雾试验；6寸晶圆切割等。具体项目须至少包括：①175℃ 高温反向偏置测试；②175℃ 高温栅极偏置测试；③35℃ 盐雾试验；④6寸晶圆切割。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P230",
+      "quote": "乙方根据甲方提供的测试需求，开展测试服务，提供该测试相关的数据与结果，并按照甲方的要求，给出测试报告。乙方需同时满足碳化硅功率器件测试技术条件：晶圆级老化-高温反向偏置测试；晶圆级老化-高温栅极偏置测试；盐雾试验；6寸晶圆切割等。具体项目须至少包括：①175℃ 高温反向偏置测试；②175℃ 高温栅极偏置测试；③35℃ "
+    }
+  },
+  {
+    "req_id": "REQ-231",
+    "title": "甲方提出的相关技术问题，乙方应积极配合并协调安排测试技术",
+    "content": "甲方提出的相关技术问题，乙方应积极配合并协调安排测试技术人员及一线操作人员应答，必要的经协商前往现场跟案沟通确认。结案后乙方交给甲方全套的测试数据包及测试报告（包括报告电子板，供甲方存档）。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P231",
+      "quote": "甲方提出的相关技术问题，乙方应积极配合并协调安排测试技术人员及一线操作人员应答，必要的经协商前往现场跟案沟通确认。结案后乙方交给甲方全套的测试数据包及测试报告（包括报告电子板，供甲方存档）。"
+    }
+  },
+  {
+    "req_id": "REQ-232",
+    "title": "测试报告应包括：样品信息、测试项目、测试设备、测试时间、",
+    "content": "测试报告应包括：样品信息、测试项目、测试设备、测试时间、测试条件、测试波形数据等。样品信息应包含样品名称、编号、型号规格、样品图片。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P232",
+      "quote": "测试报告应包括：样品信息、测试项目、测试设备、测试时间、测试条件、测试波形数据等。样品信息应包含样品名称、编号、型号规格、样品图片。"
+    }
+  },
+  {
+    "req_id": "REQ-233",
+    "title": "本次采购测试服务项目需满足TO247-3/4型1200V",
+    "content": "本次采购测试服务项目需满足TO247-3/4型1200V~2000V等不同电压等级的MOSFET器件测试要求，具体技术要求如下表所示：",
+    "requirement_type": "technical",
+    "priority": 95,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P233",
+      "quote": "本次采购测试服务项目需满足TO247-3/4型1200V~2000V等不同电压等级的MOSFET器件测试要求，具体技术要求如下表所示："
+    }
+  },
+  {
+    "req_id": "REQ-234",
+    "title": "对于6寸晶圆切割来说，其技术参数需满足以下要求：",
+    "content": "对于6寸晶圆切割来说，其技术参数需满足以下要求：",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P234",
+      "quote": "对于6寸晶圆切割来说，其技术参数需满足以下要求："
+    }
+  },
+  {
+    "req_id": "REQ-235",
+    "title": "注：应答时，应答方不能简单的写“满足”或“符合”，应列出",
+    "content": "注：应答时，应答方不能简单的写“满足”或“符合”，应列出投标服务的具体技术参数数值或范围。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P235",
+      "quote": "注：应答时，应答方不能简单的写“满足”或“符合”，应列出投标服务的具体技术参数数值或范围。"
+    }
+  },
+  {
+    "req_id": "REQ-236",
+    "title": "服务方式、方法及路径",
+    "content": "服务方式、方法及路径",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P236",
+      "quote": "服务方式、方法及路径"
+    }
+  },
+  {
+    "req_id": "REQ-237",
+    "title": "委托乙方进行测试，采用乙方测试设备（含工器具）按2.1中",
+    "content": "委托乙方进行测试，采用乙方测试设备（含工器具）按2.1中的标准要求，完成甲方提供样品的测试项目，并出具符合2.2要求的测试报告。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P237",
+      "quote": "委托乙方进行测试，采用乙方测试设备（含工器具）按2.1中的标准要求，完成甲方提供样品的测试项目，并出具符合2.2要求的测试报告。"
+    }
+  },
+  {
+    "req_id": "REQ-238",
+    "title": "服务质量要求",
+    "content": "服务质量要求",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P238",
+      "quote": "服务质量要求"
+    }
+  },
+  {
+    "req_id": "REQ-239",
+    "title": "测试方法、项目及项目条件符合2.1中的标准要求和甲方的技",
+    "content": "测试方法、项目及项目条件符合2.1中的标准要求和甲方的技术要求。",
+    "requirement_type": "technical",
+    "priority": 70,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P239",
+      "quote": "测试方法、项目及项目条件符合2.1中的标准要求和甲方的技术要求。"
+    }
+  },
+  {
+    "req_id": "REQ-240",
+    "title": "乙方测试设备所在地。",
+    "content": "乙方测试设备所在地。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P240",
+      "quote": "乙方测试设备所在地。"
+    }
+  },
+  {
+    "req_id": "REQ-241",
+    "title": "服务进度要求",
+    "content": "服务进度要求",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P241",
+      "quote": "服务进度要求"
+    }
+  },
+  {
+    "req_id": "REQ-242",
+    "title": "乙方于合同签订后将陆续接收甲方的测试需求，针对甲方提出的",
+    "content": "乙方于合同签订后将陆续接收甲方的测试需求，针对甲方提出的商务及技术问题乙方需要在24个小时内响应并完成答复，在30个工作日内完成测试项目，在全部测试项目结束后的10个工作日内出具全部测试报告。",
+    "requirement_type": "business",
+    "priority": 95,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P242",
+      "quote": "乙方于合同签订后将陆续接收甲方的测试需求，针对甲方提出的商务及技术问题乙方需要在24个小时内响应并完成答复，在30个工作日内完成测试项目，在全部测试项目结束后的10个工作日内出具全部测试报告。"
+    }
+  },
+  {
+    "req_id": "REQ-243",
+    "title": "自合同生效日至本次服务完成为止。",
+    "content": "自合同生效日至本次服务完成为止。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P243",
+      "quote": "自合同生效日至本次服务完成为止。"
+    }
+  },
+  {
+    "req_id": "REQ-244",
+    "title": "服务成果交付及验收",
+    "content": "服务成果交付及验收",
+    "requirement_type": "business",
+    "priority": 70,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P244",
+      "quote": "服务成果交付及验收"
+    }
+  },
+  {
+    "req_id": "REQ-245",
+    "title": "成果交付时间和地点",
+    "content": "成果交付时间和地点",
+    "requirement_type": "business",
+    "priority": 70,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P245",
+      "quote": "成果交付时间和地点"
+    }
+  },
+  {
+    "req_id": "REQ-246",
+    "title": "甲方将碳化硅器件寄至乙方工厂后，按照2.6条的服务进度要",
+    "content": "甲方将碳化硅器件寄至乙方工厂后，按照2.6条的服务进度要求完成测试并交付成果，交付地点为甲方指定地点。",
+    "requirement_type": "business",
+    "priority": 70,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P246",
+      "quote": "甲方将碳化硅器件寄至乙方工厂后，按照2.6条的服务进度要求完成测试并交付成果，交付地点为甲方指定地点。"
+    }
+  },
+  {
+    "req_id": "REQ-247",
+    "title": "成果交付形式",
+    "content": "成果交付形式",
+    "requirement_type": "business",
+    "priority": 70,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P247",
+      "quote": "成果交付形式"
+    }
+  },
+  {
+    "req_id": "REQ-248",
+    "title": "乙方在甲方提供的碳化硅器件上，按照技术规范要求完成测试，",
+    "content": "乙方在甲方提供的碳化硅器件上，按照技术规范要求完成测试，提交测试器件，若存在器件失效的情况，需将失效器件一并提供给甲方；纸质材料邮寄至甲方单位所在地。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P248",
+      "quote": "乙方在甲方提供的碳化硅器件上，按照技术规范要求完成测试，提交测试器件，若存在器件失效的情况，需将失效器件一并提供给甲方；纸质材料邮寄至甲方单位所在地。"
+    }
+  },
+  {
+    "req_id": "REQ-249",
+    "title": "提交对应碳化硅器件测试报告，内容包含测试数据、电特性测试",
+    "content": "提交对应碳化硅器件测试报告，内容包含测试数据、电特性测试原始数据和测试结果图等成果，形式为电子版及纸质版测试报告与电子版测试数据包。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P249",
+      "quote": "提交对应碳化硅器件测试报告，内容包含测试数据、电特性测试原始数据和测试结果图等成果，形式为电子版及纸质版测试报告与电子版测试数据包。"
+    }
+  },
+  {
+    "req_id": "REQ-250",
+    "title": "若成果中包含纸质版文件，则纸质版不应少于 1 份，由乙方",
+    "content": "若成果中包含纸质版文件，则纸质版不应少于 1 份，由乙方签字并加盖公章。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P250",
+      "quote": "若成果中包含纸质版文件，则纸质版不应少于 1 份，由乙方签字并加盖公章。"
+    }
+  },
+  {
+    "req_id": "REQ-251",
+    "title": "验收时间和地点",
+    "content": "验收时间和地点",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P251",
+      "quote": "验收时间和地点"
+    }
+  },
+  {
+    "req_id": "REQ-252",
+    "title": "甲方收到测试报告30日内，地点为甲方指定地点。",
+    "content": "甲方收到测试报告30日内，地点为甲方指定地点。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P252",
+      "quote": "甲方收到测试报告30日内，地点为甲方指定地点。"
+    }
+  },
+  {
+    "req_id": "REQ-253",
+    "title": "交付材料满足上述3.2要求。",
+    "content": "交付材料满足上述3.2要求。",
+    "requirement_type": "business",
+    "priority": 70,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P253",
+      "quote": "交付材料满足上述3.2要求。"
+    }
+  },
+  {
+    "req_id": "REQ-254",
+    "title": "甲方内部验收。",
+    "content": "甲方内部验收。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P254",
+      "quote": "甲方内部验收。"
+    }
+  },
+  {
+    "req_id": "REQ-255",
+    "title": "甲方提供的工作条件及协作事项",
+    "content": "甲方提供的工作条件及协作事项",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P255",
+      "quote": "甲方提供的工作条件及协作事项"
+    }
+  },
+  {
+    "req_id": "REQ-256",
+    "title": "提供的工作条件、技术资料及其他",
+    "content": "提供的工作条件、技术资料及其他",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P256",
+      "quote": "提供的工作条件、技术资料及其他"
+    }
+  },
+  {
+    "req_id": "REQ-257",
+    "title": "甲方提供各测试案件的样品信息。",
+    "content": "甲方提供各测试案件的样品信息。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P257",
+      "quote": "甲方提供各测试案件的样品信息。"
+    }
+  },
+  {
+    "req_id": "REQ-258",
+    "title": "提供上述协作事项的时间及方式",
+    "content": "提供上述协作事项的时间及方式",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P258",
+      "quote": "提供上述协作事项的时间及方式"
+    }
+  },
+  {
+    "req_id": "REQ-259",
+    "title": "合同签订后，经双方协商确定供样时间，采用邮寄的方式提供样",
+    "content": "合同签订后，经双方协商确定供样时间，采用邮寄的方式提供样品。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P259",
+      "quote": "合同签订后，经双方协商确定供样时间，采用邮寄的方式提供样品。"
+    }
+  },
+  {
+    "req_id": "REQ-260",
+    "title": "售后服务要求",
+    "content": "售后服务要求",
+    "requirement_type": "business",
+    "priority": 70,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P260",
+      "quote": "售后服务要求"
+    }
+  },
+  {
+    "req_id": "REQ-261",
+    "title": "乙方对测试报告结果负责，若甲方提出疑问，乙方应于24小时",
+    "content": "乙方对测试报告结果负责，若甲方提出疑问，乙方应于24小时内给予解答。如乙方未达到甲方测试技术要求，可协商追加测试1次。",
+    "requirement_type": "technical",
+    "priority": 95,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P261",
+      "quote": "乙方对测试报告结果负责，若甲方提出疑问，乙方应于24小时内给予解答。如乙方未达到甲方测试技术要求，可协商追加测试1次。"
+    }
+  },
+  {
+    "req_id": "REQ-262",
+    "title": "合同变更和解除",
+    "content": "合同变更和解除",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P262",
+      "quote": "合同变更和解除"
+    }
+  },
+  {
+    "req_id": "REQ-263",
+    "title": "6.1.1双方经协商一致可变更或解除合同，并以书面形式确",
+    "content": "6.1.1双方经协商一致可变更或解除合同，并以书面形式确定。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P263",
+      "quote": "6.1.1双方经协商一致可变更或解除合同，并以书面形式确定。"
+    }
+  },
+  {
+    "req_id": "REQ-264",
+    "title": "6.1.2因对方违约使合同不能继续履行或没有必要继续履行",
+    "content": "6.1.2因对方违约使合同不能继续履行或没有必要继续履行，一方可以向另一方提出变更或解除合同的书面请求，另一方应当在10日内予以书面答复；逾期未予书面答复的，视为同意。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P264",
+      "quote": "6.1.2因对方违约使合同不能继续履行或没有必要继续履行，一方可以向另一方提出变更或解除合同的书面请求，另一方应当在10日内予以书面答复；逾期未予书面答复的，视为同意。"
+    }
+  },
+  {
+    "req_id": "REQ-265",
+    "title": "6.1.3法律规定的合同解除情形出现时，一方主张解除合同",
+    "content": "6.1.3法律规定的合同解除情形出现时，一方主张解除合同的，应当书面通知对方。合同自通知到达对方时解除。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P265",
+      "quote": "6.1.3法律规定的合同解除情形出现时，一方主张解除合同的，应当书面通知对方。合同自通知到达对方时解除。"
+    }
+  },
+  {
+    "req_id": "REQ-266",
+    "title": "6.1.4本合同中约定可单方解除合同的，单方解除合同的条",
+    "content": "6.1.4本合同中约定可单方解除合同的，单方解除合同的条件成就时，享有解除权的一方可单方解除合同，但应书面通知对方。合同自通知到达对方时解除。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P266",
+      "quote": "6.1.4本合同中约定可单方解除合同的，单方解除合同的条件成就时，享有解除权的一方可单方解除合同，但应书面通知对方。合同自通知到达对方时解除。"
+    }
+  },
+  {
+    "req_id": "REQ-267",
+    "title": "合同生效后，甲乙双方根据实际业务发生量进行结算，乙方根据",
+    "content": "合同生效后，甲乙双方根据实际业务发生量进行结算，乙方根据实际业务发生量开具等额增值税发票，甲方收到增值税发票30天内办理服务款项支付，结算周期为1个月。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P267",
+      "quote": "合同生效后，甲乙双方根据实际业务发生量进行结算，乙方根据实际业务发生量开具等额增值税发票，甲方收到增值税发票30天内办理服务款项支付，结算周期为1个月。"
+    }
+  },
+  {
+    "req_id": "REQ-268",
+    "title": "第五章   合同草案条款",
+    "content": "第五章   合同草案条款",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P268",
+      "quote": "第五章   合同草案条款"
+    }
+  },
+  {
+    "req_id": "REQ-269",
+    "title": "技术服务合同",
+    "content": "技术服务合同",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P269",
+      "quote": "技术服务合同"
+    }
+  },
+  {
+    "req_id": "REQ-270",
+    "title": "合同编号（委托方）：",
+    "content": "合同编号（委托方）：",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P270",
+      "quote": "合同编号（委托方）："
+    }
+  },
+  {
+    "req_id": "REQ-271",
+    "title": "合同编号（受托方）：",
+    "content": "合同编号（受托方）：",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P271",
+      "quote": "合同编号（受托方）："
+    }
+  },
+  {
+    "req_id": "REQ-272",
+    "title": "技术服务合同",
+    "content": "技术服务合同",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P272",
+      "quote": "技术服务合同"
+    }
+  },
+  {
+    "req_id": "REQ-273",
+    "title": "委托方（甲方）：",
+    "content": "委托方（甲方）：",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P273",
+      "quote": "委托方（甲方）："
+    }
+  },
+  {
+    "req_id": "REQ-274",
+    "title": "受托方（乙方）：",
+    "content": "受托方（乙方）：",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P274",
+      "quote": "受托方（乙方）："
+    }
+  },
+  {
+    "req_id": "REQ-275",
+    "title": "甲方在合同有效期内向乙方采购              ",
+    "content": "甲方在合同有效期内向乙方采购                技术服务，甲、乙双方根据《中华人民共和国民法典》及其它相关法律、法规的规定，经协商一致，签订本合同。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P275",
+      "quote": "甲方在合同有效期内向乙方采购                技术服务，甲、乙双方根据《中华人民共和国民法典》及其它相关法律、法规的规定，经协商一致，签订本合同。"
+    }
+  },
+  {
+    "req_id": "REQ-276",
+    "title": "1.项目概要",
+    "content": "1.项目概要",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P276",
+      "quote": "1.项目概要"
+    }
+  },
+  {
+    "req_id": "REQ-277",
+    "title": "1.1服务内容：                    ",
+    "content": "1.1服务内容：                                  。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P277",
+      "quote": "1.1服务内容：                                  。"
+    }
+  },
+  {
+    "req_id": "REQ-278",
+    "title": "1.2服务目标：                    ",
+    "content": "1.2服务目标：                                  。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P278",
+      "quote": "1.2服务目标：                                  。"
+    }
+  },
+  {
+    "req_id": "REQ-279",
+    "title": "1.3服务方式：                    ",
+    "content": "1.3服务方式：                                  。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P279",
+      "quote": "1.3服务方式：                                  。"
+    }
+  },
+  {
+    "req_id": "REQ-280",
+    "title": "2.服务具体要求",
+    "content": "2.服务具体要求",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P280",
+      "quote": "2.服务具体要求"
+    }
+  },
+  {
+    "req_id": "REQ-281",
+    "title": "2.1.服务地点：                   ",
+    "content": "2.1.服务地点：                                 。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P281",
+      "quote": "2.1.服务地点：                                 。"
+    }
+  },
+  {
+    "req_id": "REQ-282",
+    "title": "2.2服务期限：                    ",
+    "content": "2.2服务期限：                                 。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P282",
+      "quote": "2.2服务期限：                                 。"
+    }
+  },
+  {
+    "req_id": "REQ-283",
+    "title": "2.3进度安排",
+    "content": "2.3进度安排",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P283",
+      "quote": "2.3进度安排"
+    }
+  },
+  {
+    "req_id": "REQ-284",
+    "title": "乙方按照下列进度要求提供技术服务：",
+    "content": "乙方按照下列进度要求提供技术服务：",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P284",
+      "quote": "乙方按照下列进度要求提供技术服务："
+    }
+  },
+  {
+    "req_id": "REQ-285",
+    "title": "2.4服务质量（技术）要求：",
+    "content": "2.4服务质量（技术）要求：",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P285",
+      "quote": "2.4服务质量（技术）要求："
+    }
+  },
+  {
+    "req_id": "REQ-286",
+    "title": "3.协作事项",
+    "content": "3.协作事项",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P286",
+      "quote": "3.协作事项"
+    }
+  },
+  {
+    "req_id": "REQ-287",
+    "title": "甲方为本合同项下工作开展提供以下条件：",
+    "content": "甲方为本合同项下工作开展提供以下条件：",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P287",
+      "quote": "甲方为本合同项下工作开展提供以下条件："
+    }
+  },
+  {
+    "req_id": "REQ-288",
+    "title": "3.1工作条件：",
+    "content": "3.1工作条件：",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P288",
+      "quote": "3.1工作条件："
+    }
+  },
+  {
+    "req_id": "REQ-289",
+    "title": "3.2技术资料/样品/原材料：",
+    "content": "3.2技术资料/样品/原材料：",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P289",
+      "quote": "3.2技术资料/样品/原材料："
+    }
+  },
+  {
+    "req_id": "REQ-290",
+    "title": "3.3其他：",
+    "content": "3.3其他：",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P290",
+      "quote": "3.3其他："
+    }
+  },
+  {
+    "req_id": "REQ-291",
+    "title": "3.4甲方提供上述工作条件的时间及方式：",
+    "content": "3.4甲方提供上述工作条件的时间及方式：",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P291",
+      "quote": "3.4甲方提供上述工作条件的时间及方式："
+    }
+  },
+  {
+    "req_id": "REQ-292",
+    "title": "如甲方未按期提供上述工作条件及协作事项，乙方有权对工作进",
+    "content": "如甲方未按期提供上述工作条件及协作事项，乙方有权对工作进行相应顺延。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P292",
+      "quote": "如甲方未按期提供上述工作条件及协作事项，乙方有权对工作进行相应顺延。"
+    }
+  },
+  {
+    "req_id": "REQ-293",
+    "title": "4.组织与管理",
+    "content": "4.组织与管理",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P293",
+      "quote": "4.组织与管理"
+    }
+  },
+  {
+    "req_id": "REQ-294",
+    "title": "4.1在本合同有效期内，乙方应派出专业人员为甲方提供技术",
+    "content": "4.1在本合同有效期内，乙方应派出专业人员为甲方提供技术服务。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P294",
+      "quote": "4.1在本合同有效期内，乙方应派出专业人员为甲方提供技术服务。"
+    }
+  },
+  {
+    "req_id": "REQ-295",
+    "title": "4.2本合同双方分别指定项目负责人如下：",
+    "content": "4.2本合同双方分别指定项目负责人如下：",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P295",
+      "quote": "4.2本合同双方分别指定项目负责人如下："
+    }
+  },
+  {
+    "req_id": "REQ-296",
+    "title": "（1）甲方负责人：          ，电话：     ",
+    "content": "（1）甲方负责人：          ，电话：            ；",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P296",
+      "quote": "（1）甲方负责人：          ，电话：            ；"
+    }
+  },
+  {
+    "req_id": "REQ-297",
+    "title": "（2）乙方负责人：          ，电话：     ",
+    "content": "（2）乙方负责人：          ，电话：            。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P297",
+      "quote": "（2）乙方负责人：          ，电话：            。"
+    }
+  },
+  {
+    "req_id": "REQ-298",
+    "title": "4.3项目负责人的主要职责为：",
+    "content": "4.3项目负责人的主要职责为：",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P298",
+      "quote": "4.3项目负责人的主要职责为："
+    }
+  },
+  {
+    "req_id": "REQ-299",
+    "title": "（1）牵头组织本方开展相关工作；",
+    "content": "（1）牵头组织本方开展相关工作；",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P299",
+      "quote": "（1）牵头组织本方开展相关工作；"
+    }
+  },
+  {
+    "req_id": "REQ-300",
+    "title": "（2）组织协调本合同的签订、履行；",
+    "content": "（2）组织协调本合同的签订、履行；",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P300",
+      "quote": "（2）组织协调本合同的签订、履行；"
+    }
+  },
+  {
+    "req_id": "REQ-301",
+    "title": "（3）跟踪或报告工作进展和成果；",
+    "content": "（3）跟踪或报告工作进展和成果；",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P301",
+      "quote": "（3）跟踪或报告工作进展和成果；"
+    }
+  },
+  {
+    "req_id": "REQ-302",
+    "title": "（4）与另一方沟通协调、信息传递，提供工作便利。",
+    "content": "（4）与另一方沟通协调、信息传递，提供工作便利。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P302",
+      "quote": "（4）与另一方沟通协调、信息传递，提供工作便利。"
+    }
+  },
+  {
+    "req_id": "REQ-303",
+    "title": "4.4一方变更项目负责人应及时以书面形式通知另一方。",
+    "content": "4.4一方变更项目负责人应及时以书面形式通知另一方。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P303",
+      "quote": "4.4一方变更项目负责人应及时以书面形式通知另一方。"
+    }
+  },
+  {
+    "req_id": "REQ-304",
+    "title": "5.技术服务报酬及支付方式",
+    "content": "5.技术服务报酬及支付方式",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P304",
+      "quote": "5.技术服务报酬及支付方式"
+    }
+  },
+  {
+    "req_id": "REQ-305",
+    "title": "5.1本合同以单价计价，具体价格见附件1。暂定总价为人民",
+    "content": "5.1本合同以单价计价，具体价格见附件1。暂定总价为人民币（大写）         元整（¥      ）（含税）。税率为     %。",
+    "requirement_type": "format",
+    "priority": 70,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P305",
+      "quote": "5.1本合同以单价计价，具体价格见附件1。暂定总价为人民币（大写）         元整（¥      ）（含税）。税率为     %。"
+    }
+  },
+  {
+    "req_id": "REQ-306",
+    "title": "5.2本合同结算价格根据实际采购服务、采购数量确定。",
+    "content": "5.2本合同结算价格根据实际采购服务、采购数量确定。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P306",
+      "quote": "5.2本合同结算价格根据实际采购服务、采购数量确定。"
+    }
+  },
+  {
+    "req_id": "REQ-307",
+    "title": "5.3双方确认：该报酬包含乙方履行本合同所需的全部费用。",
+    "content": "5.3双方确认：该报酬包含乙方履行本合同所需的全部费用。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P307",
+      "quote": "5.3双方确认：该报酬包含乙方履行本合同所需的全部费用。"
+    }
+  },
+  {
+    "req_id": "REQ-308",
+    "title": "5.4合同约定的税率与国家税法规定及税务机关认定的税率不",
+    "content": "5.4合同约定的税率与国家税法规定及税务机关认定的税率不一致时，以国家税法规定及税务机关认定的税率为准进行调整，调整时以不含税价为基准，执行国家法规规定及税务机关规定的税率。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P308",
+      "quote": "5.4合同约定的税率与国家税法规定及税务机关认定的税率不一致时，以国家税法规定及税务机关认定的税率为准进行调整，调整时以不含税价为基准，执行国家法规规定及税务机关规定的税率。"
+    }
+  },
+  {
+    "req_id": "REQ-309",
+    "title": "5.5甲方按照下列方式支付，具体如下：",
+    "content": "5.5甲方按照下列方式支付，具体如下：",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P309",
+      "quote": "5.5甲方按照下列方式支付，具体如下："
+    }
+  },
+  {
+    "req_id": "REQ-310",
+    "title": "（1）合同生效后，双方根据实际业务发生量结算，乙方完成甲",
+    "content": "（1）合同生效后，双方根据实际业务发生量结算，乙方完成甲方当月服务需求后，根据当月实际服务情况开具增值税发票，甲方收到增值税发票30天内办理服务款项支付，每次结算周期为1个月。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P310",
+      "quote": "（1）合同生效后，双方根据实际业务发生量结算，乙方完成甲方当月服务需求后，根据当月实际服务情况开具增值税发票，甲方收到增值税发票30天内办理服务款项支付，每次结算周期为1个月。"
+    }
+  },
+  {
+    "req_id": "REQ-311",
+    "title": "（2）甲方有权以银行承兑汇票方式支付合同款，乙方不得拒收",
+    "content": "（2）甲方有权以银行承兑汇票方式支付合同款，乙方不得拒收银行承兑汇票，中小企业除外。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P311",
+      "quote": "（2）甲方有权以银行承兑汇票方式支付合同款，乙方不得拒收银行承兑汇票，中小企业除外。"
+    }
+  },
+  {
+    "req_id": "REQ-312",
+    "title": "5.6乙方指定收款户名、账号、开户行：",
+    "content": "5.6乙方指定收款户名、账号、开户行：",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P312",
+      "quote": "5.6乙方指定收款户名、账号、开户行："
+    }
+  },
+  {
+    "req_id": "REQ-313",
+    "title": "5.7乙方申请付款前应提供正规、等额发票，否则甲方有权相",
+    "content": "5.7乙方申请付款前应提供正规、等额发票，否则甲方有权相应延期付款且不视为违约。",
+    "requirement_type": "business",
+    "priority": 95,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P313",
+      "quote": "5.7乙方申请付款前应提供正规、等额发票，否则甲方有权相应延期付款且不视为违约。"
+    }
+  },
+  {
+    "req_id": "REQ-314",
+    "title": "6.成果验收",
+    "content": "6.成果验收",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P314",
+      "quote": "6.成果验收"
+    }
+  },
+  {
+    "req_id": "REQ-315",
+    "title": "6.1工作成果",
+    "content": "6.1工作成果",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P315",
+      "quote": "6.1工作成果"
+    }
+  },
+  {
+    "req_id": "REQ-316",
+    "title": "乙方向甲方提交",
+    "content": "乙方向甲方提交",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P316",
+      "quote": "乙方向甲方提交"
+    }
+  },
+  {
+    "req_id": "REQ-317",
+    "title": "6.2工作成果的验收标准：",
+    "content": "6.2工作成果的验收标准：",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P317",
+      "quote": "6.2工作成果的验收标准："
+    }
+  },
+  {
+    "req_id": "REQ-318",
+    "title": "6.3验收的时间、地点和方式：      （甲方/双方）",
+    "content": "6.3验收的时间、地点和方式：      （甲方/双方）于乙方交付工作成果后    日内，按照本合同约定的内容及指标，采用           （会议方式/专家评审/现场测试）方式组织验收，验收合格后甲方出具验收证明。",
+    "requirement_type": "business",
+    "priority": 70,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P318",
+      "quote": "6.3验收的时间、地点和方式：      （甲方/双方）于乙方交付工作成果后    日内，按照本合同约定的内容及指标，采用           （会议方式/专家评审/现场测试）方式组织验收，验收合格后甲方出具验收证明。"
+    }
+  },
+  {
+    "req_id": "REQ-319",
+    "title": "6.4乙方向甲方提交的成果验收未通过的，甲方应出具验收未",
+    "content": "6.4乙方向甲方提交的成果验收未通过的，甲方应出具验收未通过的通知，乙方应按照甲方要求进行整改并向甲方提请再次验收，整改费用乙方自行承担。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P319",
+      "quote": "6.4乙方向甲方提交的成果验收未通过的，甲方应出具验收未通过的通知，乙方应按照甲方要求进行整改并向甲方提请再次验收，整改费用乙方自行承担。"
+    }
+  },
+  {
+    "req_id": "REQ-320",
+    "title": "7.知识产权",
+    "content": "7.知识产权",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P320",
+      "quote": "7.知识产权"
+    }
+  },
+  {
+    "req_id": "REQ-321",
+    "title": "7.1本合同有效期内，甲方利用乙方提交的技术服务工作成果",
+    "content": "7.1本合同有效期内，甲方利用乙方提交的技术服务工作成果所完成的新的技术成果，归  甲方   所有。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P321",
+      "quote": "7.1本合同有效期内，甲方利用乙方提交的技术服务工作成果所完成的新的技术成果，归  甲方   所有。"
+    }
+  },
+  {
+    "req_id": "REQ-322",
+    "title": "7.2其他约定：                    ",
+    "content": "7.2其他约定：                                 。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P322",
+      "quote": "7.2其他约定：                                 。"
+    }
+  },
+  {
+    "req_id": "REQ-323",
+    "title": "8.保密义务",
+    "content": "8.保密义务",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P323",
+      "quote": "8.保密义务"
+    }
+  },
+  {
+    "req_id": "REQ-324",
+    "title": "8.1一方及其工作人员应对技术服务合同签订、履行过程中了",
+    "content": "8.1一方及其工作人员应对技术服务合同签订、履行过程中了解到的涉及到另一方国家秘密、工作秘密和商业秘密的文件资料以及其他尚未公开的有关信息承担保密责任，并采取相应的保密措施。双方应承担的保密义务包括但不限于：",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P324",
+      "quote": "8.1一方及其工作人员应对技术服务合同签订、履行过程中了解到的涉及到另一方国家秘密、工作秘密和商业秘密的文件资料以及其他尚未公开的有关信息承担保密责任，并采取相应的保密措施。双方应承担的保密义务包括但不限于："
+    }
+  },
+  {
+    "req_id": "REQ-325",
+    "title": "（1）未经一方书面同意，另一方不得将上述保密信息披露给任",
+    "content": "（1）未经一方书面同意，另一方不得将上述保密信息披露给任何第三人；",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P325",
+      "quote": "（1）未经一方书面同意，另一方不得将上述保密信息披露给任何第三人；"
+    }
+  },
+  {
+    "req_id": "REQ-326",
+    "title": "（2）未经甲方允许，乙方不得泄露甲方名称、合作事项、合同",
+    "content": "（2）未经甲方允许，乙方不得泄露甲方名称、合作事项、合同信息，不得将本次合作（合同）作为投标业绩、对外宣传等用于本合同以外的其他目的。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P326",
+      "quote": "（2）未经甲方允许，乙方不得泄露甲方名称、合作事项、合同信息，不得将本次合作（合同）作为投标业绩、对外宣传等用于本合同以外的其他目的。"
+    }
+  },
+  {
+    "req_id": "REQ-327",
+    "title": "（3）乙方按甲方要求销毁或归还包含甲方保密信息的文件、资",
+    "content": "（3）乙方按甲方要求销毁或归还包含甲方保密信息的文件、资料、复制品。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P327",
+      "quote": "（3）乙方按甲方要求销毁或归还包含甲方保密信息的文件、资料、复制品。"
+    }
+  },
+  {
+    "req_id": "REQ-328",
+    "title": "8.2涉密人员范围",
+    "content": "8.2涉密人员范围",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P328",
+      "quote": "8.2涉密人员范围"
+    }
+  },
+  {
+    "req_id": "REQ-329",
+    "title": "甲方涉密人员范围：",
+    "content": "甲方涉密人员范围：",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P329",
+      "quote": "甲方涉密人员范围："
+    }
+  },
+  {
+    "req_id": "REQ-330",
+    "title": "乙方涉密人员范围：",
+    "content": "乙方涉密人员范围：",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P330",
+      "quote": "乙方涉密人员范围："
+    }
+  },
+  {
+    "req_id": "REQ-331",
+    "title": "8.3上述保密义务的期限至保密信息正式向社会公开之日或一",
+    "content": "8.3上述保密义务的期限至保密信息正式向社会公开之日或一方书面解除另一方此合同项下保密义务之日止。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P331",
+      "quote": "8.3上述保密义务的期限至保密信息正式向社会公开之日或一方书面解除另一方此合同项下保密义务之日止。"
+    }
+  },
+  {
+    "req_id": "REQ-332",
+    "title": "8.4乙方接触、办理、使用从甲方获悉国家秘密的工作人员，",
+    "content": "8.4乙方接触、办理、使用从甲方获悉国家秘密的工作人员，乙方须按照涉密人员加强人员管理。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P332",
+      "quote": "8.4乙方接触、办理、使用从甲方获悉国家秘密的工作人员，乙方须按照涉密人员加强人员管理。"
+    }
+  },
+  {
+    "req_id": "REQ-333",
+    "title": "9.违约责任",
+    "content": "9.违约责任",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P333",
+      "quote": "9.违约责任"
+    }
+  },
+  {
+    "req_id": "REQ-334",
+    "title": "9.1乙方不履行本合同义务或履行义务不符合约定的，甲方有",
+    "content": "9.1乙方不履行本合同义务或履行义务不符合约定的，甲方有权要求乙方承担继续履行、赔偿损失或支付违约金等违约责任。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P334",
+      "quote": "9.1乙方不履行本合同义务或履行义务不符合约定的，甲方有权要求乙方承担继续履行、赔偿损失或支付违约金等违约责任。"
+    }
+  },
+  {
+    "req_id": "REQ-335",
+    "title": "9.2乙方未按期完成技术服务工作的，每逾期1日，应向甲方",
+    "content": "9.2乙方未按期完成技术服务工作的，每逾期1日，应向甲方支付相当于技术服务报酬  1 ‰的违约金，逾期超过30日的，甲方有权单方解除合同。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P335",
+      "quote": "9.2乙方未按期完成技术服务工作的，每逾期1日，应向甲方支付相当于技术服务报酬  1 ‰的违约金，逾期超过30日的，甲方有权单方解除合同。"
+    }
+  },
+  {
+    "req_id": "REQ-336",
+    "title": "9.3乙方未按合同约定履行合同义务，经甲方催告拒不纠正的",
+    "content": "9.3乙方未按合同约定履行合同义务，经甲方催告拒不纠正的，甲方有权单方解除合同。由于整改纠正造成进度延期交付的视同逾期交付。",
+    "requirement_type": "business",
+    "priority": 70,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P336",
+      "quote": "9.3乙方未按合同约定履行合同义务，经甲方催告拒不纠正的，甲方有权单方解除合同。由于整改纠正造成进度延期交付的视同逾期交付。"
+    }
+  },
+  {
+    "req_id": "REQ-337",
+    "title": "9.4乙方提供的技术服务不符合本合同约定的验收标准，未通",
+    "content": "9.4乙方提供的技术服务不符合本合同约定的验收标准，未通过甲方验收的，乙方应退还甲方已支付的全部款项，并向甲方支付相当于技术服务报酬10%的违约金。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P337",
+      "quote": "9.4乙方提供的技术服务不符合本合同约定的验收标准，未通过甲方验收的，乙方应退还甲方已支付的全部款项，并向甲方支付相当于技术服务报酬10%的违约金。"
+    }
+  },
+  {
+    "req_id": "REQ-338",
+    "title": "9.5乙方违反合同约定的保密义务，应承担相应的法律责任并",
+    "content": "9.5乙方违反合同约定的保密义务，应承担相应的法律责任并向甲方支付相当于技术服务报酬20%的违约金。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P338",
+      "quote": "9.5乙方违反合同约定的保密义务，应承担相应的法律责任并向甲方支付相当于技术服务报酬20%的违约金。"
+    }
+  },
+  {
+    "req_id": "REQ-339",
+    "title": "9.6合同因乙方原因解除的，甲方有权停止支付并要求乙方退",
+    "content": "9.6合同因乙方原因解除的，甲方有权停止支付并要求乙方退还甲方已支付的全部款项，且乙方应向甲方支付相当于技术服务报酬20%的违约金。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P339",
+      "quote": "9.6合同因乙方原因解除的，甲方有权停止支付并要求乙方退还甲方已支付的全部款项，且乙方应向甲方支付相当于技术服务报酬20%的违约金。"
+    }
+  },
+  {
+    "req_id": "REQ-340",
+    "title": "9.7乙方因违约需要向甲方支付违约金或赔偿损失的，甲方有",
+    "content": "9.7乙方因违约需要向甲方支付违约金或赔偿损失的，甲方有权从对应一期的合同应付款项中予以扣除。",
+    "requirement_type": "business",
+    "priority": 95,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P340",
+      "quote": "9.7乙方因违约需要向甲方支付违约金或赔偿损失的，甲方有权从对应一期的合同应付款项中予以扣除。"
+    }
+  },
+  {
+    "req_id": "REQ-341",
+    "title": "9.8甲方不提供工作条件或提供的工作条件不符合约定，影响",
+    "content": "9.8甲方不提供工作条件或提供的工作条件不符合约定，影响工作进度和质量，承担由此造成的项目延期、费用增加的责任。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P341",
+      "quote": "9.8甲方不提供工作条件或提供的工作条件不符合约定，影响工作进度和质量，承担由此造成的项目延期、费用增加的责任。"
+    }
+  },
+  {
+    "req_id": "REQ-342",
+    "title": "9.9甲方逾期支付技术服务报酬的，每逾期1日，按照逾期未",
+    "content": "9.9甲方逾期支付技术服务报酬的，每逾期1日，按照逾期未支付金额 1  ‰向乙方支付违约金。甲方逾期超过30日的，乙方有权解除本合同。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P342",
+      "quote": "9.9甲方逾期支付技术服务报酬的，每逾期1日，按照逾期未支付金额 1  ‰向乙方支付违约金。甲方逾期超过30日的，乙方有权解除本合同。"
+    }
+  },
+  {
+    "req_id": "REQ-343",
+    "title": "10.合同变更和解除",
+    "content": "10.合同变更和解除",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P343",
+      "quote": "10.合同变更和解除"
+    }
+  },
+  {
+    "req_id": "REQ-344",
+    "title": "10.1双方经协商一致可变更或解除合同，并以书面形式确定",
+    "content": "10.1双方经协商一致可变更或解除合同，并以书面形式确定。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P344",
+      "quote": "10.1双方经协商一致可变更或解除合同，并以书面形式确定。"
+    }
+  },
+  {
+    "req_id": "REQ-345",
+    "title": "10.2有下列情形之一的，一方可以向另一方提出变更或解除",
+    "content": "10.2有下列情形之一的，一方可以向另一方提出变更或解除合同的书面请求，另一方应当在10日内予以书面答复；逾期未予书面答复的，视为同意：",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P345",
+      "quote": "10.2有下列情形之一的，一方可以向另一方提出变更或解除合同的书面请求，另一方应当在10日内予以书面答复；逾期未予书面答复的，视为同意："
+    }
+  },
+  {
+    "req_id": "REQ-346",
+    "title": "（1）因一方违约致使合同不能继续履行或没有必要继续履行；",
+    "content": "（1）因一方违约致使合同不能继续履行或没有必要继续履行；",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P346",
+      "quote": "（1）因一方违约致使合同不能继续履行或没有必要继续履行；"
+    }
+  },
+  {
+    "req_id": "REQ-347",
+    "title": "（2）发生不可抗力；",
+    "content": "（2）发生不可抗力；",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P347",
+      "quote": "（2）发生不可抗力；"
+    }
+  },
+  {
+    "req_id": "REQ-348",
+    "title": "（3）                         ",
+    "content": "（3）                                     。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P348",
+      "quote": "（3）                                     。"
+    }
+  },
+  {
+    "req_id": "REQ-349",
+    "title": "10.3法定合同解除情形出现一方主张解除合同的，应当书面",
+    "content": "10.3法定合同解除情形出现一方主张解除合同的，应当书面通知对方，合同自通知到达对方时解除。约定可单方解除合同的，单方解除合同条件成就时，享有解除权的一方应书面通知对方，合同自通知到达对方时解除。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P349",
+      "quote": "10.3法定合同解除情形出现一方主张解除合同的，应当书面通知对方，合同自通知到达对方时解除。约定可单方解除合同的，单方解除合同条件成就时，享有解除权的一方应书面通知对方，合同自通知到达对方时解除。"
+    }
+  },
+  {
+    "req_id": "REQ-350",
+    "title": "11.争议解决",
+    "content": "11.争议解决",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P350",
+      "quote": "11.争议解决"
+    }
+  },
+  {
+    "req_id": "REQ-351",
+    "title": "11.1因合同及合同有关事项发生争议，双方应本着诚实信用",
+    "content": "11.1因合同及合同有关事项发生争议，双方应本着诚实信用原则，友好协商解决，也可由有关部门调解。对于涉及技术、验收等方面争议的，双方共同委托第三方进行技术鉴定。经协商仍无法达成一致的，按以下第   种方式处理：",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P351",
+      "quote": "11.1因合同及合同有关事项发生争议，双方应本着诚实信用原则，友好协商解决，也可由有关部门调解。对于涉及技术、验收等方面争议的，双方共同委托第三方进行技术鉴定。经协商仍无法达成一致的，按以下第   种方式处理："
+    }
+  },
+  {
+    "req_id": "REQ-352",
+    "title": "（1）仲裁：提交      仲裁委员会进行仲裁。仲裁裁决",
+    "content": "（1）仲裁：提交      仲裁委员会进行仲裁。仲裁裁决是终局的，对双方均有约束力。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P352",
+      "quote": "（1）仲裁：提交      仲裁委员会进行仲裁。仲裁裁决是终局的，对双方均有约束力。"
+    }
+  },
+  {
+    "req_id": "REQ-353",
+    "title": "（2）诉讼：向        所在地人民法院提起诉讼。",
+    "content": "（2）诉讼：向        所在地人民法院提起诉讼。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P353",
+      "quote": "（2）诉讼：向        所在地人民法院提起诉讼。"
+    }
+  },
+  {
+    "req_id": "REQ-354",
+    "title": "11.2争议解决期间，合同未涉及争议部分条款仍须履行。",
+    "content": "11.2争议解决期间，合同未涉及争议部分条款仍须履行。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P354",
+      "quote": "11.2争议解决期间，合同未涉及争议部分条款仍须履行。"
+    }
+  },
+  {
+    "req_id": "REQ-355",
+    "title": "乙方承诺，为完成合同项下技术服务提供必备的资源，对工作成",
+    "content": "乙方承诺，为完成合同项下技术服务提供必备的资源，对工作成果的准确性、完整性和及时性负责。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P355",
+      "quote": "乙方承诺，为完成合同项下技术服务提供必备的资源，对工作成果的准确性、完整性和及时性负责。"
+    }
+  },
+  {
+    "req_id": "REQ-356",
+    "title": "13.合同组成部分",
+    "content": "13.合同组成部分",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P356",
+      "quote": "13.合同组成部分"
+    }
+  },
+  {
+    "req_id": "REQ-357",
+    "title": "合同附件及合同履行过程中达成的纪要、协议、技术文件等为构",
+    "content": "合同附件及合同履行过程中达成的纪要、协议、技术文件等为构成合同不可分割的组成部分并与本合同具有同等法律效力。",
+    "requirement_type": "format",
+    "priority": 70,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P357",
+      "quote": "合同附件及合同履行过程中达成的纪要、协议、技术文件等为构成合同不可分割的组成部分并与本合同具有同等法律效力。"
+    }
+  },
+  {
+    "req_id": "REQ-358",
+    "title": "14.1本合同自加盖双方公章或合同专用章之日起生效。合同",
+    "content": "14.1本合同自加盖双方公章或合同专用章之日起生效。合同签订日期以双方中最后一方加盖公章或合同专用章的日期为准。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P358",
+      "quote": "14.1本合同自加盖双方公章或合同专用章之日起生效。合同签订日期以双方中最后一方加盖公章或合同专用章的日期为准。"
+    }
+  },
+  {
+    "req_id": "REQ-359",
+    "title": "14.2本合同一式   份，甲方执   份，乙方执   ",
+    "content": "14.2本合同一式   份，甲方执   份，乙方执   份，具有同等法律效力。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P359",
+      "quote": "14.2本合同一式   份，甲方执   份，乙方执   份，具有同等法律效力。"
+    }
+  },
+  {
+    "req_id": "REQ-360",
+    "title": "15.特别约定",
+    "content": "15.特别约定",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P360",
+      "quote": "15.特别约定"
+    }
+  },
+  {
+    "req_id": "REQ-361",
+    "title": "（本特别约定是合同各方经协商后对合同其他条款的修改或补充",
+    "content": "（本特别约定是合同各方经协商后对合同其他条款的修改或补充，如有不一致，以特别约定为准。）",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P361",
+      "quote": "（本特别约定是合同各方经协商后对合同其他条款的修改或补充，如有不一致，以特别约定为准。）"
+    }
+  },
+  {
+    "req_id": "REQ-362",
+    "title": "第六章   响应文件格式",
+    "content": "第六章   响应文件格式",
+    "requirement_type": "format",
+    "priority": 95,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P362",
+      "quote": "第六章   响应文件格式"
+    }
+  },
+  {
+    "req_id": "REQ-363",
+    "title": "供应商编制文件须知",
+    "content": "供应商编制文件须知",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P363",
+      "quote": "供应商编制文件须知"
+    }
+  },
+  {
+    "req_id": "REQ-364",
+    "title": "1、供应商按照本部分的顺序编制响应文件，编制中涉及格式资",
+    "content": "1、供应商按照本部分的顺序编制响应文件，编制中涉及格式资料的，应按照本部分提供的内容和格式（所有表格的格式可扩展）填写提交。",
+    "requirement_type": "format",
+    "priority": 95,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P364",
+      "quote": "1、供应商按照本部分的顺序编制响应文件，编制中涉及格式资料的，应按照本部分提供的内容和格式（所有表格的格式可扩展）填写提交。"
+    }
+  },
+  {
+    "req_id": "REQ-365",
+    "title": "2、全部声明和问题的回答及所附材料必须是真实的、准确的和",
+    "content": "2、全部声明和问题的回答及所附材料必须是真实的、准确的和完整的。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P365",
+      "quote": "2、全部声明和问题的回答及所附材料必须是真实的、准确的和完整的。"
+    }
+  },
+  {
+    "req_id": "REQ-366",
+    "title": "响应文件封面",
+    "content": "响应文件封面",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P366",
+      "quote": "响应文件封面"
+    }
+  },
+  {
+    "req_id": "REQ-367",
+    "title": "响 应 文 件",
+    "content": "响 应 文 件",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P367",
+      "quote": "响 应 文 件"
+    }
+  },
+  {
+    "req_id": "REQ-368",
+    "title": "项目编号 ：",
+    "content": "项目编号 ：",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P368",
+      "quote": "项目编号 ："
+    }
+  },
+  {
+    "req_id": "REQ-369",
+    "title": "供应商名称：",
+    "content": "供应商名称：",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P369",
+      "quote": "供应商名称："
+    }
+  },
+  {
+    "req_id": "REQ-370",
+    "title": "1 满足《中华人民共和国政府采购法》第二十二条规定及法律",
+    "content": "1 满足《中华人民共和国政府采购法》第二十二条规定及法律法规的其他规定",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P370",
+      "quote": "1 满足《中华人民共和国政府采购法》第二十二条规定及法律法规的其他规定"
+    }
+  },
+  {
+    "req_id": "REQ-371",
+    "title": "1-1营业执照等证明文件",
+    "content": "1-1营业执照等证明文件",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P371",
+      "quote": "1-1营业执照等证明文件"
+    }
+  },
+  {
+    "req_id": "REQ-372",
+    "title": "（1）供应商为企业（包括合伙企业）的，应提供有效的“营业",
+    "content": "（1）供应商为企业（包括合伙企业）的，应提供有效的“营业执照”；",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P372",
+      "quote": "（1）供应商为企业（包括合伙企业）的，应提供有效的“营业执照”；"
+    }
+  },
+  {
+    "req_id": "REQ-373",
+    "title": "（2）供应商为事业单位的，应提供有效的“事业单位法人证书",
+    "content": "（2）供应商为事业单位的，应提供有效的“事业单位法人证书”；",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P373",
+      "quote": "（2）供应商为事业单位的，应提供有效的“事业单位法人证书”；"
+    }
+  },
+  {
+    "req_id": "REQ-374",
+    "title": "（3）供应商是非企业机构的，应提供有效的“执业许可证”、",
+    "content": "（3）供应商是非企业机构的，应提供有效的“执业许可证”、“登记证书”等证明文件；",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P374",
+      "quote": "（3）供应商是非企业机构的，应提供有效的“执业许可证”、“登记证书”等证明文件；"
+    }
+  },
+  {
+    "req_id": "REQ-375",
+    "title": "（4）供应商是个体工商户的，应提供有效的“个体工商户营业",
+    "content": "（4）供应商是个体工商户的，应提供有效的“个体工商户营业执照”；",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P375",
+      "quote": "（4）供应商是个体工商户的，应提供有效的“个体工商户营业执照”；"
+    }
+  },
+  {
+    "req_id": "REQ-376",
+    "title": "（5）供应商是自然人的，应提供有效的自然人身份证明。",
+    "content": "（5）供应商是自然人的，应提供有效的自然人身份证明。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P376",
+      "quote": "（5）供应商是自然人的，应提供有效的自然人身份证明。"
+    }
+  },
+  {
+    "req_id": "REQ-377",
+    "title": "（6）分支机构参加投标的，应提供该分支机构或其所属法人/",
+    "content": "（6）分支机构参加投标的，应提供该分支机构或其所属法人/其他组织的相应证明文件；同时还应提供其所属法人/其他组织出具的授权其参与本项目的授权书(格式自拟，须加盖其所属法人/其他组织的公章)；对于银行、保险、石油石化、电力、电信等行业的分支机构，可以提供上述授权，也可以提供其所属法人/其他组织的有关文件或制度等能够证明授权其独立开展业务的证明材料。",
+    "requirement_type": "format",
+    "priority": 95,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P377",
+      "quote": "（6）分支机构参加投标的，应提供该分支机构或其所属法人/其他组织的相应证明文件；同时还应提供其所属法人/其他组织出具的授权其参与本项目的授权书(格式自拟，须加盖其所属法人/其他组织的公章)；对于银行、保险、石油石化、电力、电信等行业的分支机构，可以提供上述授权，也可以提供其所属法人/其他组织的有关文件或制度等能够证明授"
+    }
+  },
+  {
+    "req_id": "REQ-378",
+    "title": "1-2 供应商资格声明书",
+    "content": "1-2 供应商资格声明书",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P378",
+      "quote": "1-2 供应商资格声明书"
+    }
+  },
+  {
+    "req_id": "REQ-379",
+    "title": "供应商资格声明书",
+    "content": "供应商资格声明书",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P379",
+      "quote": "供应商资格声明书"
+    }
+  },
+  {
+    "req_id": "REQ-380",
+    "title": "致：采购人或采购代理机构",
+    "content": "致：采购人或采购代理机构",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P380",
+      "quote": "致：采购人或采购代理机构"
+    }
+  },
+  {
+    "req_id": "REQ-381",
+    "title": "在参与本次项目响应中，我单位承诺：",
+    "content": "在参与本次项目响应中，我单位承诺：",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P381",
+      "quote": "在参与本次项目响应中，我单位承诺："
+    }
+  },
+  {
+    "req_id": "REQ-382",
+    "title": "具有良好的商业信誉和健全的财务会计制度；",
+    "content": "具有良好的商业信誉和健全的财务会计制度；",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P382",
+      "quote": "具有良好的商业信誉和健全的财务会计制度；"
+    }
+  },
+  {
+    "req_id": "REQ-383",
+    "title": "具有履行合同所必需的设备和专业技术能力；",
+    "content": "具有履行合同所必需的设备和专业技术能力；",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P383",
+      "quote": "具有履行合同所必需的设备和专业技术能力；"
+    }
+  },
+  {
+    "req_id": "REQ-384",
+    "title": "有依法缴纳税收和社会保障资金的良好记录；",
+    "content": "有依法缴纳税收和社会保障资金的良好记录；",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P384",
+      "quote": "有依法缴纳税收和社会保障资金的良好记录；"
+    }
+  },
+  {
+    "req_id": "REQ-385",
+    "title": "参加政府采购活动前三年内，在经营活动中没有重大违法记录（",
+    "content": "参加政府采购活动前三年内，在经营活动中没有重大违法记录（重大违法记录指因违法经营受到刑事处罚或者责令停产停业、吊销许可证或者执照、较大数额罚款等行政处罚，不包括因违法经营被禁止在一定期限内参加政府采购活动，但期限已经届满的情形）；",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P385",
+      "quote": "参加政府采购活动前三年内，在经营活动中没有重大违法记录（重大违法记录指因违法经营受到刑事处罚或者责令停产停业、吊销许可证或者执照、较大数额罚款等行政处罚，不包括因违法经营被禁止在一定期限内参加政府采购活动，但期限已经届满的情形）；"
+    }
+  },
+  {
+    "req_id": "REQ-386",
+    "title": "我单位不存在为采购项目提供整体设计、规范编制或者项目管理",
+    "content": "我单位不存在为采购项目提供整体设计、规范编制或者项目管理、监理、检测等服务后，再参加该采购项目的其他采购活动的情形；",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P386",
+      "quote": "我单位不存在为采购项目提供整体设计、规范编制或者项目管理、监理、检测等服务后，再参加该采购项目的其他采购活动的情形；"
+    }
+  },
+  {
+    "req_id": "REQ-387",
+    "title": "与我单位存在“单位负责人为同一人或者存在直接控股、管理关",
+    "content": "与我单位存在“单位负责人为同一人或者存在直接控股、管理关系”的其他法人单位信息如下（如有，不论其是否参加同一合同项下的政府采购活动均须填写）：",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P387",
+      "quote": "与我单位存在“单位负责人为同一人或者存在直接控股、管理关系”的其他法人单位信息如下（如有，不论其是否参加同一合同项下的政府采购活动均须填写）："
+    }
+  },
+  {
+    "req_id": "REQ-388",
+    "title": "上述声明真实有效，否则我方负全部责任。",
+    "content": "上述声明真实有效，否则我方负全部责任。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P388",
+      "quote": "上述声明真实有效，否则我方负全部责任。"
+    }
+  },
+  {
+    "req_id": "REQ-389",
+    "title": "供应商名称（加盖公章）：    ____________",
+    "content": "供应商名称（加盖公章）：    ____________",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P389",
+      "quote": "供应商名称（加盖公章）：    ____________"
+    }
+  },
+  {
+    "req_id": "REQ-390",
+    "title": "日期：_____年______月______日",
+    "content": "日期：_____年______月______日",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P390",
+      "quote": "日期：_____年______月______日"
+    }
+  },
+  {
+    "req_id": "REQ-391",
+    "title": "注：供应商承诺不实的，依据《政府采购法》第七十七条“提供",
+    "content": "注：供应商承诺不实的，依据《政府采购法》第七十七条“提供虚假材料谋取中标、成交的”有关规定予以处理。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P391",
+      "quote": "注：供应商承诺不实的，依据《政府采购法》第七十七条“提供虚假材料谋取中标、成交的”有关规定予以处理。"
+    }
+  },
+  {
+    "req_id": "REQ-392",
+    "title": "2  响应书",
+    "content": "2  响应书",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P392",
+      "quote": "2  响应书"
+    }
+  },
+  {
+    "req_id": "REQ-393",
+    "title": "致：（采购人或采购代理机构）",
+    "content": "致：（采购人或采购代理机构）",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P393",
+      "quote": "致：（采购人或采购代理机构）"
+    }
+  },
+  {
+    "req_id": "REQ-394",
+    "title": "我方参加你方就_____________________",
+    "content": "我方参加你方就_____________________（项目名称，项目编号 ：）组织的采购活动，并对此项目进行响应。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P394",
+      "quote": "我方参加你方就_____________________（项目名称，项目编号 ：）组织的采购活动，并对此项目进行响应。"
+    }
+  },
+  {
+    "req_id": "REQ-395",
+    "title": "1. 我方已详细审查全部采购文件，自愿参与响应并承诺如下",
+    "content": "1. 我方已详细审查全部采购文件，自愿参与响应并承诺如下：",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P395",
+      "quote": "1. 我方已详细审查全部采购文件，自愿参与响应并承诺如下："
+    }
+  },
+  {
+    "req_id": "REQ-396",
+    "title": "（1）本响应有效期为自提交响应文件的截止之日起_90个日",
+    "content": "（1）本响应有效期为自提交响应文件的截止之日起_90个日历日。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P396",
+      "quote": "（1）本响应有效期为自提交响应文件的截止之日起_90个日历日。"
+    }
+  },
+  {
+    "req_id": "REQ-397",
+    "title": "（2）除合同条款及采购需求偏离表列出的偏离外，我方响应采",
+    "content": "（2）除合同条款及采购需求偏离表列出的偏离外，我方响应采购文件的全部要求。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P397",
+      "quote": "（2）除合同条款及采购需求偏离表列出的偏离外，我方响应采购文件的全部要求。"
+    }
+  },
+  {
+    "req_id": "REQ-398",
+    "title": "（3）我方已提供的全部文件资料是真实、准确的，并对此承担",
+    "content": "（3）我方已提供的全部文件资料是真实、准确的，并对此承担一切法律后果。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P398",
+      "quote": "（3）我方已提供的全部文件资料是真实、准确的，并对此承担一切法律后果。"
+    }
+  },
+  {
+    "req_id": "REQ-399",
+    "title": "（4）如我方成交，我方将在法律规定的期限内与你方签订合同",
+    "content": "（4）如我方成交，我方将在法律规定的期限内与你方签订合同，按照采购文件要求提交履约保证金，并在合同约定的期限内完成合同规定的全部义务。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P399",
+      "quote": "（4）如我方成交，我方将在法律规定的期限内与你方签订合同，按照采购文件要求提交履约保证金，并在合同约定的期限内完成合同规定的全部义务。"
+    }
+  },
+  {
+    "req_id": "REQ-400",
+    "title": "2. 其他补充条款（如有）：______________",
+    "content": "2. 其他补充条款（如有）：_____________________。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P400",
+      "quote": "2. 其他补充条款（如有）：_____________________。"
+    }
+  },
+  {
+    "req_id": "REQ-401",
+    "title": "与本响应有关的一切正式往来信函请寄：",
+    "content": "与本响应有关的一切正式往来信函请寄：",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P401",
+      "quote": "与本响应有关的一切正式往来信函请寄："
+    }
+  },
+  {
+    "req_id": "REQ-402",
+    "title": "地址_________________________ ",
+    "content": "地址_________________________     传真____________________________",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P402",
+      "quote": "地址_________________________     传真____________________________"
+    }
+  },
+  {
+    "req_id": "REQ-403",
+    "title": "电话_________________________ ",
+    "content": "电话_________________________     电子函件________________________",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P403",
+      "quote": "电话_________________________     电子函件________________________"
+    }
+  },
+  {
+    "req_id": "REQ-404",
+    "title": "供应商名称（加盖公章） ________________",
+    "content": "供应商名称（加盖公章） _____________________",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P404",
+      "quote": "供应商名称（加盖公章） _____________________"
+    }
+  },
+  {
+    "req_id": "REQ-405",
+    "title": "日期：_____年______月______日",
+    "content": "日期：_____年______月______日",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P405",
+      "quote": "日期：_____年______月______日"
+    }
+  },
+  {
+    "req_id": "REQ-406",
+    "title": "3  授权委托书",
+    "content": "3  授权委托书",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P406",
+      "quote": "3  授权委托书"
+    }
+  },
+  {
+    "req_id": "REQ-407",
+    "title": "本人_______（姓名）系______________",
+    "content": "本人_______（姓名）系________________（供应商名称）的法定代表人（单位负责人），现委托_______（姓名）为我方代理人。代理人根据授权，以我方名义签署、澄清确认、递交、撤回、修改________________（项目名称）响应文件和处理有关事宜，其法律后果由我方承担。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P407",
+      "quote": "本人_______（姓名）系________________（供应商名称）的法定代表人（单位负责人），现委托_______（姓名）为我方代理人。代理人根据授权，以我方名义签署、澄清确认、递交、撤回、修改________________（项目名称）响应文件和处理有关事宜，其法律后果由我方承担。"
+    }
+  },
+  {
+    "req_id": "REQ-408",
+    "title": "委托期限：自本授权委托书签署之日起至响应有效期届满之日止",
+    "content": "委托期限：自本授权委托书签署之日起至响应有效期届满之日止。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P408",
+      "quote": "委托期限：自本授权委托书签署之日起至响应有效期届满之日止。"
+    }
+  },
+  {
+    "req_id": "REQ-409",
+    "title": "代理人无转委托权。",
+    "content": "代理人无转委托权。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P409",
+      "quote": "代理人无转委托权。"
+    }
+  },
+  {
+    "req_id": "REQ-410",
+    "title": "供应商名称（加盖公章）：________________",
+    "content": "供应商名称（加盖公章）：________________",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P410",
+      "quote": "供应商名称（加盖公章）：________________"
+    }
+  },
+  {
+    "req_id": "REQ-411",
+    "title": "法定代表人（单位负责人）（签字或签章）：________",
+    "content": "法定代表人（单位负责人）（签字或签章）：________________",
+    "requirement_type": "format",
+    "priority": 70,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P411",
+      "quote": "法定代表人（单位负责人）（签字或签章）：________________"
+    }
+  },
+  {
+    "req_id": "REQ-412",
+    "title": "委托代理人（签字或签章）：_______________",
+    "content": "委托代理人（签字或签章）：________________",
+    "requirement_type": "format",
+    "priority": 70,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P412",
+      "quote": "委托代理人（签字或签章）：________________"
+    }
+  },
+  {
+    "req_id": "REQ-413",
+    "title": "日期：_____年______月______日",
+    "content": "日期：_____年______月______日",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P413",
+      "quote": "日期：_____年______月______日"
+    }
+  },
+  {
+    "req_id": "REQ-414",
+    "title": "法定代表人（单位负责人）有效期内的身份证明文件复印件：",
+    "content": "法定代表人（单位负责人）有效期内的身份证明文件复印件：",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P414",
+      "quote": "法定代表人（单位负责人）有效期内的身份证明文件复印件："
+    }
+  },
+  {
+    "req_id": "REQ-415",
+    "title": "委托代理人有效期内的身份证明文件复印件：",
+    "content": "委托代理人有效期内的身份证明文件复印件：",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P415",
+      "quote": "委托代理人有效期内的身份证明文件复印件："
+    }
+  },
+  {
+    "req_id": "REQ-416",
+    "title": "（1）若供应商为事业单位或其他组织或分支机构（仅当采购文",
+    "content": "（1）若供应商为事业单位或其他组织或分支机构（仅当采购文件注明允许分支机构响应的），则法定代表人（单位负责人）处的签署人可为单位负责人。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P416",
+      "quote": "（1）若供应商为事业单位或其他组织或分支机构（仅当采购文件注明允许分支机构响应的），则法定代表人（单位负责人）处的签署人可为单位负责人。"
+    }
+  },
+  {
+    "req_id": "REQ-417",
+    "title": "（2）若响应文件中签字之处均为法定代表人（单位负责人）本",
+    "content": "（2）若响应文件中签字之处均为法定代表人（单位负责人）本人签署，则可不提供本《授权委托书》，但须提供《法定代表人（单位负责人）身份证明》。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P417",
+      "quote": "（2）若响应文件中签字之处均为法定代表人（单位负责人）本人签署，则可不提供本《授权委托书》，但须提供《法定代表人（单位负责人）身份证明》。"
+    }
+  },
+  {
+    "req_id": "REQ-418",
+    "title": "（3）供应商为自然人的情形，可不提供本《授权委托书》。",
+    "content": "（3）供应商为自然人的情形，可不提供本《授权委托书》。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P418",
+      "quote": "（3）供应商为自然人的情形，可不提供本《授权委托书》。"
+    }
+  },
+  {
+    "req_id": "REQ-419",
+    "title": "附：法定代表人（单位负责人）身份证明",
+    "content": "附：法定代表人（单位负责人）身份证明",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P419",
+      "quote": "附：法定代表人（单位负责人）身份证明"
+    }
+  },
+  {
+    "req_id": "REQ-420",
+    "title": "致：（采购人或采购代理机构）",
+    "content": "致：（采购人或采购代理机构）",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P420",
+      "quote": "致：（采购人或采购代理机构）"
+    }
+  },
+  {
+    "req_id": "REQ-421",
+    "title": "姓名：____性别：____年龄：____职务：____",
+    "content": "姓名：____性别：____年龄：____职务：____",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P421",
+      "quote": "姓名：____性别：____年龄：____职务：____"
+    }
+  },
+  {
+    "req_id": "REQ-422",
+    "title": "系\t（供应商名称）的法定代表人（单位负责人）。",
+    "content": "系\t（供应商名称）的法定代表人（单位负责人）。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P422",
+      "quote": "系\t（供应商名称）的法定代表人（单位负责人）。"
+    }
+  },
+  {
+    "req_id": "REQ-423",
+    "title": "附：法定代表人（单位负责人）有效期内的身份证明文件复印件",
+    "content": "附：法定代表人（单位负责人）有效期内的身份证明文件复印件。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P423",
+      "quote": "附：法定代表人（单位负责人）有效期内的身份证明文件复印件。"
+    }
+  },
+  {
+    "req_id": "REQ-424",
+    "title": "供应商名称（加盖公章）：________________",
+    "content": "供应商名称（加盖公章）：________________",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P424",
+      "quote": "供应商名称（加盖公章）：________________"
+    }
+  },
+  {
+    "req_id": "REQ-425",
+    "title": "法定代表人（单位负责人）（签字或签章）：________",
+    "content": "法定代表人（单位负责人）（签字或签章）：_____________",
+    "requirement_type": "format",
+    "priority": 70,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P425",
+      "quote": "法定代表人（单位负责人）（签字或签章）：_____________"
+    }
+  },
+  {
+    "req_id": "REQ-426",
+    "title": "日期：_____年______月______日",
+    "content": "日期：_____年______月______日",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P426",
+      "quote": "日期：_____年______月______日"
+    }
+  },
+  {
+    "req_id": "REQ-427",
+    "title": "4  报价一览表",
+    "content": "4  报价一览表",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P427",
+      "quote": "4  报价一览表"
+    }
+  },
+  {
+    "req_id": "REQ-428",
+    "title": "项目编号 ：_____________________ ",
+    "content": "项目编号 ：_____________________     项目名称：_______________________",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P428",
+      "quote": "项目编号 ：_____________________     项目名称：_______________________"
+    }
+  },
+  {
+    "req_id": "REQ-429",
+    "title": "供应商名称（加盖公章）：____________",
+    "content": "供应商名称（加盖公章）：____________",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P429",
+      "quote": "供应商名称（加盖公章）：____________"
+    }
+  },
+  {
+    "req_id": "REQ-430",
+    "title": "日期：_____年______月______日",
+    "content": "日期：_____年______月______日",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P430",
+      "quote": "日期：_____年______月______日"
+    }
+  },
+  {
+    "req_id": "REQ-431",
+    "title": "注：此表中，报价应和《分项报价表》中的总价相一致。",
+    "content": "注：此表中，报价应和《分项报价表》中的总价相一致。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P431",
+      "quote": "注：此表中，报价应和《分项报价表》中的总价相一致。"
+    }
+  },
+  {
+    "req_id": "REQ-432",
+    "title": "5  分项报价表",
+    "content": "5  分项报价表",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P432",
+      "quote": "5  分项报价表"
+    }
+  },
+  {
+    "req_id": "REQ-433",
+    "title": "项目编号 ：___________ 项目名称：_____",
+    "content": "项目编号 ：___________ 项目名称：__________报价单位：人民币元",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P433",
+      "quote": "项目编号 ：___________ 项目名称：__________报价单位：人民币元"
+    }
+  },
+  {
+    "req_id": "REQ-434",
+    "title": "供应商名称（加盖公章）：    ____________",
+    "content": "供应商名称（加盖公章）：    ____________",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P434",
+      "quote": "供应商名称（加盖公章）：    ____________"
+    }
+  },
+  {
+    "req_id": "REQ-435",
+    "title": "日期：_____年______月______日",
+    "content": "日期：_____年______月______日",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P435",
+      "quote": "日期：_____年______月______日"
+    }
+  },
+  {
+    "req_id": "REQ-436",
+    "title": "（1）如果不提供分项报价将视为未实质性响应采购文件，响应",
+    "content": "（1）如果不提供分项报价将视为未实质性响应采购文件，响应无效。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P436",
+      "quote": "（1）如果不提供分项报价将视为未实质性响应采购文件，响应无效。"
+    }
+  },
+  {
+    "req_id": "REQ-437",
+    "title": "（2）上述各项的详细规格（如有），可另页描述。",
+    "content": "（2）上述各项的详细规格（如有），可另页描述。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P437",
+      "quote": "（2）上述各项的详细规格（如有），可另页描述。"
+    }
+  },
+  {
+    "req_id": "REQ-438",
+    "title": "6  合同条款偏离表",
+    "content": "6  合同条款偏离表",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P438",
+      "quote": "6  合同条款偏离表"
+    }
+  },
+  {
+    "req_id": "REQ-439",
+    "title": "合同条款偏离表",
+    "content": "合同条款偏离表",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P439",
+      "quote": "合同条款偏离表"
+    }
+  },
+  {
+    "req_id": "REQ-440",
+    "title": "项目编号 ：_______________     项目",
+    "content": "项目编号 ：_______________     项目名称：____________________",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P440",
+      "quote": "项目编号 ：_______________     项目名称：____________________"
+    }
+  },
+  {
+    "req_id": "REQ-441",
+    "title": "供应商名称（加盖公章）：    ____________",
+    "content": "供应商名称（加盖公章）：    ____________",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P441",
+      "quote": "供应商名称（加盖公章）：    ____________"
+    }
+  },
+  {
+    "req_id": "REQ-442",
+    "title": "日期：_____年______月______日",
+    "content": "日期：_____年______月______日",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P442",
+      "quote": "日期：_____年______月______日"
+    }
+  },
+  {
+    "req_id": "REQ-443",
+    "title": "（1）对合同条款中的所有要求，除本表所列明的所有偏离外，",
+    "content": "（1）对合同条款中的所有要求，除本表所列明的所有偏离外，均视作供应商已对之理解和响应。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P443",
+      "quote": "（1）对合同条款中的所有要求，除本表所列明的所有偏离外，均视作供应商已对之理解和响应。"
+    }
+  },
+  {
+    "req_id": "REQ-444",
+    "title": "（2）“偏离情况”列应据实填写“正偏离”或“负偏离”。",
+    "content": "（2）“偏离情况”列应据实填写“正偏离”或“负偏离”。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P444",
+      "quote": "（2）“偏离情况”列应据实填写“正偏离”或“负偏离”。"
+    }
+  },
+  {
+    "req_id": "REQ-445",
+    "title": "7  采购需求偏离表",
+    "content": "7  采购需求偏离表",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P445",
+      "quote": "7  采购需求偏离表"
+    }
+  },
+  {
+    "req_id": "REQ-446",
+    "title": "采购需求偏离表",
+    "content": "采购需求偏离表",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P446",
+      "quote": "采购需求偏离表"
+    }
+  },
+  {
+    "req_id": "REQ-447",
+    "title": "项目编号 ：_____________________ ",
+    "content": "项目编号 ：_____________________     项目名称：_______________________",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P447",
+      "quote": "项目编号 ：_____________________     项目名称：_______________________"
+    }
+  },
+  {
+    "req_id": "REQ-448",
+    "title": "供应商名称（加盖公章）：    ____________",
+    "content": "供应商名称（加盖公章）：    ____________",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P448",
+      "quote": "供应商名称（加盖公章）：    ____________"
+    }
+  },
+  {
+    "req_id": "REQ-449",
+    "title": "日期：_____年______月______日",
+    "content": "日期：_____年______月______日",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P449",
+      "quote": "日期：_____年______月______日"
+    }
+  },
+  {
+    "req_id": "REQ-450",
+    "title": "（1）此表中若无任何文字说明，内容为空白的响应无效。“偏",
+    "content": "（1）此表中若无任何文字说明，内容为空白的响应无效。“偏离情况”列应据实填写“无偏离”或“正偏离”或“负偏离”。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P450",
+      "quote": "（1）此表中若无任何文字说明，内容为空白的响应无效。“偏离情况”列应据实填写“无偏离”或“正偏离”或“负偏离”。"
+    }
+  },
+  {
+    "req_id": "REQ-451",
+    "title": "（2）当响应文件的应答低于询价文件要求时，供应商应当如实",
+    "content": "（2）当响应文件的应答低于询价文件要求时，供应商应当如实写明“负偏离”否则视为虚假应答。8  采购文件要求提供或供应商认为应附的其他材料",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P451",
+      "quote": "（2）当响应文件的应答低于询价文件要求时，供应商应当如实写明“负偏离”否则视为虚假应答。8  采购文件要求提供或供应商认为应附的其他材料"
+    }
+  },
+  {
+    "req_id": "REQ-452",
+    "title": "8-1 本项目的特定资格要求（如有要求）",
+    "content": "8-1 本项目的特定资格要求（如有要求）",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P452",
+      "quote": "8-1 本项目的特定资格要求（如有要求）"
+    }
+  },
+  {
+    "req_id": "REQ-453",
+    "title": "说明：如第一章采购邀请有要求的，请提供证明文件。",
+    "content": "说明：如第一章采购邀请有要求的，请提供证明文件。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P453",
+      "quote": "说明：如第一章采购邀请有要求的，请提供证明文件。"
+    }
+  },
+  {
+    "req_id": "REQ-454",
+    "title": "8-2 保证金凭证",
+    "content": "8-2 保证金凭证",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P454",
+      "quote": "8-2 保证金凭证"
+    }
+  },
+  {
+    "req_id": "REQ-455",
+    "title": "1.采用银行汇款形式提交响应保证金的，应在递交文件截止时",
+    "content": "1.采用银行汇款形式提交响应保证金的，应在递交文件截止时间前到账，同时需在本部分放置凭证/交款单据复印件，否则导致的不利后果由供应商自行承担。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P455",
+      "quote": "1.采用银行汇款形式提交响应保证金的，应在递交文件截止时间前到账，同时需在本部分放置凭证/交款单据复印件，否则导致的不利后果由供应商自行承担。"
+    }
+  },
+  {
+    "req_id": "REQ-456",
+    "title": "2.采用支票、汇票、本票等形式提交响应保证金的，应在递交",
+    "content": "2.采用支票、汇票、本票等形式提交响应保证金的，应在递交文件截止时间前到账，无需在本部分提供复印件。                                                          3. 采用金融机构、担保机构出具的保函形式提交响应保证金的，应确保在递交文件截止时间前将原件提交至采购代理机构即可，无需在本部分提供保函复印件。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P456",
+      "quote": "2.采用支票、汇票、本票等形式提交响应保证金的，应在递交文件截止时间前到账，无需在本部分提供复印件。                                                          3. 采用金融机构、担保机构出具的保函形式提交响应保证金的，应确保在递交文件截止时间前将原件提交至采购代"
+    }
+  },
+  {
+    "req_id": "REQ-457",
+    "title": "8-3采购文件要求提供或供应商认为应附的其他材料",
+    "content": "8-3采购文件要求提供或供应商认为应附的其他材料",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P457",
+      "quote": "8-3采购文件要求提供或供应商认为应附的其他材料"
+    }
+  },
+  {
+    "req_id": "REQ-458",
+    "title": "8-4项目技术服务方案",
+    "content": "8-4项目技术服务方案",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P458",
+      "quote": "8-4项目技术服务方案"
+    }
+  },
+  {
+    "req_id": "REQ-459",
+    "title": "说明：格式自拟，请供应商结合自身情况并针对第四章《采购需",
+    "content": "说明：格式自拟，请供应商结合自身情况并针对第四章《采购需求》提供详实可行的方案。",
+    "requirement_type": "format",
+    "priority": 95,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P459",
+      "quote": "说明：格式自拟，请供应商结合自身情况并针对第四章《采购需求》提供详实可行的方案。"
+    }
+  },
+  {
+    "req_id": "REQ-460",
+    "title": "9  成交服务费承诺书",
+    "content": "9  成交服务费承诺书",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P460",
+      "quote": "9  成交服务费承诺书"
+    }
+  },
+  {
+    "req_id": "REQ-461",
+    "title": "致:天恒招标有限公司",
+    "content": "致:天恒招标有限公司",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P461",
+      "quote": "致:天恒招标有限公司"
+    }
+  },
+  {
+    "req_id": "REQ-462",
+    "title": "我们在贵公司组织的      项目（项目编号 ：    ",
+    "content": "我们在贵公司组织的      项目（项目编号 ：       ）采购中若成交，我们保证在领取成交通知书的同时按询价文件的规定，向贵公司一次性支付应当交纳的成交服务费用。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P462",
+      "quote": "我们在贵公司组织的      项目（项目编号 ：       ）采购中若成交，我们保证在领取成交通知书的同时按询价文件的规定，向贵公司一次性支付应当交纳的成交服务费用。"
+    }
+  },
+  {
+    "req_id": "REQ-463",
+    "title": "收费标准参考国家计委印发的计价格[2002]1980号关",
+    "content": "收费标准参考国家计委印发的计价格[2002]1980号关于《招标代理机构服务费管理暂行办法》的通知。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P463",
+      "quote": "收费标准参考国家计委印发的计价格[2002]1980号关于《招标代理机构服务费管理暂行办法》的通知。"
+    }
+  },
+  {
+    "req_id": "REQ-464",
+    "title": "承诺方名称：",
+    "content": "承诺方名称：",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P464",
+      "quote": "承诺方名称："
+    }
+  },
+  {
+    "req_id": "REQ-465",
+    "title": "承诺方公章：",
+    "content": "承诺方公章：",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P465",
+      "quote": "承诺方公章："
+    }
+  },
+  {
+    "req_id": "REQ-466",
+    "title": "10  最后报价一览表",
+    "content": "10  最后报价一览表",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P466",
+      "quote": "10  最后报价一览表"
+    }
+  },
+  {
+    "req_id": "REQ-467",
+    "title": "最后报价一览表",
+    "content": "最后报价一览表",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P467",
+      "quote": "最后报价一览表"
+    }
+  },
+  {
+    "req_id": "REQ-468",
+    "title": "项目编号 ：_____________________ ",
+    "content": "项目编号 ：_____________________     项目名称：_______________________",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P468",
+      "quote": "项目编号 ：_____________________     项目名称：_______________________"
+    }
+  },
+  {
+    "req_id": "REQ-469",
+    "title": "注：1.此表中，最后报价应和《最后分项报价表》中的总价相",
+    "content": "注：1.此表中，最后报价应和《最后分项报价表》中的总价相一致。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P469",
+      "quote": "注：1.此表中，最后报价应和《最后分项报价表》中的总价相一致。"
+    }
+  },
+  {
+    "req_id": "REQ-470",
+    "title": "供应商授权代表签字（或加盖供应商公章）：________",
+    "content": "供应商授权代表签字（或加盖供应商公章）：____________",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P470",
+      "quote": "供应商授权代表签字（或加盖供应商公章）：____________"
+    }
+  },
+  {
+    "req_id": "REQ-471",
+    "title": "日期：_____年______月______日",
+    "content": "日期：_____年______月______日",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P471",
+      "quote": "日期：_____年______月______日"
+    }
+  },
+  {
+    "req_id": "REQ-472",
+    "title": "（1）此表中，最后报价应和《最后分项报价表》中的总价相一",
+    "content": "（1）此表中，最后报价应和《最后分项报价表》中的总价相一致。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P472",
+      "quote": "（1）此表中，最后报价应和《最后分项报价表》中的总价相一致。"
+    }
+  },
+  {
+    "req_id": "REQ-473",
+    "title": "（2）此表无需装订在响应文件中，在询价后单独提交。",
+    "content": "（2）此表无需装订在响应文件中，在询价后单独提交。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P473",
+      "quote": "（2）此表无需装订在响应文件中，在询价后单独提交。"
+    }
+  },
+  {
+    "req_id": "REQ-474",
+    "title": "11  最后分项报价表",
+    "content": "11  最后分项报价表",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P474",
+      "quote": "11  最后分项报价表"
+    }
+  },
+  {
+    "req_id": "REQ-475",
+    "title": "最后分项报价表",
+    "content": "最后分项报价表",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P475",
+      "quote": "最后分项报价表"
+    }
+  },
+  {
+    "req_id": "REQ-476",
+    "title": "项目编号 ：___________ 项目名称：_____",
+    "content": "项目编号 ：___________ 项目名称：__________报价单位：人民币元",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P476",
+      "quote": "项目编号 ：___________ 项目名称：__________报价单位：人民币元"
+    }
+  },
+  {
+    "req_id": "REQ-477",
+    "title": "供应商授权代表签字（或加盖供应商公章）： _______",
+    "content": "供应商授权代表签字（或加盖供应商公章）： ____________",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P477",
+      "quote": "供应商授权代表签字（或加盖供应商公章）： ____________"
+    }
+  },
+  {
+    "req_id": "REQ-478",
+    "title": "日期：_____年______月______日",
+    "content": "日期：_____年______月______日",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P478",
+      "quote": "日期：_____年______月______日"
+    }
+  },
+  {
+    "req_id": "REQ-479",
+    "title": "（1）如果不提供最后分项报价将视为未实质性响应采购文件，",
+    "content": "（1）如果不提供最后分项报价将视为未实质性响应采购文件，响应无效。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P479",
+      "quote": "（1）如果不提供最后分项报价将视为未实质性响应采购文件，响应无效。"
+    }
+  },
+  {
+    "req_id": "REQ-480",
+    "title": "（2）上述各项的详细规格（如有），可另页描述。",
+    "content": "（2）上述各项的详细规格（如有），可另页描述。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P480",
+      "quote": "（2）上述各项的详细规格（如有），可另页描述。"
+    }
+  },
+  {
+    "req_id": "REQ-481",
+    "title": "（3）此表无需装订在响应文件中，在询价后单独提交。",
+    "content": "（3）此表无需装订在响应文件中，在询价后单独提交。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P481",
+      "quote": "（3）此表无需装订在响应文件中，在询价后单独提交。"
+    }
+  },
+  {
+    "req_id": "REQ-482",
+    "title": "包号 | 标的名称 | 采购标的预算金额（万元） | 数",
+    "content": "包号 | 标的名称 | 采购标的预算金额（万元） | 数量 | 简要技术需求或服务要求 | 交货/服务地点",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P482",
+      "quote": "包号 | 标的名称 | 采购标的预算金额（万元） | 数量 | 简要技术需求或服务要求 | 交货/服务地点"
+    }
+  },
+  {
+    "req_id": "REQ-483",
+    "title": "01 | 极端条件下的高电热应力可靠性测试 | 28.0",
+    "content": "01 | 极端条件下的高电热应力可靠性测试 | 28.00 | 15批 | 完成甲方提供的碳化硅MOSFET等产品的测试工作，并出具符合要求的测试报告。 | 甲方指定地点",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P483",
+      "quote": "01 | 极端条件下的高电热应力可靠性测试 | 28.00 | 15批 | 完成甲方提供的碳化硅MOSFET等产品的测试工作，并出具符合要求的测试报告。 | 甲方指定地点"
+    }
+  },
+  {
+    "req_id": "REQ-484",
+    "title": "02 | 衬板测试动静态适配器加工 | 42.00 | ",
+    "content": "02 | 衬板测试动静态适配器加工 | 42.00 | 6套 | 乙方利用乙方的场地、设备、技术、人员、物料等资源，根据甲方规定的尺寸、电路、材料、电气性能、机械接口、电气借口等加工规格完成衬板测试动静态适配器加工服务。 | 甲方指定地点",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P484",
+      "quote": "02 | 衬板测试动静态适配器加工 | 42.00 | 6套 | 乙方利用乙方的场地、设备、技术、人员、物料等资源，根据甲方规定的尺寸、电路、材料、电气性能、机械接口、电气借口等加工规格完成衬板测试动静态适配器加工服务。 | 甲方指定地点"
+    }
+  },
+  {
+    "req_id": "REQ-485",
+    "title": "03 | 器件可靠性测试板卡定制加工 | 18.00 |",
+    "content": "03 | 器件可靠性测试板卡定制加工 | 18.00 | 24套 | 乙方利用自身技术、设备、场地和人员等资源，根据甲方提供的测试条件、技术参数、产品规格完成可靠性测试板卡定制加工服务。 | 甲方指定地点",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P485",
+      "quote": "03 | 器件可靠性测试板卡定制加工 | 18.00 | 24套 | 乙方利用自身技术、设备、场地和人员等资源，根据甲方提供的测试条件、技术参数、产品规格完成可靠性测试板卡定制加工服务。 | 甲方指定地点"
+    }
+  },
+  {
+    "req_id": "REQ-486",
+    "title": "条款号 | 条目 | 内容",
+    "content": "条款号 | 条目 | 内容",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P486",
+      "quote": "条款号 | 条目 | 内容"
+    }
+  },
+  {
+    "req_id": "REQ-487",
+    "title": "1.2 | 供应商 特定资格要求 | 见第一章《采购邀请",
+    "content": "1.2 | 供应商 特定资格要求 | 见第一章《采购邀请》",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P487",
+      "quote": "1.2 | 供应商 特定资格要求 | 见第一章《采购邀请》"
+    }
+  },
+  {
+    "req_id": "REQ-488",
+    "title": "1.3 | 是否接受 联合体 | 是      否",
+    "content": "1.3 | 是否接受 联合体 | 是      否",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P488",
+      "quote": "1.3 | 是否接受 联合体 | 是      否"
+    }
+  },
+  {
+    "req_id": "REQ-489",
+    "title": "2.2 | 项目属性 | 服务类  货物类",
+    "content": "2.2 | 项目属性 | 服务类  货物类",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P489",
+      "quote": "2.2 | 项目属性 | 服务类  货物类"
+    }
+  },
+  {
+    "req_id": "REQ-490",
+    "title": "2.3 | 科研仪器设备采购 | 是   否",
+    "content": "2.3 | 科研仪器设备采购 | 是   否",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P490",
+      "quote": "2.3 | 科研仪器设备采购 | 是   否"
+    }
+  },
+  {
+    "req_id": "REQ-491",
+    "title": "2.4 | 项目预算及 最高限价 | 本包预算金额：28",
+    "content": "2.4 | 项目预算及 最高限价 | 本包预算金额：28.00万元。 最高限价（如有）：    /   万元。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P491",
+      "quote": "2.4 | 项目预算及 最高限价 | 本包预算金额：28.00万元。 最高限价（如有）：    /   万元。"
+    }
+  },
+  {
+    "req_id": "REQ-492",
+    "title": "3.1.2 | 是否接受 进口 | 是    否",
+    "content": "3.1.2 | 是否接受 进口 | 是    否",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P492",
+      "quote": "3.1.2 | 是否接受 进口 | 是    否"
+    }
+  },
+  {
+    "req_id": "REQ-493",
+    "title": "10.1 | 响应保证金 | 响应保证金金额： 4000",
+    "content": "10.1 | 响应保证金 | 响应保证金金额： 4000.00   元。 响应保证金收受人信息： 户名：天恒招标有限公司 开户行：兴业银行北京西城支行 标书款、投标保证金账号：321680100100050176 注： 1、供应商如采用银行汇款形式递交响应保证金，须使用供应商单位账户一次性汇入采购代理机构指定的账户，不能以个人名义或其他单位账户汇款，并将银行汇款凭证复印件加盖供应商单位公章，按便捷询价采购文件要求进行提交。 2、在采购活动结束后，响应保证金将按照供应商单位交款账户原路退还。 3、为保证成交供应商响应保证金的及时退还，成交供应商应在政府采购合同签订后2个工作日内，及时告知采购代理机构，并将合同扫描件发送至采购代理机构邮箱ywb06@thtc.com.cn。如成交供应商未按要求及时告知并发送邮件，由此导致的逾期退还响应保证金等责任由成交供应商承担，采购代理机构不承担相应责任。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P493",
+      "quote": "10.1 | 响应保证金 | 响应保证金金额： 4000.00   元。 响应保证金收受人信息： 户名：天恒招标有限公司 开户行：兴业银行北京西城支行 标书款、投标保证金账号：321680100100050176 注： 1、供应商如采用银行汇款形式递交响应保证金，须使用供应商单位账户一次性汇入采购代理机构指定的账户，不"
+    }
+  },
+  {
+    "req_id": "REQ-494",
+    "title": "11.1 | 响应有效期 | 自提交响应文件的截止之日起",
+    "content": "11.1 | 响应有效期 | 自提交响应文件的截止之日起算   90 日历天。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P494",
+      "quote": "11.1 | 响应有效期 | 自提交响应文件的截止之日起算   90 日历天。"
+    }
+  },
+  {
+    "req_id": "REQ-495",
+    "title": "12.1 | 响应文件 份数 | 《响应文件》：正本 1",
+    "content": "12.1 | 响应文件 份数 | 《响应文件》：正本 1  份，副本 3  份，建议双面打印。 《响应文件电子文档》： 1 份(U盘或者光盘)，电子文档为正本的扫描件，格式要求为pdf。电子文档应包括投标文件全部内容.",
+    "requirement_type": "format",
+    "priority": 95,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P495",
+      "quote": "12.1 | 响应文件 份数 | 《响应文件》：正本 1  份，副本 3  份，建议双面打印。 《响应文件电子文档》： 1 份(U盘或者光盘)，电子文档为正本的扫描件，格式要求为pdf。电子文档应包括投标文件全部内容."
+    }
+  },
+  {
+    "req_id": "REQ-496",
+    "title": "23.3 | 联系方式 | 接收询问和质疑的联系方式 见",
+    "content": "23.3 | 联系方式 | 接收询问和质疑的联系方式 见第一章《采购邀请》中采购代理机构联系方式。",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P496",
+      "quote": "23.3 | 联系方式 | 接收询问和质疑的联系方式 见第一章《采购邀请》中采购代理机构联系方式。"
+    }
+  },
+  {
+    "req_id": "REQ-497",
+    "title": "24.1 | 招标代理 服务费 | 本项目是否收取招标代",
+    "content": "24.1 | 招标代理 服务费 | 本项目是否收取招标代理服务费： 不收取 收取，具体要求： 1、收费对象：成交供应商； 2、收费标准：参考国家发改委颁布的《招标代理服务收费管理暂行办法》（计价格[2002]1980号）规定的收费标准，按照成交金额差额定率累进法计算，向采购代理机构交纳成交服务费。此成交服务费应计入响应报价中，但无须单独开列。 采购代理服务收费标准： 缴纳时间：在领取成交通知书后5个工作日内向采购代理机构一次性缴纳。 服务费按包收取。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P497",
+      "quote": "24.1 | 招标代理 服务费 | 本项目是否收取招标代理服务费： 不收取 收取，具体要求： 1、收费对象：成交供应商； 2、收费标准：参考国家发改委颁布的《招标代理服务收费管理暂行办法》（计价格[2002]1980号）规定的收费标准，按照成交金额差额定率累进法计算，向采购代理机构交纳成交服务费。此成交服务费应计入响应"
+    }
+  },
+  {
+    "req_id": "REQ-498",
+    "title": "序号 | 检查因素 | 检查内容 | 格式要求",
+    "content": "序号 | 检查因素 | 检查内容 | 格式要求",
+    "requirement_type": "format",
+    "priority": 70,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P498",
+      "quote": "序号 | 检查因素 | 检查内容 | 格式要求"
+    }
+  },
+  {
+    "req_id": "REQ-499",
+    "title": "1 | 满足《中华人民共和国政府采购法》第二十二条规定及",
+    "content": "1 | 满足《中华人民共和国政府采购法》第二十二条规定及法律法规的其他规定 | 具体规定见第一章《采购邀请》",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P499",
+      "quote": "1 | 满足《中华人民共和国政府采购法》第二十二条规定及法律法规的其他规定 | 具体规定见第一章《采购邀请》"
+    }
+  },
+  {
+    "req_id": "REQ-500",
+    "title": "1-1 | 营业执照 等证明文件 | 供应商为企业（包括",
+    "content": "1-1 | 营业执照 等证明文件 | 供应商为企业（包括合伙企业）的，应提供有效的“营业执照”； 供应商为事业单位的，应提供有效的“事业单位法人证书”； 供应商是非企业机构的，应提供有效的“执业许可证”、“登记证书”等证明文件； 供应商是个体工商户的，应提供有效的“个体工商户营业执照”； 供应商是自然人的，应提供有效的自然人身份证明。 分支机构参加投标的，应提供该分支机构或其所属法人/其他组织的相应证明文件；同时还应提供其所属法人/其他组织出具的授权其参与本项目的授权书(格式自拟，须加盖其所属法人/其他组织的公章)；对于银行、保险、石油石化、电力、电信等行业的分支机构，可以提供上述授权，也可以提供其所属法人/其他组织的有关文件或制度等能够证明授权其独立开展业务的证明材料。 | 提供证明文件复印件",
+    "requirement_type": "format",
+    "priority": 95,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P500",
+      "quote": "1-1 | 营业执照 等证明文件 | 供应商为企业（包括合伙企业）的，应提供有效的“营业执照”； 供应商为事业单位的，应提供有效的“事业单位法人证书”； 供应商是非企业机构的，应提供有效的“执业许可证”、“登记证书”等证明文件； 供应商是个体工商户的，应提供有效的“个体工商户营业执照”； 供应商是自然人的，应提供有效的"
+    }
+  },
+  {
+    "req_id": "REQ-501",
+    "title": "1-2 | 供应商 资格声明书 | 提供了符合采购文件要",
+    "content": "1-2 | 供应商 资格声明书 | 提供了符合采购文件要求的《供应商资格声明书》。 | 格式见《响应文件格式》",
+    "requirement_type": "format",
+    "priority": 95,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P501",
+      "quote": "1-2 | 供应商 资格声明书 | 提供了符合采购文件要求的《供应商资格声明书》。 | 格式见《响应文件格式》"
+    }
+  },
+  {
+    "req_id": "REQ-502",
+    "title": "1-3 | 供应商 信用记录 | 查询渠道：信用中国网站",
+    "content": "1-3 | 供应商 信用记录 | 查询渠道：信用中国网站和中国政府采购网（www.creditchina.gov.cn、www.ccgp.gov.cn）； 截止时点：首次响应文件提交截止时间以后、资格性检查阶段采购人或采购代理机构的实际查询时间为准； 信用信息查询记录和证据留存具体方式：查询结果网页打印页作为查询记录和证据，与其他采购文件一并保存； 信用信息的使用原则：经认定的被列入失信被执行人、重大税收违法案件当事人名单、政府采购严重违法失信行为记录名单的供应商，其响应无效。 | 无须供应商提供，由采购人或采购代理机构查询。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P502",
+      "quote": "1-3 | 供应商 信用记录 | 查询渠道：信用中国网站和中国政府采购网（www.creditchina.gov.cn、www.ccgp.gov.cn）； 截止时点：首次响应文件提交截止时间以后、资格性检查阶段采购人或采购代理机构的实际查询时间为准； 信用信息查询记录和证据留存具体方式：查询结果网页打印页作为查询记录和"
+    }
+  },
+  {
+    "req_id": "REQ-503",
+    "title": "2 | 本项目的特定资格要求 | 如有，见第一章《采购邀",
+    "content": "2 | 本项目的特定资格要求 | 如有，见第一章《采购邀请》 | 提供证明文件复印件",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P503",
+      "quote": "2 | 本项目的特定资格要求 | 如有，见第一章《采购邀请》 | 提供证明文件复印件"
+    }
+  },
+  {
+    "req_id": "REQ-504",
+    "title": "3 | 保证金 | 如有，按照采购文件的要求提交保证金",
+    "content": "3 | 保证金 | 如有，按照采购文件的要求提交保证金",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P504",
+      "quote": "3 | 保证金 | 如有，按照采购文件的要求提交保证金"
+    }
+  },
+  {
+    "req_id": "REQ-505",
+    "title": "序号 | 审查因素 | 审查内容",
+    "content": "序号 | 审查因素 | 审查内容",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P505",
+      "quote": "序号 | 审查因素 | 审查内容"
+    }
+  },
+  {
+    "req_id": "REQ-506",
+    "title": "1 | 授权委托书 | 按采购文件要求提供授权委托书；",
+    "content": "1 | 授权委托书 | 按采购文件要求提供授权委托书；",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P506",
+      "quote": "1 | 授权委托书 | 按采购文件要求提供授权委托书；"
+    }
+  },
+  {
+    "req_id": "REQ-507",
+    "title": "2 | 响应完整性 | 未将一个采购包中的内容拆开响应；",
+    "content": "2 | 响应完整性 | 未将一个采购包中的内容拆开响应；",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P507",
+      "quote": "2 | 响应完整性 | 未将一个采购包中的内容拆开响应；"
+    }
+  },
+  {
+    "req_id": "REQ-508",
+    "title": "3 | 响应报价 | 未超过采购文件中规定的项目预算金额",
+    "content": "3 | 响应报价 | 未超过采购文件中规定的项目预算金额或者项目最高限价；",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P508",
+      "quote": "3 | 响应报价 | 未超过采购文件中规定的项目预算金额或者项目最高限价；"
+    }
+  },
+  {
+    "req_id": "REQ-509",
+    "title": "4 | 报价唯一性 | 未出现可选择性或可调整的报价（采",
+    "content": "4 | 报价唯一性 | 未出现可选择性或可调整的报价（采购文件另有规定的除外）；",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P509",
+      "quote": "4 | 报价唯一性 | 未出现可选择性或可调整的报价（采购文件另有规定的除外）；"
+    }
+  },
+  {
+    "req_id": "REQ-510",
+    "title": "5 | 响应有效期 | 承诺的响应有效期满足采购文件中载",
+    "content": "5 | 响应有效期 | 承诺的响应有效期满足采购文件中载明的响应有效期的；",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P510",
+      "quote": "5 | 响应有效期 | 承诺的响应有效期满足采购文件中载明的响应有效期的；"
+    }
+  },
+  {
+    "req_id": "REQ-511",
+    "title": "6 | 签署、盖章 | 按照采购文件要求签署、盖章的；",
+    "content": "6 | 签署、盖章 | 按照采购文件要求签署、盖章的；",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P511",
+      "quote": "6 | 签署、盖章 | 按照采购文件要求签署、盖章的；"
+    }
+  },
+  {
+    "req_id": "REQ-512",
+    "title": "7 | ★号条款响应（如有） | 满足采购文件第四章《采",
+    "content": "7 | ★号条款响应（如有） | 满足采购文件第四章《采购需求》中★号条款要求的（如有）；",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P512",
+      "quote": "7 | ★号条款响应（如有） | 满足采购文件第四章《采购需求》中★号条款要求的（如有）；"
+    }
+  },
+  {
+    "req_id": "REQ-513",
+    "title": "8 | 报价的修正 （如有） | 不涉及报价修正，或响应",
+    "content": "8 | 报价的修正 （如有） | 不涉及报价修正，或响应文件报价出现前后不一致时，供应商对修正后的报价予以确认；（如有）",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P513",
+      "quote": "8 | 报价的修正 （如有） | 不涉及报价修正，或响应文件报价出现前后不一致时，供应商对修正后的报价予以确认；（如有）"
+    }
+  },
+  {
+    "req_id": "REQ-514",
+    "title": "9 | 报价合理性 | 报价合理，或供应商的报价明显低于",
+    "content": "9 | 报价合理性 | 报价合理，或供应商的报价明显低于其他通过符合性审查供应商的报价，有可能影响产品质量或者不能诚信履约的，能够应询价小组要求在规定时间内证明其报价合理性的；",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P514",
+      "quote": "9 | 报价合理性 | 报价合理，或供应商的报价明显低于其他通过符合性审查供应商的报价，有可能影响产品质量或者不能诚信履约的，能够应询价小组要求在规定时间内证明其报价合理性的；"
+    }
+  },
+  {
+    "req_id": "REQ-515",
+    "title": "10 | 进口产品（如有） | 不接受进口产品时，供应商",
+    "content": "10 | 进口产品（如有） | 不接受进口产品时，供应商所投产品非进口产品的；",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P515",
+      "quote": "10 | 进口产品（如有） | 不接受进口产品时，供应商所投产品非进口产品的；"
+    }
+  },
+  {
+    "req_id": "REQ-516",
+    "title": "11 | 公平竞争 | 供应商遵循公平竞争的原则，不存在",
+    "content": "11 | 公平竞争 | 供应商遵循公平竞争的原则，不存在恶意串通，妨碍其他供应商的竞争行为，不存在损害采购人或者其他供应商的合法权益情形的；",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P516",
+      "quote": "11 | 公平竞争 | 供应商遵循公平竞争的原则，不存在恶意串通，妨碍其他供应商的竞争行为，不存在损害采购人或者其他供应商的合法权益情形的；"
+    }
+  },
+  {
+    "req_id": "REQ-517",
+    "title": "12 | 串通响应 | 不存在视为供应商串通响应的情形：",
+    "content": "12 | 串通响应 | 不存在视为供应商串通响应的情形： 1、不同供应商的响应文件由同一单位或者个人编制； 2、不同供应商委托同一单位或者个人办理响应事宜； 3、不同供应商的响应文件载明的项目管理成员或者联系人员为同一人； 4、不同供应商的响应文件异常一致或者报价呈规律性差异； 5、不同供应商的响应文件相互混装； 6、不同供应商的询价保证金从同一单位或者个人的账户转出；",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P517",
+      "quote": "12 | 串通响应 | 不存在视为供应商串通响应的情形： 1、不同供应商的响应文件由同一单位或者个人编制； 2、不同供应商委托同一单位或者个人办理响应事宜； 3、不同供应商的响应文件载明的项目管理成员或者联系人员为同一人； 4、不同供应商的响应文件异常一致或者报价呈规律性差异； 5、不同供应商的响应文件相互混装； 6、"
+    }
+  },
+  {
+    "req_id": "REQ-518",
+    "title": "13 | 附加条件 | 响应文件未含有采购人不能接受的附",
+    "content": "13 | 附加条件 | 响应文件未含有采购人不能接受的附加条件的；",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P518",
+      "quote": "13 | 附加条件 | 响应文件未含有采购人不能接受的附加条件的；"
+    }
+  },
+  {
+    "req_id": "REQ-519",
+    "title": "14 | 其他无效情形 | 供应商、响应文件不存在不符合",
+    "content": "14 | 其他无效情形 | 供应商、响应文件不存在不符合法律、法规和采购文件规定的其他无效情形。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P519",
+      "quote": "14 | 其他无效情形 | 供应商、响应文件不存在不符合法律、法规和采购文件规定的其他无效情形。"
+    }
+  },
+  {
+    "req_id": "REQ-520",
+    "title": "服务类别 | 服务名称",
+    "content": "服务类别 | 服务名称",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P520",
+      "quote": "服务类别 | 服务名称"
+    }
+  },
+  {
+    "req_id": "REQ-521",
+    "title": "综合服务，科技技术服务 | 极端条件下的高电热应力可靠性",
+    "content": "综合服务，科技技术服务 | 极端条件下的高电热应力可靠性测试",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P521",
+      "quote": "综合服务，科技技术服务 | 极端条件下的高电热应力可靠性测试"
+    }
+  },
+  {
+    "req_id": "REQ-522",
+    "title": "序号 | 名称 | 测试数量 | 技术要求",
+    "content": "序号 | 名称 | 测试数量 | 技术要求",
+    "requirement_type": "technical",
+    "priority": 70,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P522",
+      "quote": "序号 | 名称 | 测试数量 | 技术要求"
+    }
+  },
+  {
+    "req_id": "REQ-523",
+    "title": "1 | ★晶圆级老化-高温反向偏置测试 | 15批次，每",
+    "content": "1 | ★晶圆级老化-高温反向偏置测试 | 15批次，每批次2片 | 指标要求： 栅极电压范围： -10.00V~+20.00V，精度 : +/- 3% +/- 0.5V 漏-源电压范围：0～2000V，精度：+/- 3% +/-10V； 漏-源电流范围：0~100uA；电流精度：+/- 2% +/- 5nA； 测试温度： 温度25℃~180℃可调； 温度精度：±1℃；  温度分辨率：0.2℃；",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P523",
+      "quote": "1 | ★晶圆级老化-高温反向偏置测试 | 15批次，每批次2片 | 指标要求： 栅极电压范围： -10.00V~+20.00V，精度 : +/- 3% +/- 0.5V 漏-源电压范围：0～2000V，精度：+/- 3% +/-10V； 漏-源电流范围：0~100uA；电流精度：+/- 2% +/- 5nA； 测试温"
+    }
+  },
+  {
+    "req_id": "REQ-524",
+    "title": "2 | ★晶圆级老化-高温栅极偏置测试 | 15批次，每",
+    "content": "2 | ★晶圆级老化-高温栅极偏置测试 | 15批次，每批次2片 | 指标要求： 栅极电压范围： -10.00V~+20.00V，精度 : +/- 3% +/- 0.5V 漏-源电流范围：0~100uA；电流精度：+/- 2% +/- 5nA； 测试温度： 温度25℃~180℃可调； 温度精度：±1℃；  温度分辨率：0.2℃；",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P524",
+      "quote": "2 | ★晶圆级老化-高温栅极偏置测试 | 15批次，每批次2片 | 指标要求： 栅极电压范围： -10.00V~+20.00V，精度 : +/- 3% +/- 0.5V 漏-源电流范围：0~100uA；电流精度：+/- 2% +/- 5nA； 测试温度： 温度25℃~180℃可调； 温度精度：±1℃；  温度分辨率："
+    }
+  },
+  {
+    "req_id": "REQ-525",
+    "title": "3 | ★盐雾试验 | 15批次，每批次5只器件 | 指",
+    "content": "3 | ★盐雾试验 | 15批次，每批次5只器件 | 指标要求： PH值范围：6.5~7.2； 喷雾速率范围：1~2 ml/80cm²·h； 测试温度： 温度25℃~100℃可调； 温度精度：±1℃；  温度分辨率：0.2℃； 测试湿度： 湿度20%~98%RH可调； 湿度精度：±1%RH；",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P525",
+      "quote": "3 | ★盐雾试验 | 15批次，每批次5只器件 | 指标要求： PH值范围：6.5~7.2； 喷雾速率范围：1~2 ml/80cm²·h； 测试温度： 温度25℃~100℃可调； 温度精度：±1℃；  温度分辨率：0.2℃； 测试湿度： 湿度20%~98%RH可调； 湿度精度：±1%RH；"
+    }
+  },
+  {
+    "req_id": "REQ-526",
+    "title": "序号 | 名称 | 技术要求",
+    "content": "序号 | 名称 | 技术要求",
+    "requirement_type": "technical",
+    "priority": 70,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P526",
+      "quote": "序号 | 名称 | 技术要求"
+    }
+  },
+  {
+    "req_id": "REQ-527",
+    "title": "1 | ★适用产品 | 6英寸碳化硅晶圆，合计15批，每",
+    "content": "1 | ★适用产品 | 6英寸碳化硅晶圆，合计15批，每批2片，共计30片",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P527",
+      "quote": "1 | ★适用产品 | 6英寸碳化硅晶圆，合计15批，每批2片，共计30片"
+    }
+  },
+  {
+    "req_id": "REQ-528",
+    "title": "2 | ★使用芯片尺寸 | 芯片尺寸≥4mm×4mm  ",
+    "content": "2 | ★使用芯片尺寸 | 芯片尺寸≥4mm×4mm  芯片厚度≥200μm",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P528",
+      "quote": "2 | ★使用芯片尺寸 | 芯片尺寸≥4mm×4mm  芯片厚度≥200μm"
+    }
+  },
+  {
+    "req_id": "REQ-529",
+    "title": "3 | ★定位精度 | 需达到±1 μm以下，确保切割路",
+    "content": "3 | ★定位精度 | 需达到±1 μm以下，确保切割路径与晶圆预设道完全重合，避免因偏移导致芯片边缘崩裂或材料浪费。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P529",
+      "quote": "3 | ★定位精度 | 需达到±1 μm以下，确保切割路径与晶圆预设道完全重合，避免因偏移导致芯片边缘崩裂或材料浪费。"
+    }
+  },
+  {
+    "req_id": "REQ-530",
+    "title": "4 | ★切口质量 | 切割边缘崩边尺寸需小于10 μm",
+    "content": "4 | ★切口质量 | 切割边缘崩边尺寸需小于10 μm，表面粗糙度控制在Ra≤2μm以内，以减少后续研磨工序的损耗。 激光切割需通过超短脉冲技术（如皮秒/飞秒激光）降低热影响区（HAZ）至5μm以下。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P530",
+      "quote": "4 | ★切口质量 | 切割边缘崩边尺寸需小于10 μm，表面粗糙度控制在Ra≤2μm以内，以减少后续研磨工序的损耗。 激光切割需通过超短脉冲技术（如皮秒/飞秒激光）降低热影响区（HAZ）至5μm以下。"
+    }
+  },
+  {
+    "req_id": "REQ-531",
+    "title": "5 | ★切割速度与效率 | 激光隐形切割速度需达到20",
+    "content": "5 | ★切割速度与效率 | 激光隐形切割速度需达到200-300 mm/s，单次切割深度覆盖晶圆厚度的80%以上，减少重复加工次数。 金刚石线切割需实现≥10片/小时 的产能，且线耗比低于0.5 m/片。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P531",
+      "quote": "5 | ★切割速度与效率 | 激光隐形切割速度需达到200-300 mm/s，单次切割深度覆盖晶圆厚度的80%以上，减少重复加工次数。 金刚石线切割需实现≥10片/小时 的产能，且线耗比低于0.5 m/片。"
+    }
+  },
+  {
+    "req_id": "REQ-532",
+    "title": "6 | ★应力与损伤控制 | 激光切割需通过改质层技术（",
+    "content": "6 | ★应力与损伤控制 | 激光切割需通过改质层技术（如冷切割）在晶圆内部形成均匀裂纹，机械裂片应力需≤50MPa，避免隐性裂纹扩展。 刀片切割需控制切削力波动在±10%以内，防止因瞬时载荷过大导致晶圆碎裂。",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P532",
+      "quote": "6 | ★应力与损伤控制 | 激光切割需通过改质层技术（如冷切割）在晶圆内部形成均匀裂纹，机械裂片应力需≤50MPa，避免隐性裂纹扩展。 刀片切割需控制切削力波动在±10%以内，防止因瞬时载荷过大导致晶圆碎裂。"
+    }
+  },
+  {
+    "req_id": "REQ-533",
+    "title": "委托方（盖章）：        签订日期：  年  月 ",
+    "content": "委托方（盖章）：        签订日期：  年  月  日 地址：  开户银行：  账号：  统一社会信用代码：  联系人： 电话： | 受托方（盖章）：        签订日期：年  月  日 地址：  开户银行：  账号：  统一社会信用代码：  联系人： 电话：",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P533",
+      "quote": "委托方（盖章）：        签订日期：  年  月  日 地址：  开户银行：  账号：  统一社会信用代码：  联系人： 电话： | 受托方（盖章）：        签订日期：年  月  日 地址：  开户银行：  账号：  统一社会信用代码：  联系人： 电话："
+    }
+  },
+  {
+    "req_id": "REQ-534",
+    "title": "序号 | 单位名称 | 相互关系",
+    "content": "序号 | 单位名称 | 相互关系",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P534",
+      "quote": "序号 | 单位名称 | 相互关系"
+    }
+  },
+  {
+    "req_id": "REQ-535",
+    "title": "序号 | 标的名称 | 含税报价（元） | 备注/说明",
+    "content": "序号 | 标的名称 | 含税报价（元） | 备注/说明",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P535",
+      "quote": "序号 | 标的名称 | 含税报价（元） | 备注/说明"
+    }
+  },
+  {
+    "req_id": "REQ-536",
+    "title": "序号 | 分项名称 | 数量 | 税率 | 含税单价 |",
+    "content": "序号 | 分项名称 | 数量 | 税率 | 含税单价 | 含税合价 | 备注/说明",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P536",
+      "quote": "序号 | 分项名称 | 数量 | 税率 | 含税单价 | 含税合价 | 备注/说明"
+    }
+  },
+  {
+    "req_id": "REQ-537",
+    "title": "1 | 晶圆级老化 （含栅偏和反偏） | 15批次 | ",
+    "content": "1 | 晶圆级老化 （含栅偏和反偏） | 15批次 | 每批2片",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P537",
+      "quote": "1 | 晶圆级老化 （含栅偏和反偏） | 15批次 | 每批2片"
+    }
+  },
+  {
+    "req_id": "REQ-538",
+    "title": "2 | 盐雾试验 | 15批次 | 每批5只器件",
+    "content": "2 | 盐雾试验 | 15批次 | 每批5只器件",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P538",
+      "quote": "2 | 盐雾试验 | 15批次 | 每批5只器件"
+    }
+  },
+  {
+    "req_id": "REQ-539",
+    "title": "3 | 6寸晶圆切割 | 15批次 | 每批2片",
+    "content": "3 | 6寸晶圆切割 | 15批次 | 每批2片",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P539",
+      "quote": "3 | 6寸晶圆切割 | 15批次 | 每批2片"
+    }
+  },
+  {
+    "req_id": "REQ-540",
+    "title": "总价 | 总价 | 总价 | 总价 | 总价 | /",
+    "content": "总价 | 总价 | 总价 | 总价 | 总价 | /",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P540",
+      "quote": "总价 | 总价 | 总价 | 总价 | 总价 | /"
+    }
+  },
+  {
+    "req_id": "REQ-541",
+    "title": "对本项目合同条款的偏离情况（请进行选择）： ☐无偏离（如",
+    "content": "对本项目合同条款的偏离情况（请进行选择）： ☐无偏离（如无偏离，仅选择无偏离即可） ☐有偏离（如有偏离，则应在本表中对偏离项逐一列明） | 对本项目合同条款的偏离情况（请进行选择）： ☐无偏离（如无偏离，仅选择无偏离即可） ☐有偏离（如有偏离，则应在本表中对偏离项逐一列明） | 对本项目合同条款的偏离情况（请进行选择）： ☐无偏离（如无偏离，仅选择无偏离即可） ☐有偏离（如有偏离，则应在本表中对偏离项逐一列明） | 对本项目合同条款的偏离情况（请进行选择）： ☐无偏离（如无偏离，仅选择无偏离即可） ☐有偏离（如有偏离，则应在本表中对偏离项逐一列明） | 对本项目合同条款的偏离情况（请进行选择）： ☐无偏离（如无偏离，仅选择无偏离即可） ☐有偏离（如有偏离，则应在本表中对偏离项逐一列明） | 对本项目合同条款的偏离情况（请进行选择）： ☐无偏离（如无偏离，仅选择无偏离即可） ☐有偏离（如有偏离，则应在本表中对偏离项逐一列明）",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P541",
+      "quote": "对本项目合同条款的偏离情况（请进行选择）： ☐无偏离（如无偏离，仅选择无偏离即可） ☐有偏离（如有偏离，则应在本表中对偏离项逐一列明） | 对本项目合同条款的偏离情况（请进行选择）： ☐无偏离（如无偏离，仅选择无偏离即可） ☐有偏离（如有偏离，则应在本表中对偏离项逐一列明） | 对本项目合同条款的偏离情况（请进行选择）"
+    }
+  },
+  {
+    "req_id": "REQ-542",
+    "title": "序号 | 采购文件条目号（页码） | 采购文件要求 | ",
+    "content": "序号 | 采购文件条目号（页码） | 采购文件要求 | 响应文件内容 | 偏离情况 （据实填写） | 说明",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P542",
+      "quote": "序号 | 采购文件条目号（页码） | 采购文件要求 | 响应文件内容 | 偏离情况 （据实填写） | 说明"
+    }
+  },
+  {
+    "req_id": "REQ-543",
+    "title": "序号 | 采购文件条目号(页码) | 采购文件要求 | ",
+    "content": "序号 | 采购文件条目号(页码) | 采购文件要求 | 响应内容 | 偏离情况 （据实填写） | 说明",
+    "requirement_type": "other",
+    "priority": 85,
+    "mandatory": true,
+    "source": {
+      "paragraph_id": "P543",
+      "quote": "序号 | 采购文件条目号(页码) | 采购文件要求 | 响应内容 | 偏离情况 （据实填写） | 说明"
+    }
+  },
+  {
+    "req_id": "REQ-544",
+    "title": "序号 | 标的名称 | 含税报价（元） | 备注/说明",
+    "content": "序号 | 标的名称 | 含税报价（元） | 备注/说明",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P544",
+      "quote": "序号 | 标的名称 | 含税报价（元） | 备注/说明"
+    }
+  },
+  {
+    "req_id": "REQ-545",
+    "title": "序号 | 分项名称 | 数量 | 税率 | 含税单价 |",
+    "content": "序号 | 分项名称 | 数量 | 税率 | 含税单价 | 含税合价 | 备注/说明",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P545",
+      "quote": "序号 | 分项名称 | 数量 | 税率 | 含税单价 | 含税合价 | 备注/说明"
+    }
+  },
+  {
+    "req_id": "REQ-546",
+    "title": "1 | 晶圆级老化 （含栅偏和反偏） | 15批次 | ",
+    "content": "1 | 晶圆级老化 （含栅偏和反偏） | 15批次 | 每批2片",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P546",
+      "quote": "1 | 晶圆级老化 （含栅偏和反偏） | 15批次 | 每批2片"
+    }
+  },
+  {
+    "req_id": "REQ-547",
+    "title": "2 | 盐雾试验 | 15批次 | 每批5只器件",
+    "content": "2 | 盐雾试验 | 15批次 | 每批5只器件",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P547",
+      "quote": "2 | 盐雾试验 | 15批次 | 每批5只器件"
+    }
+  },
+  {
+    "req_id": "REQ-548",
+    "title": "3 | 6寸晶圆切割 | 15批次 | 每批2片",
+    "content": "3 | 6寸晶圆切割 | 15批次 | 每批2片",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P548",
+      "quote": "3 | 6寸晶圆切割 | 15批次 | 每批2片"
+    }
+  },
+  {
+    "req_id": "REQ-549",
+    "title": "总价 | 总价 | 总价 | 总价 | 总价 | /",
+    "content": "总价 | 总价 | 总价 | 总价 | 总价 | /",
+    "requirement_type": "other",
+    "priority": 50,
+    "mandatory": false,
+    "source": {
+      "paragraph_id": "P549",
+      "quote": "总价 | 总价 | 总价 | 总价 | 总价 | /"
     }
   }
 ]

@@ -50,6 +50,38 @@ class ChapterDraft(BaseModel):
     evidence_ids: List[str] = Field(default_factory=list)
 
 
+class DraftSection(BaseModel):
+    section_id: str
+    title: str
+    display_title: str
+    content_md: str
+    content_text: str
+    blocks: List["DraftBlock"] = Field(default_factory=list)
+    related_requirements: List[str] = Field(default_factory=list)
+    evidence_ids: List[str] = Field(default_factory=list)
+
+
+class DraftBlock(BaseModel):
+    block_type: str
+    level: Optional[int] = None
+    number: Optional[str] = None
+    text: str = ""
+    items: List[str] = Field(default_factory=list)
+    rows: List[List[str]] = Field(default_factory=list)
+
+
+class DraftDocument(BaseModel):
+    project_name: str = ""
+    project_number: str = ""
+    purchaser: str = ""
+    agency: str = ""
+    bidder_name: str = ""
+    tender_path: str = ""
+    generated_at: str = ""
+    sections: List[DraftSection] = Field(default_factory=list)
+    notes: List[str] = Field(default_factory=list)
+
+
 class ResponseMatrixRow(BaseModel):
     req_id: str
     requirement_summary: str

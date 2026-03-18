@@ -15,12 +15,30 @@ class TenderDocumentReader:
         if suffix == ".txt" or suffix == ".md":
             return path.read_text(encoding="utf-8", errors="ignore")
         if suffix == ".docx":
-            doc = Document(path)
-            return "\n".join(p.text for p in doc.paragraphs if p.text.strip())
+            return TenderDocumentReader._read_docx(path)
         if suffix == ".pdf":
             reader = PdfReader(str(path))
             return "\n".join(page.extract_text() or "" for page in reader.pages)
         raise ValueError(f"暂不支持的文件类型: {suffix}")
+
+    @staticmethod
+    def _read_docx(path: Path) -> str:
+        doc = Document(path)
+        blocks: list[str] = []
+
+        for paragraph in doc.paragraphs:
+            text = paragraph.text.strip()
+            if text:
+                blocks.append(text)
+
+        for table in doc.tables:
+            for row in table.rows:
+                cells = [cell.text.strip().replace("\n", " ") for cell in row.cells]
+                cells = [cell for cell in cells if cell]
+                if cells:
+                    blocks.append(" | ".join(cells))
+
+        return "\n".join(blocks)
 
 
 class ParserAgent:
@@ -88,3 +106,15 @@ class ParserAgent:
                 )
             )
         return rows
+
+    def extract_metadata(self, text: str) -> dict:
+        def search(pattern: str) -> str:
+            match = re.search(pattern, text, re.MULTILINE)
+            return match.group(1).strip() if match else ""
+
+        return {
+            "project_name": search(r"项目名称[：:\s]+([^\n]+)"),
+            "project_number": search(r"项目编号/包号[：:\s]+([^\n]+)"),
+            "purchaser": search(r"采\s*购\s*人[：:\s]+([^\n]+)"),
+            "agency": search(r"采购代理机构[：:\s]+([^\n]+)"),
+        }

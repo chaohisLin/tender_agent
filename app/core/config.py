@@ -17,6 +17,9 @@ class Settings(BaseModel):
     temperature: float = 0.2
     knowledge_base_dir: Path = Path("./data/demo_kb")
     output_dir: Path = Path("./data/output")
+    max_requirements_per_section: int = 8
+    max_evidences_per_section: int = 2
+    evidence_snippet_chars: int = 120
 
 
 def get_settings() -> Settings:
@@ -29,4 +32,7 @@ def get_settings() -> Settings:
         temperature=float(os.getenv("TEMPERATURE", "0.2")),
         knowledge_base_dir=Path(os.getenv("KNOWLEDGE_BASE_DIR", "./data/demo_kb")),
         output_dir=Path(os.getenv("OUTPUT_DIR", "./data/output")),
+        max_requirements_per_section=int(os.getenv("MAX_REQUIREMENTS_PER_SECTION", "8")),
+        max_evidences_per_section=int(os.getenv("MAX_EVIDENCES_PER_SECTION", "2")),
+        evidence_snippet_chars=int(os.getenv("EVIDENCE_SNIPPET_CHARS", "120")),
     )
